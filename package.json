@@ -1,0 +1,14 @@
+{
+  "name": "HLTV_Match_Results",
+  "version": "0.0.0",
+  "description": "Compiles recent pro matches into a csv file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thomas Giulianelli",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "hltv": "^2.7.0"
+  }
+}
