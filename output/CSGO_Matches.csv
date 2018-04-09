@@ -1,9 +1,9 @@
-Astralis,16 - 7,mousesports
-Astralis,16 - 7,mousesports
-mousesports,16 - 14,Astralis
-HellRaisers,2 - 1,North
-Gambit,9 - 16,Virtus.pro
-Virtus.pro,9 - 16,Gambit
-fnatic,16 - 11,Virtus.pro
-North,0 - 2,HellRaisers
-Virtus.pro,4 - 16,fnatic
+Team,Team Score,Opponent,Opponent Score
+Astralis,16,mousesports,7
+mousesports,16,Astralis,14
+HellRaisers,2,North,1
+Gambit,9,Virtus.pro,16
+Virtus.pro,9,Gambit,16
+fnatic,16,Virtus.pro,11
+North,0,HellRaisers,2
+Virtus.pro,4,fnatic,16
