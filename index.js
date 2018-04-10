@@ -9,7 +9,7 @@ const { HLTV } = require('hltv')
 var fs = require("fs");
 
 console.log('Fetching match results...');
-HLTV.getResults({pages: 100}).then((res) => {
+HLTV.getResults({pages: 150}).then((res) => {
 	writeCSV(res);
 })
 
@@ -31,8 +31,11 @@ writeCSV = function(stats){
 			var score1 = resultArray[0];
 			var score2 = resultArray[1];
 			
-			/* Append new record to file */
-			csvWriter.write("\n" + matchData.team1.name + "," + score1 + "," + matchData.team2.name + "," + score2);
+			/* Exclude Best of 3 and Best of 5 scores. 16 is the minimum required score to win a match */
+			if ((parseInt(score1) + parseInt(score2)) >= 16) {
+				/* Append new record to file */
+				csvWriter.write("\n" + matchData.team1.name + "," + score1 + "," + matchData.team2.name + "," + score2);
+			}
 		}
 	}
 	csvWriter.end(); //close file
