@@ -9,7 +9,7 @@ const { HLTV } = require('hltv')
 var fs = require("fs");
 
 console.log('Fetching match results...');
-HLTV.getResults({pages: 1}).then((res) => {
+HLTV.getResults({pages: 100}).then((res) => {
 	writeCSV(res);
 })
 

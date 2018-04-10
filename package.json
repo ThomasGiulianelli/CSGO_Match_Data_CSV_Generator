@@ -9,6 +9,6 @@
   "author": "Thomas Giulianelli",
   "license": "BSD-2-Clause",
   "dependencies": {
-    "hltv": "^2.7.0"
+    "hltv": "^2.7.1"
   }
 }
