@@ -37,7 +37,7 @@ writeCSV = function(stats){
 			score1Int = parseInt(score1);
 			score2Int = parseInt(score2);
 			
-			/* Exclude Best of 3 and Best of 5 scores. 16 is the minimum required score to win a match */
+			/* Exclude Best of 3 and Best of 5 scores. 16 is the minimum required score to win a Best of 1 */
 			if (score1Int + score2Int >= 16) {
 				/* determine if the team won or lost against their opponent */
 				if (score1Int > score2Int) {
@@ -47,8 +47,8 @@ writeCSV = function(stats){
 				
 				/* Append new record to file */
 				csvWriter.write("\n" + matchData.team1.name + "," + score1 + "," + matchData.team2.name + "," + score2);
-				csvWriter2.write("\n" + matchData.team1.name + "," + score1 + "," + matchData.team2.name + "," + score2 + "," + 
-				matchData.map + "," + result);
+				csvWriter2.write("\n" + matchData.team1.name + "," + score1 + "," + matchData.team2.name + "," + score2 +  
+				"," + matchData.map + "," + result);
 			}
 		}
 	}
