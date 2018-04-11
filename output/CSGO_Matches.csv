@@ -1,4 +1,18 @@
 Team,Team Score,Opponent,Opponent Score
+Renegades,19,NRG,17
+NRG,5,Renegades,16
+Gambit,10,G2,16
+G2,16,Gambit,6
+mousesports,16,Natus Vincere,11
+fnatic,8,Heroic,16
+Virtus.pro,16,G2,10
+Natus Vincere,16,mousesports,5
+Heroic,5,fnatic,16
+G2,16,Virtus.pro,2
+HellRaisers,12,FaZe,16
+Astralis,16,Space Soldiers,4
+Space Soldiers,14,Astralis,16
+FaZe,16,HellRaisers,7
 Astralis,16,mousesports,7
 mousesports,16,Astralis,14
 Gambit,9,Virtus.pro,16
