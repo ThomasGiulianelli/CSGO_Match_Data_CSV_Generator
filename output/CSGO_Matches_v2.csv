@@ -1,0 +1,49 @@
+Team,Team Score,Opponent,Opponent Score,Map,Map WinRate,Team Ranking (points),Opponent Ranking (points)
+compLexity,10,Heroic,16,nuke,40.7,123,117
+LDLC,6,Heroic,16,trn,52.2,158,117
+Liquid,12,North,16,nuke,39.2,455,280
+NRG,6,NiP,16,nuke,59.5,306,352
+mousesports,7,MIBR,16,mrg,61.8,341,424
+MIBR,16,compLexity,12,inf,70,424,123
+compLexity,5,MIBR,16,mrg,55.3,123,424
+Natus Vincere,17,BIG,19,inf,53.9,558,221
+NiP,16,mousesports,14,mrg,55.7,352,341
+HellRaisers,16,G2,5,inf,54.6,129,67
+FaZe,6,Heroic,16,trn,57.5,451,117
+G2,18,HellRaisers,22,cch,56.2,67,129
+mousesports,16,NiP,14,nuke,57,341,352
+BIG,16,Natus Vincere,5,cch,54.8,221,558
+Heroic,16,FaZe,3,mrg,55,117,451
+LDLC,9,G2,16,nuke,55,158,67
+FaZe,12,mousesports,16,d2,undefined,451,341
+mousesports,16,FaZe,4,mrg,61.8,341,451
+G2,10,LDLC,16,mrg,47.8,67,158
+NiP,14,fnatic,16,ovp,57,352,183
+OpTic,16,LDLC,10,nuke,60.9,156,158
+fnatic,13,NiP,16,inf,67.2,183,352
+LDLC,16,OpTic,10,ovp,63,158,156
+compLexity,10,Liquid,16,mrg,55.3,123,455
+Liquid,10,compLexity,16,inf,63.4,455,123
+LDLC,7,NiP,16,nuke,55,158,352
+NiP,16,LDLC,10,mrg,55.7,352,158
+Heroic,14,HellRaisers,16,mrg,55,117,129
+HellRaisers,14,Heroic,16,inf,54.6,129,117
+Renegades,16,compLexity,14,d2,undefined,109,123
+compLexity,8,Renegades,16,cch,50,123,109
+G2,11,NiP,16,cch,56.2,67,352
+NiP,13,G2,16,ovp,57,352,67
+MIBR,16,compLexity,11,inf,70,424,123
+compLexity,13,MIBR,16,mrg,55.3,123,424
+mousesports,16,AVANGAR,5,trn,54.4,341,102
+MIBR,16,Renegades,12,inf,70,424,109
+NRG,10,North,16,cch,45.7,306,280
+Natus Vincere,16,NiP,10,inf,53.9,558,352
+FaZe,16,MIBR,7,cch,54.6,451,424
+Natus Vincere,16,MIBR,14,ovp,64.3,558,424
+FaZe,7,Astralis,16,ovp,61.2,451,1000
+Natus Vincere,16,Astralis,9,ovp,64.3,558,1000
+NiP,16,MIBR,4,trn,68.3,352,424
+Astralis,14,NiP,16,ovp,66.7,1000,352
+FaZe,16,Natus Vincere,8,ovp,61.2,451,558
+MIBR,14,Astralis,16,inf,70,424,1000
+FaZe,15,NiP,15,mrg,62.8,451,352
