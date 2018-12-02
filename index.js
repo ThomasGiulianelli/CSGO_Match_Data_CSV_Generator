@@ -35,7 +35,7 @@ HLTV.getTeamRanking().then(res => {
 		
 				/* Gets past match results. 
 				 * Num pages should be at least 15 to allow the getTeamStats promises to complete.*/
-				HLTV.getResults({pages: 10}).then((res) => {
+				HLTV.getResults({pages: 500}).then((res) => {
 					writeCSV(res);
 				})
 			}
@@ -123,7 +123,7 @@ writeCSV = function(stats){
 				
 				/* Get winrate statistic for the relevant map */
 				try { var winRate = teamStats[team1_id][map]; }
-				catch(err) {var winRate = ""; console.log("failed to get winrate");}
+				catch(err) {var winRate = ""; console.log("failed to get winrate: team " + team1_id + ", map " + map);}
 				
 				/* Get the teams' rankings in points (1000pts = max ranking) */
 				for (var j = 0; j < teamRankings.length; j++) {
