@@ -1,2083 +1,2085 @@
 Team,Team Score,Opponent,Opponent Score,Map,Map WinRate,Team Ranking (points),Opponent Ranking (points)
-compLexity,10,Heroic,16,nuke,40,123,117
-LDLC,6,Heroic,16,trn,52.2,158,117
-Liquid,12,North,16,nuke,39.2,455,280
-NRG,6,NiP,16,nuke,59.5,306,352
-mousesports,7,MIBR,16,mrg,61.8,341,424
-MIBR,16,compLexity,12,inf,70,424,123
-compLexity,5,MIBR,16,mrg,55.3,123,424
-Natus Vincere,17,BIG,19,inf,53.9,558,221
-NiP,16,mousesports,14,mrg,55.7,352,341
-HellRaisers,16,G2,5,inf,54.8,129,67
-FaZe,6,Heroic,16,trn,57.5,451,117
-G2,18,HellRaisers,22,cch,56.2,67,129
-mousesports,16,NiP,14,nuke,57,341,352
-BIG,16,Natus Vincere,5,cch,54.8,221,558
-Heroic,16,FaZe,3,mrg,55,117,451
-LDLC,9,G2,16,nuke,54.6,158,67
-FaZe,12,mousesports,16,d2,undefined,451,341
-mousesports,16,FaZe,4,mrg,61.8,341,451
-G2,10,LDLC,16,mrg,47.3,67,158
-NiP,14,fnatic,16,ovp,57,352,183
-OpTic,16,LDLC,10,nuke,61.5,156,158
-fnatic,13,NiP,16,inf,67.2,183,352
-LDLC,16,OpTic,10,ovp,63,158,156
-compLexity,10,Liquid,16,mrg,55.3,123,455
-Liquid,10,compLexity,16,inf,63.6,455,123
-LDLC,7,NiP,16,nuke,54.6,158,352
-NiP,16,LDLC,10,mrg,55.7,352,158
-Heroic,14,HellRaisers,16,mrg,55,117,129
-HellRaisers,14,Heroic,16,inf,54.8,129,117
-Renegades,16,compLexity,14,d2,undefined,109,123
-compLexity,8,Renegades,16,cch,50,123,109
-G2,11,NiP,16,cch,56.2,67,352
-NiP,13,G2,16,ovp,57,352,67
-MIBR,16,compLexity,11,inf,70,424,123
-compLexity,13,MIBR,16,mrg,55.3,123,424
-mousesports,16,AVANGAR,5,trn,54.4,341,102
-MIBR,16,Renegades,12,inf,70,424,109
-NRG,10,North,16,cch,45.7,306,280
-Natus Vincere,16,NiP,10,inf,53.9,558,352
-FaZe,16,MIBR,7,cch,54.6,451,424
-Natus Vincere,16,MIBR,14,ovp,64.3,558,424
-FaZe,7,Astralis,16,ovp,61.2,451,1000
-Natus Vincere,16,Astralis,9,ovp,64.3,558,1000
-NiP,16,MIBR,4,trn,68.3,352,424
-Astralis,14,NiP,16,ovp,66.7,1000,352
-FaZe,16,Natus Vincere,8,ovp,61.2,451,558
-MIBR,14,Astralis,16,inf,70,424,1000
-FaZe,15,NiP,15,mrg,62.8,451,352
-FaZe,16,North,5,mrg,62.8,451,280
-North,8,FaZe,16,d2,undefined,280,451
-Astralis,16,North,13,ovp,66.7,1000,280
-FaZe,4,NiP,16,inf,62.3,451,352
-North,19,Astralis,17,inf,57.6,280,1000
-NiP,11,FaZe,16,trn,68.3,352,451
-FaZe,11,NiP,16,ovp,61.2,451,352
-NiP,16,FaZe,11,mrg,55.7,352,451
-HellRaisers,8,Natus Vincere,16,ovp,55.9,129,558
-Natus Vincere,14,HellRaisers,16,inf,53.9,558,129
-mousesports,7,North,16,nuke,57,341,280
-North,6,mousesports,16,inf,57.6,280,341
-NiP,11,HellRaisers,16,mrg,55.7,352,129
-HellRaisers,7,NiP,16,inf,54.8,129,352
-mousesports,16,North,6,mrg,61.8,341,280
-North,16,mousesports,12,inf,57.6,280,341
-Astralis,16,mousesports,10,nuke,75.7,1000,341
-mousesports,5,Astralis,16,mrg,61.8,341,1000
-OpTic,9,Astralis,16,trn,52.1,156,1000
-Astralis,16,OpTic,6,nuke,75.7,1000,156
-G2,9,FaZe,16,inf,51.2,67,451
-FaZe,13,G2,16,ovp,61.2,451,67
-compLexity,16,NRG,5,mrg,55.3,123,306
-NRG,12,compLexity,16,nuke,59.5,306,123
-mousesports,16,Heroic,3,nuke,57,341,117
-G2,16,BIG,11,cch,56.2,67,221
-Heroic,13,mousesports,16,trn,49.6,117,341
-BIG,16,G2,6,d2,undefined,221,67
-FaZe,13,mousesports,16,mrg,62.8,451,341
-OpTic,12,North,16,inf,58.7,156,280
-mousesports,13,FaZe,16,inf,49.1,341,451
-North,16,OpTic,12,trn,59.6,280,156
-Heroic,6,Natus Vincere,16,trn,49.6,117,558
-Natus Vincere,16,Heroic,9,d2,undefined,558,117
-MIBR,16,NRG,13,trn,70,424,306
-NRG,14,MIBR,16,mrg,60.5,306,424
-Liquid,9,MIBR,16,d2,undefined,455,424
-MIBR,16,Liquid,1,inf,70,424,455
-Heroic,10,BIG,16,trn,49.6,117,221
-BIG,11,Heroic,16,d2,undefined,221,117
-G2,2,Astralis,16,inf,51.2,67,1000
+NRG,16,North,13,trn,54.3,367,226
+Renegades,5,HellRaisers,16,mrg,52.4,105,161
+compLexity,10,Heroic,16,nuke,40,128,110
+LDLC,6,Heroic,16,trn,52.2,139,110
+Liquid,12,North,16,nuke,39.6,510,226
+NRG,6,NiP,16,nuke,59.5,367,354
+mousesports,7,MIBR,16,mrg,61.8,305,410
+MIBR,16,compLexity,12,inf,69.7,410,128
+compLexity,5,MIBR,16,mrg,55.3,128,410
+Natus Vincere,17,BIG,19,inf,53.7,569,262
+NiP,16,mousesports,14,mrg,55.7,354,305
+HellRaisers,16,G2,5,inf,54.8,161,67
+FaZe,6,Heroic,16,trn,57.5,444,110
+G2,18,HellRaisers,22,cch,55.9,67,161
+mousesports,16,NiP,14,nuke,57.4,305,354
+BIG,16,Natus Vincere,5,cch,54,262,569
+Heroic,16,FaZe,3,mrg,55,110,444
+LDLC,9,G2,16,nuke,55,139,67
+FaZe,12,mousesports,16,d2,54.3,444,305
+mousesports,16,FaZe,4,mrg,61.8,305,444
+G2,10,LDLC,16,mrg,46.8,67,139
+NiP,14,fnatic,16,ovp,57,354,197
+OpTic,16,LDLC,10,nuke,62.1,151,139
+fnatic,13,NiP,16,inf,67.2,197,354
+LDLC,16,OpTic,10,ovp,63.3,139,151
+compLexity,10,Liquid,16,mrg,55.3,128,510
+Liquid,10,compLexity,16,inf,63.7,510,128
+LDLC,7,NiP,16,nuke,55,139,354
+NiP,16,LDLC,10,mrg,55.7,354,139
+Heroic,14,HellRaisers,16,mrg,55,110,161
+HellRaisers,14,Heroic,16,inf,54.8,161,110
+Renegades,16,compLexity,14,d2,60.4,105,128
+compLexity,8,Renegades,16,cch,50,128,105
+G2,11,NiP,16,cch,55.9,67,354
+NiP,13,G2,16,ovp,57,354,67
+MIBR,16,compLexity,11,inf,69.7,410,128
+compLexity,13,MIBR,16,mrg,55.3,128,410
+mousesports,16,AVANGAR,5,trn,54.6,305,96
+MIBR,16,Renegades,12,inf,69.7,410,105
+NRG,10,North,16,cch,45.1,367,226
+Natus Vincere,16,NiP,10,inf,53.7,569,354
+FaZe,16,MIBR,7,cch,54.6,444,410
+Natus Vincere,16,MIBR,14,ovp,64.3,569,410
+FaZe,7,Astralis,16,ovp,61.2,444,1000
+Natus Vincere,16,Astralis,9,ovp,64.3,569,1000
+NiP,16,MIBR,4,trn,68.3,354,410
+Astralis,14,NiP,16,ovp,66.7,1000,354
+FaZe,16,Natus Vincere,8,ovp,61.2,444,569
+MIBR,14,Astralis,16,inf,69.7,410,1000
+FaZe,15,NiP,15,mrg,62.8,444,354
+FaZe,16,North,5,mrg,62.8,444,226
+North,8,FaZe,16,d2,57.9,226,444
+Astralis,16,North,13,ovp,66.7,1000,226
+FaZe,4,NiP,16,inf,62.3,444,354
+North,19,Astralis,17,inf,57,226,1000
+NiP,11,FaZe,16,trn,68.3,354,444
+FaZe,11,NiP,16,ovp,61.2,444,354
+NiP,16,FaZe,11,mrg,55.7,354,444
+HellRaisers,8,Natus Vincere,16,ovp,55.6,161,569
+Natus Vincere,14,HellRaisers,16,inf,53.7,569,161
+mousesports,7,North,16,nuke,57.4,305,226
+North,6,mousesports,16,inf,57,226,305
+NiP,11,HellRaisers,16,mrg,55.7,354,161
+HellRaisers,7,NiP,16,inf,54.8,161,354
+mousesports,16,North,6,mrg,61.8,305,226
+North,16,mousesports,12,inf,57,226,305
+Astralis,16,mousesports,10,nuke,76,1000,305
+mousesports,5,Astralis,16,mrg,61.8,305,1000
+OpTic,9,Astralis,16,trn,52.1,151,1000
+Astralis,16,OpTic,6,nuke,76,1000,151
+G2,9,FaZe,16,inf,50.8,67,444
+FaZe,13,G2,16,ovp,61.2,444,67
+compLexity,16,NRG,5,mrg,55.3,128,367
+NRG,12,compLexity,16,nuke,59.5,367,128
+mousesports,16,Heroic,3,nuke,57.4,305,110
+G2,16,BIG,11,cch,55.9,67,262
+Heroic,13,mousesports,16,trn,49.6,110,305
+BIG,16,G2,6,d2,69.7,262,67
+FaZe,13,mousesports,16,mrg,62.8,444,305
+OpTic,12,North,16,inf,59.1,151,226
+mousesports,13,FaZe,16,inf,48.8,305,444
+North,16,OpTic,12,trn,58.6,226,151
+Heroic,6,Natus Vincere,16,trn,49.6,110,569
+Natus Vincere,16,Heroic,9,d2,58.2,569,110
+MIBR,16,NRG,13,trn,71.4,410,367
+NRG,14,MIBR,16,mrg,59.5,367,410
+Liquid,9,MIBR,16,d2,50.5,510,410
+MIBR,16,Liquid,1,inf,69.7,410,510
+Heroic,10,BIG,16,trn,49.6,110,262
+BIG,11,Heroic,16,d2,69.7,262,110
+G2,2,Astralis,16,inf,50.8,67,1000
 Astralis,16,G2,3,ovp,66.7,1000,67
-North,16,FaZe,14,inf,57.6,280,451
-Natus Vincere,19,Astralis,16,d2,undefined,558,1000
-FaZe,16,North,10,ovp,61.2,451,280
-Astralis,16,Natus Vincere,4,ovp,66.7,1000,558
-Natus Vincere,16,G2,9,ovp,64.3,558,67
-G2,16,Natus Vincere,11,inf,51.2,67,558
-Liquid,16,compLexity,10,cch,66.9,455,123
-compLexity,16,Liquid,2,mrg,55.3,123,455
-MIBR,16,NRG,12,trn,70,424,306
-NRG,12,MIBR,16,mrg,60.5,306,424
-FaZe,9,HellRaisers,16,inf,62.3,451,129
-Astralis,16,Heroic,9,nuke,75.7,1000,117
-HellRaisers,19,FaZe,17,ovp,55.9,129,451
-mousesports,7,NiP,16,d2,undefined,341,352
-Heroic,5,Astralis,16,d2,undefined,117,1000
-NiP,7,mousesports,16,trn,68.3,352,341
-North,13,G2,16,nuke,58.3,280,67
-FaZe,14,Astralis,16,ovp,61.2,451,1000
-G2,8,North,16,inf,51.2,67,280
-Astralis,16,FaZe,12,inf,71.9,1000,451
-mousesports,9,BIG,16,inf,49.1,341,221
-BIG,19,mousesports,16,d2,undefined,221,341
-NiP,9,North,16,nuke,77.2,352,280
-North,9,NiP,16,trn,59.6,280,352
-OpTic,16,mousesports,12,inf,58.7,156,341
-North,19,Natus Vincere,17,trn,59.6,280,558
-mousesports,16,OpTic,12,trn,54.4,341,156
-Natus Vincere,16,North,14,d2,undefined,558,280
-Natus Vincere,16,FaZe,14,ovp,64.3,558,451
-NiP,5,BIG,16,trn,68.3,352,221
-FaZe,14,Natus Vincere,16,inf,62.3,451,558
-BIG,13,NiP,16,cch,54.8,221,352
-Liquid,8,NRG,16,d2,undefined,455,306
-NRG,16,Liquid,2,nuke,59.5,306,455
-FaZe,16,BIG,11,ovp,61.2,451,221
-mousesports,8,Natus Vincere,16,d2,undefined,341,558
-NiP,16,OpTic,11,trn,68.3,352,156
-Natus Vincere,11,mousesports,16,inf,53.9,558,341
-BIG,16,FaZe,9,cch,54.8,221,451
-OpTic,17,NiP,19,mrg,58.7,156,352
-Astralis,16,HellRaisers,10,ovp,66.7,1000,129
-HellRaisers,7,Astralis,16,trn,49,129,1000
-G2,16,NiP,5,inf,51.2,67,352
-NiP,2,G2,16,ovp,57,352,67
-Liquid,15,NRG,19,mrg,56.7,455,306
-NRG,14,Liquid,16,inf,66,306,455
-Natus Vincere,16,NiP,11,inf,53.9,558,352
-Astralis,16,G2,2,mrg,69.7,1000,67
-NiP,13,Natus Vincere,16,mrg,55.7,352,558
-G2,11,Astralis,16,inf,51.2,67,1000
-NiP,16,Astralis,7,trn,68.3,352,1000
-Astralis,16,NiP,4,ovp,66.7,1000,352
-North,16,NiP,8,nuke,58.3,280,352
-NiP,7,North,16,mrg,55.7,352,280
-BIG,19,mousesports,17,trn,53.8,221,341
-TYLOO,10,BIG,16,cch,74.4,88,221
-G2,14,mousesports,16,inf,51.2,67,341
-mousesports,16,G2,4,nuke,57,341,67
-North,16,Gambit,13,trn,59.6,280,60
-mousesports,12,ENCE,16,mrg,61.8,341,149
-BIG,16,compLexity,8,cch,54.8,221,123
-North,12,NRG,16,inf,57.6,280,306
-HellRaisers,11,TYLOO,16,ovp,55.9,129,88
-Gambit,16,compLexity,14,d2,undefined,60,123
-G2,8,North,16,nuke,62.1,67,280
-North,16,G2,4,inf,57.6,280,67
-Vega Squadron,17,NRG,19,inf,47.6,101,306
-ENCE,16,TYLOO,6,inf,45.1,149,88
-Liquid,16,MIBR,14,cch,66.9,455,424
-MIBR,16,Liquid,10,inf,70,424,455
-North,4,Astralis,16,inf,57.6,280,1000
-Astralis,16,North,3,d2,undefined,1000,280
-G2,16,Heroic,6,inf,51.2,67,117
-Astralis,16,mousesports,11,inf,71.9,1000,341
-Heroic,12,G2,16,d2,undefined,117,67
-mousesports,13,Astralis,16,trn,54.4,341,1000
-G2,14,FaZe,16,ovp,50.5,67,451
-FaZe,9,G2,16,inf,62.3,451,67
-FaZe,4,Astralis,16,d2,undefined,451,1000
-G2,8,mousesports,16,inf,51.2,67,341
-Astralis,16,FaZe,7,mrg,69.7,1000,451
-mousesports,16,G2,5,nuke,57,341,67
-compLexity,16,NRG,12,cch,50,123,306
-NRG,16,compLexity,13,nuke,59.5,306,123
-Astralis,13,BIG,16,inf,71.9,1000,221
-BIG,9,Astralis,16,trn,53.8,221,1000
-HellRaisers,16,North,14,ovp,55.9,129,280
-Heroic,10,fnatic,16,d2,undefined,117,183
-NiP,13,Astralis,16,trn,68.3,352,1000
-North,19,HellRaisers,15,trn,59.6,280,129
-fnatic,13,Heroic,16,mrg,61.4,183,117
-Astralis,16,NiP,8,nuke,75.7,1000,352
-mousesports,16,HellRaisers,4,mrg,61.8,341,129
-HellRaisers,9,mousesports,16,inf,54.8,129,341
-North,13,BIG,16,ovp,57.8,280,221
-NiP,11,Heroic,16,nuke,77.2,352,117
-BIG,20,North,22,trn,53.8,221,280
-Heroic,16,NiP,13,mrg,55,117,352
-Heroic,10,North,16,d2,undefined,117,280
-North,16,Heroic,6,trn,59.6,280,117
-HellRaisers,2,BIG,16,d2,undefined,129,221
-BIG,10,HellRaisers,16,cch,54.8,221,129
-Astralis,16,MIBR,7,d2,undefined,1000,424
-NiP,11,Astralis,16,nuke,77.2,352,1000
-NiP,15,MIBR,15,mrg,55.7,352,424
-Kinguin,6,Heroic,16,d2,undefined,65,117
-Astralis,16,MIBR,0,d2,undefined,1000,424
-Natus Vincere,16,fnatic,9,mrg,63,558,183
-TYLOO,4,FaZe,16,mrg,75.4,88,451
-Vega Squadron,11,NiP,16,trn,59,101,352
-BIG,16,HellRaisers,9,trn,53.8,221,129
-FaZe,16,mousesports,8,mrg,62.8,451,341
-Astralis,15,Liquid,19,inf,71.9,1000,455
-G2,4,MIBR,16,inf,51.2,67,424
-Natus Vincere,16,NiP,6,trn,65,558,352
-TYLOO,10,HellRaisers,16,ovp,65.8,88,129
-Vega Squadron,14,fnatic,16,inf,47.6,101,183
-mousesports,6,MIBR,16,d2,undefined,341,424
-Natus Vincere,16,FaZe,12,ovp,64.3,558,451
-NiP,10,Liquid,16,mrg,55.7,352,455
-Vega Squadron,4,Astralis,16,inf,47.6,101,1000
-BIG,16,TYLOO,7,trn,53.8,221,88
-Natus Vincere,14,Astralis,16,inf,53.9,558,1000
-mousesports,12,NiP,16,mrg,61.8,341,352
-MIBR,13,TYLOO,16,inf,70,424,88
-FaZe,5,BIG,16,d2,undefined,451,221
-G2,22,HellRaisers,20,d2,undefined,67,129
-BIG,16,Gambit,8,nuke,55,221,60
-HellRaisers,25,OpTic,23,trn,49,129,156
-TYLOO,16,Renegades,10,inf,59,88,109
-North,16,Virtus.pro,6,mrg,60,280,109
-TYLOO,26,OpTic,28,inf,59,88,156
-Gambit,14,HellRaisers,16,ovp,58.1,60,129
-Astralis,26,NiP,28,mrg,69.7,1000,352
-OpTic,16,Virtus.pro,13,mrg,58.7,156,352
-Renegades,10,Gambit,16,trn,52.9,109,60
-Liquid,16,HellRaisers,9,inf,63.6,455,129
-NiP,16,TYLOO,12,trn,68.3,352,88
-Liquid,16,OpTic,4,mrg,56.7,455,156
-North,17,HellRaisers,19,ovp,57.8,280,129
-BIG,16,Renegades,6,ovp,53.5,221,109
-Gambit,17,TYLOO,19,inf,54,60,88
-Virtus.pro,5,NiP,16,mrg,,60,352
-MIBR,16,HellRaisers,11,d2,undefined,424,129
-fnatic,6,OpTic,16,trn,58,183,156
-mousesports,16,Gambit,7,nuke,57,341,60
-NRG,13,NiP,16,trn,53.8,306,352
-North,16,TYLOO,7,inf,57.6,280,88
-OpTic,16,ENCE,13,trn,52.1,156,149
-fnatic,16,North,14,inf,67.2,183,280
-Renegades,13,MIBR,16,cch,61.9,109,424
-mousesports,16,Gambit,8,d2,undefined,341,60
-NiP,3,Cloud9,16,inf,60.3,352,84
-AGO,22,Red Reserve,20,trn,,352,84
-Virtus.pro,16,Gambit,11,trn,,352,60
-NRG,16,FaZe,8,cch,45.7,306,451
-Astralis,16,Liquid,6,inf,71.9,1000,455
-fnatic,14,Liquid,16,cch,62.6,183,455
-Astralis,16,Cloud9,13,inf,71.9,1000,84
-Gambit,8,GODSENT,16,trn,51.8,60,84
-GODSENT,16,AGO,11,ovp,,60,84
-SK,19,NiP,16,inf,,60,352
-Space Soldiers,16,Renegades,7,inf,,60,109
-Cloud9,3,FaZe,16,cch,61.6,84,451
-Virtus.pro,10,NiP,16,mrg,,84,352
-NiP,12,G2,16,inf,60.3,352,67
-G2,16,NiP,10,mrg,47.3,67,352
-Liquid,19,SK,22,inf,63.6,455,352
-SK,16,Liquid,12,trn,,455,455
-GODSENT,13,FaZe,16,cch,,455,451
-FaZe,14,GODSENT,16,mrg,62.8,451,451
-NiP,12,FaZe,16,inf,60.3,352,451
-GODSENT,16,fnatic,14,ovp,,352,183
-Gambit,10,Astralis,16,trn,51.8,60,1000
-FaZe,18,NiP,22,ovp,61.2,451,352
-fnatic,16,GODSENT,14,mrg,61.4,183,352
-Astralis,16,Gambit,6,ovp,66.7,1000,60
-Gambit,19,mousesports,17,trn,51.8,60,341
-mousesports,14,Gambit,16,mrg,61.8,341,60
-mousesports,16,G2,11,inf,49.1,341,67
-G2,16,mousesports,7,cch,56.2,67,341
-NRG,17,Astralis,19,ovp,63.5,306,1000
-Renegades,3,SK,16,cch,61.9,109,1000
-SK,19,Renegades,15,trn,,109,109
-Astralis,11,NiP,16,ovp,66.7,1000,352
-North,11,HellRaisers,16,trn,59.6,280,129
-Envy,13,mousesports,16,ovp,,280,341
-G2,16,Natus Vincere,9,cbl,55.7,67,558
-Space Soldiers,8,FaZe,16,trn,,67,451
-HellRaisers,16,North,19,cbl,56.2,129,280
-GODSENT,16,Virtus.pro,5,trn,,129,280
-Natus Vincere,16,G2,13,mrg,63,558,67
-NiP,16,Astralis,8,mrg,55.7,352,1000
-mousesports,16,Envy,11,cbl,51.1,341,1000
-FaZe,16,Space Soldiers,5,inf,62.3,451,1000
-fnatic,9,G2,16,mrg,61.4,183,67
-G2,16,fnatic,10,ovp,50.5,67,183
-fnatic,13,Natus Vincere,16,cbl,65.2,183,558
-NiP,16,mousesports,9,trn,68.3,352,341
-Natus Vincere,25,fnatic,22,trn,65,558,183
-mousesports,17,NiP,19,inf,49.1,341,352
-Envy,16,Astralis,14,trn,,341,1000
-Astralis,16,Envy,3,inf,71.9,1000,1000
-G2,16,FaZe,11,ovp,50.5,67,451
-FaZe,19,G2,16,mrg,62.8,451,67
-G2,20,Astralis,22,mrg,47.3,67,1000
-Space Soldiers,11,mousesports,16,inf,,67,341
-mousesports,16,Space Soldiers,14,mrg,61.8,341,341
-Astralis,16,G2,10,inf,71.9,1000,67
-Heroic,16,Envy,13,cbl,53.4,117,67
-Envy,14,Heroic,16,trn,,117,117
-Gambit,16,Space Soldiers,7,trn,51.8,60,117
-Astralis,16,Space Soldiers,2,inf,71.9,1000,117
-Liquid,16,Gambit,7,cbl,64,455,60
-Natus Vincere,16,Renegades,4,inf,53.9,558,109
-Cloud9,22,G2,20,mrg,62.4,84,67
-SK,13,NiP,16,trn,,84,352
-Cloud9,19,Renegades,17,mrg,62.4,84,109
-Renegades,9,Cloud9,16,inf,58.6,109,84
-mousesports,16,Virtus.pro,3,inf,49.1,341,84
-Virtus.pro,10,mousesports,16,trn,,341,341
-NiP,16,North,6,inf,60.3,352,280
-North,19,NiP,15,nuke,58.3,280,352
-Renegades,9,Cloud9,16,inf,58.6,109,84
-Cloud9,17,Renegades,19,trn,67.6,84,109
-HellRaisers,8,Space Soldiers,16,inf,54.8,129,109
-Space Soldiers,16,HellRaisers,6,cbl,,129,129
-Astralis,11,Natus Vincere,16,inf,71.9,1000,558
-Natus Vincere,19,Astralis,16,trn,65,558,1000
-Gambit,5,FaZe,16,nuke,54.5,60,451
-FaZe,16,Gambit,2,mrg,62.8,451,60
-G2,10,HellRaisers,16,inf,51.2,67,129
-FaZe,5,fnatic,16,ovp,61.2,451,183
-fnatic,9,FaZe,16,inf,67.2,183,451
-HellRaisers,7,G2,16,mrg,49.5,129,67
-Renegades,19,NRG,17,inf,58.6,109,306
-NRG,5,Renegades,16,trn,53.8,306,109
-Gambit,10,G2,16,mrg,52.5,60,67
-G2,16,Gambit,6,cch,56.2,67,60
-mousesports,16,Natus Vincere,11,nuke,57,341,558
-fnatic,8,Heroic,16,cbl,65.2,183,117
-Virtus.pro,16,G2,10,nuke,,183,67
-Natus Vincere,16,mousesports,5,inf,53.9,558,341
-Heroic,5,fnatic,16,trn,49.6,117,183
-G2,16,Virtus.pro,2,cch,56.2,67,183
-HellRaisers,12,FaZe,16,cch,60,129,451
-Astralis,16,Space Soldiers,4,inf,71.9,1000,451
+North,16,FaZe,14,inf,57,226,444
+Natus Vincere,19,Astralis,16,d2,58.2,569,1000
+FaZe,16,North,10,ovp,61.2,444,226
+Astralis,16,Natus Vincere,4,ovp,66.7,1000,569
+Natus Vincere,16,G2,9,ovp,64.3,569,67
+G2,16,Natus Vincere,11,inf,50.8,67,569
+Liquid,16,compLexity,10,cch,66.9,510,128
+compLexity,16,Liquid,2,mrg,55.3,128,510
+MIBR,16,NRG,12,trn,71.4,410,367
+NRG,12,MIBR,16,mrg,59.5,367,410
+FaZe,9,HellRaisers,16,inf,62.3,444,161
+Astralis,16,Heroic,9,nuke,76,1000,110
+HellRaisers,19,FaZe,17,ovp,55.6,161,444
+mousesports,7,NiP,16,d2,55,305,354
+Heroic,5,Astralis,16,d2,33.3,110,1000
+NiP,7,mousesports,16,trn,68.3,354,305
+North,13,G2,16,nuke,58.3,226,67
+FaZe,14,Astralis,16,ovp,61.2,444,1000
+G2,8,North,16,inf,50.8,67,226
+Astralis,16,FaZe,12,inf,72.5,1000,444
+mousesports,9,BIG,16,inf,48.8,305,262
+BIG,19,mousesports,16,d2,69.7,262,305
+NiP,9,North,16,nuke,77.2,354,226
+North,9,NiP,16,trn,58.6,226,354
+OpTic,16,mousesports,12,inf,59.1,151,305
+North,19,Natus Vincere,17,trn,58.6,226,569
+mousesports,16,OpTic,12,trn,54.6,305,151
+Natus Vincere,16,North,14,d2,58.2,569,226
+Natus Vincere,16,FaZe,14,ovp,64.3,569,444
+NiP,5,BIG,16,trn,68.3,354,262
+FaZe,14,Natus Vincere,16,inf,62.3,444,569
+BIG,13,NiP,16,cch,54,262,354
+Liquid,8,NRG,16,d2,50.5,510,367
+NRG,16,Liquid,2,nuke,59.5,367,510
+FaZe,16,BIG,11,ovp,61.2,444,262
+mousesports,8,Natus Vincere,16,d2,55,305,569
+NiP,16,OpTic,11,trn,68.3,354,151
+Natus Vincere,11,mousesports,16,inf,53.7,569,305
+BIG,16,FaZe,9,cch,54,262,444
+OpTic,17,NiP,19,mrg,59.5,151,354
+Astralis,16,HellRaisers,10,ovp,66.7,1000,161
+HellRaisers,7,Astralis,16,trn,49,161,1000
+G2,16,NiP,5,inf,50.8,67,354
+NiP,2,G2,16,ovp,57,354,67
+Liquid,15,NRG,19,mrg,56.7,510,367
+NRG,14,Liquid,16,inf,66,367,510
+Natus Vincere,16,NiP,11,inf,53.7,569,354
+Astralis,16,G2,2,mrg,69.1,1000,67
+NiP,13,Natus Vincere,16,mrg,55.7,354,569
+G2,11,Astralis,16,inf,50.8,67,1000
+NiP,16,Astralis,7,trn,68.3,354,1000
+Astralis,16,NiP,4,ovp,66.7,1000,354
+North,16,NiP,8,nuke,58.3,226,354
+NiP,7,North,16,mrg,55.7,354,226
+BIG,19,mousesports,17,trn,53.7,262,305
+TYLOO,10,BIG,16,cch,74.4,99,262
+G2,14,mousesports,16,inf,50.8,67,305
+mousesports,16,G2,4,nuke,57.4,305,67
+North,16,Gambit,13,trn,58.6,226,67
+mousesports,12,ENCE,16,mrg,61.8,305,192
+BIG,16,compLexity,8,cch,54,262,128
+North,12,NRG,16,inf,57,226,367
+HellRaisers,11,TYLOO,16,ovp,55.6,161,99
+Gambit,16,compLexity,14,d2,,161,128
+G2,8,North,16,nuke,61.2,67,226
+North,16,G2,4,inf,57,226,67
+Vega Squadron,17,NRG,19,inf,47.6,117,367
+ENCE,16,TYLOO,6,inf,45.1,192,99
+Liquid,16,MIBR,14,cch,66.9,510,410
+MIBR,16,Liquid,10,inf,69.7,410,510
+North,4,Astralis,16,inf,57,226,1000
+Astralis,16,North,3,d2,65.6,1000,226
+G2,16,Heroic,6,inf,50.8,67,110
+Astralis,16,mousesports,11,inf,72.5,1000,305
+Heroic,12,G2,16,d2,33.3,110,67
+mousesports,13,Astralis,16,trn,54.6,305,1000
+G2,14,FaZe,16,ovp,51.8,67,444
+FaZe,9,G2,16,inf,62.3,444,67
+FaZe,4,Astralis,16,d2,54.3,444,1000
+G2,8,mousesports,16,inf,50.8,67,305
+Astralis,16,FaZe,7,mrg,69.1,1000,444
+mousesports,16,G2,5,nuke,57.4,305,67
+compLexity,16,NRG,12,cch,50,128,367
+NRG,16,compLexity,13,nuke,59.5,367,128
+Astralis,13,BIG,16,inf,72.5,1000,262
+BIG,9,Astralis,16,trn,53.7,262,1000
+HellRaisers,16,North,14,ovp,55.6,161,226
+Heroic,10,fnatic,16,d2,33.3,110,197
+NiP,13,Astralis,16,trn,68.3,354,1000
+North,19,HellRaisers,15,trn,58.6,226,161
+fnatic,13,Heroic,16,mrg,61.4,197,110
+Astralis,16,NiP,8,nuke,76,1000,354
+mousesports,16,HellRaisers,4,mrg,61.8,305,161
+HellRaisers,9,mousesports,16,inf,54.8,161,305
+North,13,BIG,16,ovp,57.8,226,262
+NiP,11,Heroic,16,nuke,77.2,354,110
+BIG,20,North,22,trn,53.7,262,226
+Heroic,16,NiP,13,mrg,55,110,354
+Heroic,10,North,16,d2,33.3,110,226
+North,16,Heroic,6,trn,58.6,226,110
+HellRaisers,2,BIG,16,d2,56.3,161,262
+BIG,10,HellRaisers,16,cch,54,262,161
+Astralis,16,MIBR,7,d2,65.6,1000,410
+NiP,11,Astralis,16,nuke,77.2,354,1000
+NiP,15,MIBR,15,mrg,55.7,354,410
+Kinguin,6,Heroic,16,d2,,354,110
+Astralis,16,MIBR,0,d2,65.6,1000,410
+Natus Vincere,16,fnatic,9,mrg,63.3,569,197
+TYLOO,4,FaZe,16,mrg,75.4,99,444
+Vega Squadron,11,NiP,16,trn,59,117,354
+BIG,16,HellRaisers,9,trn,53.7,262,161
+FaZe,16,mousesports,8,mrg,62.8,444,305
+Astralis,15,Liquid,19,inf,72.5,1000,510
+G2,4,MIBR,16,inf,50.8,67,410
+Natus Vincere,16,NiP,6,trn,64.8,569,354
+TYLOO,10,HellRaisers,16,ovp,65.8,99,161
+Vega Squadron,14,fnatic,16,inf,47.6,117,197
+mousesports,6,MIBR,16,d2,55,305,410
+Natus Vincere,16,FaZe,12,ovp,64.3,569,444
+NiP,10,Liquid,16,mrg,55.7,354,510
+Vega Squadron,4,Astralis,16,inf,47.6,117,1000
+BIG,16,TYLOO,7,trn,53.7,262,99
+Natus Vincere,14,Astralis,16,inf,53.7,569,1000
+mousesports,12,NiP,16,mrg,61.8,305,354
+MIBR,13,TYLOO,16,inf,69.7,410,99
+FaZe,5,BIG,16,d2,54.3,444,262
+G2,22,HellRaisers,20,d2,59.8,67,161
+BIG,16,Gambit,8,nuke,55,262,161
+HellRaisers,25,OpTic,23,trn,49,161,151
+TYLOO,16,Renegades,10,inf,59,99,105
+North,16,Virtus.pro,6,mrg,59.3,226,72
+TYLOO,26,OpTic,28,inf,59,99,151
+Gambit,14,HellRaisers,16,ovp,,99,161
+Astralis,26,NiP,28,mrg,69.1,1000,354
+OpTic,16,Virtus.pro,13,mrg,59.5,151,72
+Renegades,10,Gambit,16,trn,53.8,105,72
+Liquid,16,HellRaisers,9,inf,63.7,510,161
+NiP,16,TYLOO,12,trn,68.3,354,99
+Liquid,16,OpTic,4,mrg,56.7,510,151
+North,17,HellRaisers,19,ovp,57.8,226,161
+BIG,16,Renegades,6,ovp,54.2,262,105
+Gambit,17,TYLOO,19,inf,,262,99
+Virtus.pro,5,NiP,16,mrg,60,72,354
+MIBR,16,HellRaisers,11,d2,69.2,410,161
+fnatic,6,OpTic,16,trn,58,197,151
+mousesports,16,Gambit,7,nuke,57.4,305,151
+NRG,13,NiP,16,trn,54.3,367,354
+North,16,TYLOO,7,inf,57,226,99
+OpTic,16,ENCE,13,trn,52.1,151,192
+fnatic,16,North,14,inf,67.2,197,226
+Renegades,13,MIBR,16,cch,62.5,105,410
+mousesports,16,Gambit,8,d2,55,305,410
+NiP,3,Cloud9,16,inf,60.3,354,85
+AGO,22,Red Reserve,20,trn,,354,85
+Virtus.pro,16,Gambit,11,trn,52.1,72,85
+NRG,16,FaZe,8,cch,45.1,367,444
+Astralis,16,Liquid,6,inf,72.5,1000,510
+fnatic,14,Liquid,16,cch,62.6,197,510
+Astralis,16,Cloud9,13,inf,72.5,1000,85
+Gambit,8,GODSENT,16,trn,,1000,85
+GODSENT,16,AGO,11,ovp,,1000,85
+SK,19,NiP,16,inf,,1000,354
+Space Soldiers,16,Renegades,7,inf,,1000,105
+Cloud9,3,FaZe,16,cch,61.6,85,444
+Virtus.pro,10,NiP,16,mrg,60,72,354
+NiP,12,G2,16,inf,60.3,354,67
+G2,16,NiP,10,mrg,46.8,67,354
+Liquid,19,SK,22,inf,63.7,510,354
+SK,16,Liquid,12,trn,,510,510
+GODSENT,13,FaZe,16,cch,,510,444
+FaZe,14,GODSENT,16,mrg,62.8,444,444
+NiP,12,FaZe,16,inf,60.3,354,444
+GODSENT,16,fnatic,14,ovp,,354,197
+Gambit,10,Astralis,16,trn,,354,1000
+FaZe,18,NiP,22,ovp,61.2,444,354
+fnatic,16,GODSENT,14,mrg,61.4,197,354
+Astralis,16,Gambit,6,ovp,66.7,1000,354
+Gambit,19,mousesports,17,trn,,1000,305
+mousesports,14,Gambit,16,mrg,61.8,305,305
+mousesports,16,G2,11,inf,48.8,305,67
+G2,16,mousesports,7,cch,55.9,67,305
+NRG,17,Astralis,19,ovp,62.1,367,1000
+Renegades,3,SK,16,cch,62.5,105,1000
+SK,19,Renegades,15,trn,,105,105
+Astralis,11,NiP,16,ovp,66.7,1000,354
+North,11,HellRaisers,16,trn,58.6,226,161
+Envy,13,mousesports,16,ovp,,226,305
+G2,16,Natus Vincere,9,cbl,55.7,67,569
+Space Soldiers,8,FaZe,16,trn,,67,444
+HellRaisers,16,North,19,cbl,56.2,161,226
+GODSENT,16,Virtus.pro,5,trn,,161,72
+Natus Vincere,16,G2,13,mrg,63.3,569,67
+NiP,16,Astralis,8,mrg,55.7,354,1000
+mousesports,16,Envy,11,cbl,51.1,305,1000
+FaZe,16,Space Soldiers,5,inf,62.3,444,1000
+fnatic,9,G2,16,mrg,61.4,197,67
+G2,16,fnatic,10,ovp,51.8,67,197
+fnatic,13,Natus Vincere,16,cbl,65.2,197,569
+NiP,16,mousesports,9,trn,68.3,354,305
+Natus Vincere,25,fnatic,22,trn,64.8,569,197
+mousesports,17,NiP,19,inf,48.8,305,354
+Envy,16,Astralis,14,trn,,305,1000
+Astralis,16,Envy,3,inf,72.5,1000,1000
+G2,16,FaZe,11,ovp,51.8,67,444
+FaZe,19,G2,16,mrg,62.8,444,67
+G2,20,Astralis,22,mrg,46.8,67,1000
+Space Soldiers,11,mousesports,16,inf,,67,305
+mousesports,16,Space Soldiers,14,mrg,61.8,305,305
+Astralis,16,G2,10,inf,72.5,1000,67
+Heroic,16,Envy,13,cbl,53.4,110,67
+Envy,14,Heroic,16,trn,,110,110
+Gambit,16,Space Soldiers,7,trn,,110,110
+Astralis,16,Space Soldiers,2,inf,72.5,1000,110
+Liquid,16,Gambit,7,cbl,64,510,110
+Natus Vincere,16,Renegades,4,inf,53.7,569,105
+Cloud9,22,G2,20,mrg,62.4,85,67
+SK,13,NiP,16,trn,,85,354
+Cloud9,19,Renegades,17,mrg,62.4,85,105
+Renegades,9,Cloud9,16,inf,59.1,105,85
+mousesports,16,Virtus.pro,3,inf,48.8,305,72
+Virtus.pro,10,mousesports,16,trn,52.1,72,305
+NiP,16,North,6,inf,60.3,354,226
+North,19,NiP,15,nuke,58.3,226,354
+Renegades,9,Cloud9,16,inf,59.1,105,85
+Cloud9,17,Renegades,19,trn,67.6,85,105
+HellRaisers,8,Space Soldiers,16,inf,54.8,161,105
+Space Soldiers,16,HellRaisers,6,cbl,,161,161
+Astralis,11,Natus Vincere,16,inf,72.5,1000,569
+Natus Vincere,19,Astralis,16,trn,64.8,569,1000
+Gambit,5,FaZe,16,nuke,,569,444
+FaZe,16,Gambit,2,mrg,62.8,444,444
+G2,10,HellRaisers,16,inf,50.8,67,161
+FaZe,5,fnatic,16,ovp,61.2,444,197
+fnatic,9,FaZe,16,inf,67.2,197,444
+HellRaisers,7,G2,16,mrg,50,161,67
+Renegades,19,NRG,17,inf,59.1,105,367
+NRG,5,Renegades,16,trn,54.3,367,105
+Gambit,10,G2,16,mrg,,367,67
+G2,16,Gambit,6,cch,55.9,67,67
+mousesports,16,Natus Vincere,11,nuke,57.4,305,569
+fnatic,8,Heroic,16,cbl,65.2,197,110
+Virtus.pro,16,G2,10,nuke,58.8,72,67
+Natus Vincere,16,mousesports,5,inf,53.7,569,305
+Heroic,5,fnatic,16,trn,49.6,110,197
+G2,16,Virtus.pro,2,cch,55.9,67,72
+HellRaisers,12,FaZe,16,cch,60,161,444
+Astralis,16,Space Soldiers,4,inf,72.5,1000,444
 Space Soldiers,14,Astralis,16,mrg,,1000,1000
-FaZe,16,HellRaisers,7,mrg,62.8,451,129
-Astralis,16,mousesports,7,ovp,66.7,1000,341
-mousesports,16,Astralis,14,mrg,61.8,341,1000
-Gambit,9,Virtus.pro,16,trn,51.8,60,1000
-Virtus.pro,9,Gambit,16,cbl,,60,60
-fnatic,16,Virtus.pro,11,mrg,61.4,183,60
-Virtus.pro,4,fnatic,16,cbl,,183,183
-fnatic,16,mousesports,13,cbl,65.2,183,341
-mousesports,16,fnatic,8,ovp,52.8,341,183
-fnatic,9,FaZe,16,mrg,61.4,183,451
-FaZe,7,fnatic,16,ovp,61.2,451,183
-Renegades,8,Liquid,16,cch,61.9,109,455
-Liquid,19,Renegades,15,cbl,64,455,109
-Liquid,16,Cloud9,13,mrg,56.7,455,84
-Cloud9,16,Liquid,13,inf,53.4,84,455
-FaZe,14,NiP,16,ovp,61.2,451,352
-NiP,16,FaZe,8,trn,68.3,352,451
-Space Soldiers,16,North,13,cbl,,352,280
-Astralis,16,fnatic,9,ovp,66.7,1000,183
-Gambit,4,NiP,16,trn,51.8,60,352
-fnatic,9,Astralis,16,inf,67.2,183,1000
-North,9,Space Soldiers,16,inf,57.6,280,1000
-NiP,16,Gambit,7,nuke,77.2,352,60
-Liquid,16,NRG,7,mrg,56.7,455,306
-NRG,22,Liquid,20,trn,53.8,306,455
-NRG,8,Cloud9,16,trn,53.8,306,84
-Cloud9,14,NRG,16,inf,53.4,84,306
-Space Soldiers,16,fnatic,14,cbl,,84,183
-fnatic,16,Space Soldiers,11,mrg,61.4,183,183
-Heroic,14,Natus Vincere,16,cch,25,117,558
-FaZe,5,North,16,ovp,61.2,451,280
-Natus Vincere,7,Heroic,16,trn,65,558,117
-North,8,FaZe,16,trn,59.6,280,451
-NRG,19,SK,16,inf,66,306,451
-SK,14,NRG,16,mrg,,306,306
-Cloud9,25,SK,22,inf,53.4,84,306
-SK,6,Cloud9,16,cch,,84,84
-North,16,G2,13,ovp,57.8,280,67
-G2,12,North,16,mrg,47.3,67,280
-NiP,16,Natus Vincere,7,inf,60.3,352,558
-Gambit,16,fnatic,8,ovp,58.1,60,183
-Natus Vincere,12,NiP,16,ovp,64.3,558,352
-fnatic,16,Gambit,8,cbl,65.2,183,60
-HellRaisers,16,mousesports,7,cbl,56.2,129,341
-mousesports,16,HellRaisers,4,mrg,61.8,341,129
-NiP,11,Astralis,16,inf,60.3,352,1000
-Astralis,19,NiP,17,mrg,69.7,1000,352
-fnatic,16,NiP,13,mrg,61.4,183,352
-NiP,7,fnatic,16,ovp,57,352,183
-HellRaisers,16,FaZe,8,cch,60,129,451
-FaZe,16,HellRaisers,10,inf,62.3,451,129
-mousesports,13,Virtus.pro,16,trn,54.4,341,129
-Virtus.pro,1,mousesports,16,nuke,,341,341
-North,16,fnatic,11,trn,59.6,280,183
-fnatic,9,North,16,cbl,65.2,183,280
-fnatic,7,Astralis,16,inf,67.2,183,1000
-Astralis,16,fnatic,1,trn,63.6,1000,183
-HellRaisers,16,NiP,9,cbl,56.2,129,352
-NiP,16,HellRaisers,2,inf,60.3,352,129
-G2,16,Heroic,14,ovp,50.5,67,117
-Heroic,10,G2,16,inf,44,117,67
-HellRaisers,6,Astralis,16,mrg,49.5,129,1000
-Astralis,16,HellRaisers,19,ovp,66.7,1000,129
-NiP,16,Heroic,19,trn,68.3,352,117
-Heroic,6,NiP,16,inf,44,117,352
-Renegades,9,Liquid,16,cbl,56.9,109,455
-Liquid,16,Renegades,12,mrg,56.7,455,109
-mousesports,14,Heroic,16,cbl,51.1,341,117
-FaZe,11,Astralis,16,mrg,62.8,451,1000
-Heroic,5,mousesports,16,inf,44,117,341
-Astralis,19,FaZe,15,inf,71.9,1000,451
-NiP,16,G2,12,inf,60.3,352,67
-mousesports,2,FaZe,16,mrg,61.8,341,451
-G2,11,NiP,16,mrg,47.3,67,352
-FaZe,16,mousesports,10,inf,62.3,451,341
-Astralis,16,North,11,nuke,75.7,1000,280
-North,4,Astralis,16,inf,57.6,280,1000
-NiP,16,mousesports,12,trn,68.3,352,341
-mousesports,16,NiP,8,mrg,61.8,341,352
-Heroic,8,FaZe,16,trn,49.6,117,451
-NiP,7,Virtus.pro,16,trn,68.3,352,451
-FaZe,16,Heroic,9,mrg,62.8,451,117
-mousesports,4,G2,16,nuke,57,341,67
-G2,17,mousesports,19,inf,51.2,67,341
-Cloud9,8,fnatic,16,mrg,62.4,84,183
-G2,16,Astralis,14,inf,51.2,67,1000
-Virtus.pro,22,FaZe,20,trn,,67,451
-Astralis,16,G2,12,mrg,69.7,1000,67
-FaZe,16,Virtus.pro,8,inf,62.3,451,67
-North,6,Heroic,16,inf,57.6,280,117
-Virtus.pro,12,Astralis,16,cch,,280,1000
-Heroic,16,North,11,nuke,66.3,117,280
-Astralis,16,Virtus.pro,8,inf,71.9,1000,280
-FaZe,12,mousesports,16,inf,62.3,451,341
-mousesports,16,FaZe,10,mrg,61.8,341,451
-Liquid,19,Cloud9,16,inf,63.6,455,84
-Cloud9,7,Liquid,16,mrg,62.4,84,455
-G2,14,Space Soldiers,16,cch,56.2,67,455
+FaZe,16,HellRaisers,7,mrg,62.8,444,161
+Astralis,16,mousesports,7,ovp,66.7,1000,305
+mousesports,16,Astralis,14,mrg,61.8,305,1000
+Gambit,9,Virtus.pro,16,trn,,305,72
+Virtus.pro,9,Gambit,16,cbl,57.3,72,72
+fnatic,16,Virtus.pro,11,mrg,61.4,197,72
+Virtus.pro,4,fnatic,16,cbl,57.3,72,197
+fnatic,16,mousesports,13,cbl,65.2,197,305
+mousesports,16,fnatic,8,ovp,52.8,305,197
+fnatic,9,FaZe,16,mrg,61.4,197,444
+FaZe,7,fnatic,16,ovp,61.2,444,197
+Renegades,8,Liquid,16,cch,62.5,105,510
+Liquid,19,Renegades,15,cbl,64,510,105
+Liquid,16,Cloud9,13,mrg,56.7,510,85
+Cloud9,16,Liquid,13,inf,53.4,85,510
+FaZe,14,NiP,16,ovp,61.2,444,354
+NiP,16,FaZe,8,trn,68.3,354,444
+Space Soldiers,16,North,13,cbl,,354,226
+Astralis,16,fnatic,9,ovp,66.7,1000,197
+Gambit,4,NiP,16,trn,,1000,354
+fnatic,9,Astralis,16,inf,67.2,197,1000
+North,9,Space Soldiers,16,inf,57,226,1000
+NiP,16,Gambit,7,nuke,77.2,354,1000
+Liquid,16,NRG,7,mrg,56.7,510,367
+NRG,22,Liquid,20,trn,54.3,367,510
+NRG,8,Cloud9,16,trn,54.3,367,85
+Cloud9,14,NRG,16,inf,53.4,85,367
+Space Soldiers,16,fnatic,14,cbl,,85,197
+fnatic,16,Space Soldiers,11,mrg,61.4,197,197
+Heroic,14,Natus Vincere,16,cch,25,110,569
+FaZe,5,North,16,ovp,61.2,444,226
+Natus Vincere,7,Heroic,16,trn,64.8,569,110
+North,8,FaZe,16,trn,58.6,226,444
+NRG,19,SK,16,inf,66,367,444
+SK,14,NRG,16,mrg,,367,367
+Cloud9,25,SK,22,inf,53.4,85,367
+SK,6,Cloud9,16,cch,,85,85
+North,16,G2,13,ovp,57.8,226,67
+G2,12,North,16,mrg,46.8,67,226
+NiP,16,Natus Vincere,7,inf,60.3,354,569
+Gambit,16,fnatic,8,ovp,,354,197
+Natus Vincere,12,NiP,16,ovp,64.3,569,354
+fnatic,16,Gambit,8,cbl,65.2,197,354
+HellRaisers,16,mousesports,7,cbl,56.2,161,305
+mousesports,16,HellRaisers,4,mrg,61.8,305,161
+NiP,11,Astralis,16,inf,60.3,354,1000
+Astralis,19,NiP,17,mrg,69.1,1000,354
+fnatic,16,NiP,13,mrg,61.4,197,354
+NiP,7,fnatic,16,ovp,57,354,197
+HellRaisers,16,FaZe,8,cch,60,161,444
+FaZe,16,HellRaisers,10,inf,62.3,444,161
+mousesports,13,Virtus.pro,16,trn,54.6,305,72
+Virtus.pro,1,mousesports,16,nuke,58.8,72,305
+North,16,fnatic,11,trn,58.6,226,197
+fnatic,9,North,16,cbl,65.2,197,226
+fnatic,7,Astralis,16,inf,67.2,197,1000
+Astralis,16,fnatic,1,trn,63.6,1000,197
+HellRaisers,16,NiP,9,cbl,56.2,161,354
+NiP,16,HellRaisers,2,inf,60.3,354,161
+G2,16,Heroic,14,ovp,51.8,67,110
+Heroic,10,G2,16,inf,44,110,67
+HellRaisers,6,Astralis,16,mrg,50,161,1000
+Astralis,16,HellRaisers,19,ovp,66.7,1000,161
+NiP,16,Heroic,19,trn,68.3,354,110
+Heroic,6,NiP,16,inf,44,110,354
+Renegades,9,Liquid,16,cbl,56.9,105,510
+Liquid,16,Renegades,12,mrg,56.7,510,105
+mousesports,14,Heroic,16,cbl,51.1,305,110
+FaZe,11,Astralis,16,mrg,62.8,444,1000
+Heroic,5,mousesports,16,inf,44,110,305
+Astralis,19,FaZe,15,inf,72.5,1000,444
+NiP,16,G2,12,inf,60.3,354,67
+mousesports,2,FaZe,16,mrg,61.8,305,444
+G2,11,NiP,16,mrg,46.8,67,354
+FaZe,16,mousesports,10,inf,62.3,444,305
+Astralis,16,North,11,nuke,76,1000,226
+North,4,Astralis,16,inf,57,226,1000
+NiP,16,mousesports,12,trn,68.3,354,305
+mousesports,16,NiP,8,mrg,61.8,305,354
+Heroic,8,FaZe,16,trn,49.6,110,444
+NiP,7,Virtus.pro,16,trn,68.3,354,72
+FaZe,16,Heroic,9,mrg,62.8,444,110
+mousesports,4,G2,16,nuke,57.4,305,67
+G2,17,mousesports,19,inf,50.8,67,305
+Cloud9,8,fnatic,16,mrg,62.4,85,197
+G2,16,Astralis,14,inf,50.8,67,1000
+Virtus.pro,22,FaZe,20,trn,52.1,72,444
+Astralis,16,G2,12,mrg,69.1,1000,67
+FaZe,16,Virtus.pro,8,inf,62.3,444,72
+North,6,Heroic,16,inf,57,226,110
+Virtus.pro,12,Astralis,16,cch,52.2,72,1000
+Heroic,16,North,11,nuke,66.3,110,226
+Astralis,16,Virtus.pro,8,inf,72.5,1000,72
+FaZe,12,mousesports,16,inf,62.3,444,305
+mousesports,16,FaZe,10,mrg,61.8,305,444
+Liquid,19,Cloud9,16,inf,63.7,510,85
+Cloud9,7,Liquid,16,mrg,62.4,85,510
+G2,14,Space Soldiers,16,cch,55.9,67,510
 Space Soldiers,16,G2,5,cbl,,67,67
-NiP,16,AGO,10,cch,60.1,352,67
-AGO,12,NiP,16,trn,,352,352
-Heroic,19,HellRaisers,15,mrg,55,117,129
-HellRaisers,16,Heroic,4,inf,54.8,129,117
-AGO,12,Natus Vincere,16,mrg,,129,558
-Natus Vincere,16,AGO,9,ovp,64.3,558,558
-Space Soldiers,8,Natus Vincere,16,mrg,,558,558
-Natus Vincere,6,Space Soldiers,16,inf,53.9,558,558
-mousesports,13,North,16,trn,54.4,341,280
-North,8,mousesports,16,inf,57.6,280,341
-G2,16,Virtus.pro,12,nuke,62.1,67,341
-Heroic,9,fnatic,16,cbl,53.4,117,183
-NiP,10,North,16,inf,60.3,352,280
-Liquid,16,Gambit,10,mrg,56.7,455,60
-Renegades,13,Astralis,16,trn,52.9,109,1000
-Space Soldiers,10,NiP,16,cch,,109,352
-fnatic,16,G2,10,inf,67.2,183,67
-NiP,19,Space Soldiers,15,trn,68.3,352,67
-G2,10,fnatic,16,cch,56.2,67,183
-North,16,Natus Vincere,10,inf,57.6,280,558
-Heroic,16,Astralis,14,mrg,55,117,1000
-Natus Vincere,16,North,8,trn,65,558,280
-Astralis,10,Heroic,16,nuke,75.7,1000,117
-NiP,14,fnatic,16,inf,60.3,352,183
-FaZe,16,AGO,11,cch,54.6,451,183
-fnatic,16,NiP,10,cbl,65.2,183,352
-AGO,7,FaZe,16,trn,,183,451
-AGO,8,G2,16,cbl,,183,67
-G2,16,AGO,12,cch,56.2,67,67
-Astralis,16,mousesports,14,inf,71.9,1000,341
-fnatic,11,HellRaisers,16,inf,67.2,183,129
-HellRaisers,22,fnatic,19,ovp,55.9,129,183
-mousesports,16,Astralis,9,mrg,61.8,341,1000
-FaZe,23,Natus Vincere,25,mrg,62.8,451,558
-Heroic,5,Space Soldiers,16,trn,49.6,117,558
-Natus Vincere,16,FaZe,6,inf,53.9,558,451
-Space Soldiers,16,Heroic,1,cbl,,558,117
-SK,7,Cloud9,16,trn,,558,84
-Cloud9,13,SK,16,inf,53.4,84,84
-Astralis,22,FaZe,20,trn,63.6,1000,451
-FaZe,14,Astralis,16,inf,62.3,451,1000
-HellRaisers,16,Natus Vincere,14,ovp,55.9,129,558
-mousesports,16,fnatic,11,ovp,52.8,341,183
-Natus Vincere,16,HellRaisers,6,inf,53.9,558,129
-fnatic,7,mousesports,16,mrg,61.4,183,341
-FaZe,16,G2,13,ovp,61.2,451,67
-G2,11,FaZe,16,cch,56.2,67,451
-Cloud9,16,SK,2,inf,53.4,84,451
-mousesports,16,Space Soldiers,13,mrg,61.8,341,451
-Vega Squadron,4,Cloud9,16,mrg,60.9,101,84
-fnatic,16,Gambit,2,mrg,61.4,183,60
-fnatic,7,Natus Vincere,16,inf,67.2,183,558
-Gambit,10,SK,16,ovp,58.1,60,558
-Liquid,12,Vega Squadron,16,inf,63.6,455,101
-Astralis,6,Cloud9,16,trn,63.6,1000,84
-Space Soldiers,13,Gambit,16,trn,,1000,60
-Virtus.pro,7,Cloud9,16,mrg,,1000,84
-SK,12,FaZe,16,cch,,1000,451
-fnatic,16,Astralis,8,mrg,61.4,183,1000
-Liquid,9,Natus Vincere,16,ovp,56,455,558
-mousesports,16,Vega Squadron,3,mrg,61.8,341,101
-Astralis,16,North,14,trn,63.6,1000,280
-Virtus.pro,6,fnatic,16,inf,,1000,183
-SK,16,mousesports,12,mrg,,1000,341
-G2,16,Liquid,8,inf,51.2,67,455
-FaZe,16,Vega Squadron,3,trn,57.5,451,101
-Space Soldiers,16,Cloud9,13,cbl,,451,84
-SK,16,Space Soldiers,13,mrg,,451,84
-Gambit,16,Natus Vincere,5,nuke,54.5,60,558
-Cloud9,8,G2,16,cch,61.6,84,67
-Astralis,2,mousesports,16,cch,58.5,1000,341
-fnatic,8,FaZe,16,cch,62.6,183,451
-North,10,Vega Squadron,16,ovp,57.8,280,101
-Natus Vincere,16,Liquid,5,inf,53.9,558,455
-mousesports,16,Renegades,4,mrg,61.8,341,109
-FaZe,16,Natus Vincere,4,trn,57.5,451,558
-mousesports,5,Cloud9,16,trn,54.4,341,84
-Renegades,14,Liquid,16,cbl,56.9,109,455
-Misfits,5,G2,16,cbl,,109,67
-Envy,6,Renegades,16,cch,,109,109
-mousesports,16,Natus Vincere,2,mrg,61.8,341,558
-Cloud9,16,Envy,11,cch,61.6,84,558
-FaZe,16,Liquid,14,ovp,61.2,451,455
-Astralis,16,FaZe,13,ovp,66.7,1000,451
-FaZe,16,Liquid,12,mrg,62.8,451,455
-Cloud9,11,Astralis,16,trn,67.6,84,1000
-fnatic,16,OpTic,2,cbl,65.2,183,156
-OpTic,16,mousesports,4,mrg,58.7,156,341
-North,15,NiP,19,inf,57.6,280,352
-SK,16,NiP,9,ovp,,280,352
-North,16,OpTic,11,ovp,57.8,280,156
-fnatic,16,Astralis,7,inf,67.2,183,1000
-fnatic,22,Liquid,18,mrg,61.4,183,455
-FaZe,16,Astralis,5,mrg,62.8,451,1000
-SK,14,OpTic,16,mrg,,451,156
-NiP,16,OpTic,14,cbl,57.8,352,156
-North,7,SK,16,ovp,57.8,280,156
-FaZe,16,Liquid,14,mrg,62.8,451,455
-Astralis,20,Liquid,22,mrg,69.7,1000,455
-fnatic,19,FaZe,15,inf,67.2,183,451
-mousesports,12,Envy,16,trn,54.4,341,451
-Gambit,31,Natus Vincere,28,inf,54,60,558
-Heroic,11,Natus Vincere,16,ovp,53.9,117,558
-Astralis,16,FaZe,14,inf,71.9,1000,451
-North,12,SK,16,mrg,60,280,451
-G2,16,NiP,7,cbl,55.7,67,352
-SK,8,FaZe,16,mrg,,67,451
+NiP,16,AGO,10,cch,60.1,354,67
+AGO,12,NiP,16,trn,,354,354
+Heroic,19,HellRaisers,15,mrg,55,110,161
+HellRaisers,16,Heroic,4,inf,54.8,161,110
+AGO,12,Natus Vincere,16,mrg,,161,569
+Natus Vincere,16,AGO,9,ovp,64.3,569,569
+Space Soldiers,8,Natus Vincere,16,mrg,,569,569
+Natus Vincere,6,Space Soldiers,16,inf,53.7,569,569
+mousesports,13,North,16,trn,54.6,305,226
+North,8,mousesports,16,inf,57,226,305
+G2,16,Virtus.pro,12,nuke,61.2,67,72
+Heroic,9,fnatic,16,cbl,53.4,110,197
+NiP,10,North,16,inf,60.3,354,226
+Liquid,16,Gambit,10,mrg,56.7,510,226
+Renegades,13,Astralis,16,trn,53.8,105,1000
+Space Soldiers,10,NiP,16,cch,,105,354
+fnatic,16,G2,10,inf,67.2,197,67
+NiP,19,Space Soldiers,15,trn,68.3,354,67
+G2,10,fnatic,16,cch,55.9,67,197
+North,16,Natus Vincere,10,inf,57,226,569
+Heroic,16,Astralis,14,mrg,55,110,1000
+Natus Vincere,16,North,8,trn,64.8,569,226
+Astralis,10,Heroic,16,nuke,76,1000,110
+NiP,14,fnatic,16,inf,60.3,354,197
+FaZe,16,AGO,11,cch,54.6,444,197
+fnatic,16,NiP,10,cbl,65.2,197,354
+AGO,7,FaZe,16,trn,,197,444
+AGO,8,G2,16,cbl,,197,67
+G2,16,AGO,12,cch,55.9,67,67
+Astralis,16,mousesports,14,inf,72.5,1000,305
+fnatic,11,HellRaisers,16,inf,67.2,197,161
+HellRaisers,22,fnatic,19,ovp,55.6,161,197
+mousesports,16,Astralis,9,mrg,61.8,305,1000
+FaZe,23,Natus Vincere,25,mrg,62.8,444,569
+Heroic,5,Space Soldiers,16,trn,49.6,110,569
+Natus Vincere,16,FaZe,6,inf,53.7,569,444
+Space Soldiers,16,Heroic,1,cbl,,569,110
+SK,7,Cloud9,16,trn,,569,85
+Cloud9,13,SK,16,inf,53.4,85,85
+Astralis,22,FaZe,20,trn,63.6,1000,444
+FaZe,14,Astralis,16,inf,62.3,444,1000
+HellRaisers,16,Natus Vincere,14,ovp,55.6,161,569
+mousesports,16,fnatic,11,ovp,52.8,305,197
+Natus Vincere,16,HellRaisers,6,inf,53.7,569,161
+fnatic,7,mousesports,16,mrg,61.4,197,305
+FaZe,16,G2,13,ovp,61.2,444,67
+G2,11,FaZe,16,cch,55.9,67,444
+Cloud9,16,SK,2,inf,53.4,85,444
+mousesports,16,Space Soldiers,13,mrg,61.8,305,444
+Vega Squadron,4,Cloud9,16,mrg,60.9,117,85
+fnatic,16,Gambit,2,mrg,61.4,197,85
+fnatic,7,Natus Vincere,16,inf,67.2,197,569
+Gambit,10,SK,16,ovp,,197,569
+Liquid,12,Vega Squadron,16,inf,63.7,510,117
+Astralis,6,Cloud9,16,trn,63.6,1000,85
+Space Soldiers,13,Gambit,16,trn,,1000,85
+Virtus.pro,7,Cloud9,16,mrg,60,72,85
+SK,12,FaZe,16,cch,,72,444
+fnatic,16,Astralis,8,mrg,61.4,197,1000
+Liquid,9,Natus Vincere,16,ovp,56.5,510,569
+mousesports,16,Vega Squadron,3,mrg,61.8,305,117
+Astralis,16,North,14,trn,63.6,1000,226
+Virtus.pro,6,fnatic,16,inf,47.3,72,197
+SK,16,mousesports,12,mrg,,72,305
+G2,16,Liquid,8,inf,50.8,67,510
+FaZe,16,Vega Squadron,3,trn,57.5,444,117
+Space Soldiers,16,Cloud9,13,cbl,,444,85
+SK,16,Space Soldiers,13,mrg,,444,85
+Gambit,16,Natus Vincere,5,nuke,,444,569
+Cloud9,8,G2,16,cch,61.6,85,67
+Astralis,2,mousesports,16,cch,58.5,1000,305
+fnatic,8,FaZe,16,cch,62.6,197,444
+North,10,Vega Squadron,16,ovp,57.8,226,117
+Natus Vincere,16,Liquid,5,inf,53.7,569,510
+mousesports,16,Renegades,4,mrg,61.8,305,105
+FaZe,16,Natus Vincere,4,trn,57.5,444,569
+mousesports,5,Cloud9,16,trn,54.6,305,85
+Renegades,14,Liquid,16,cbl,56.9,105,510
+Misfits,5,G2,16,cbl,,105,67
+Envy,6,Renegades,16,cch,,105,105
+mousesports,16,Natus Vincere,2,mrg,61.8,305,569
+Cloud9,16,Envy,11,cch,61.6,85,569
+FaZe,16,Liquid,14,ovp,61.2,444,510
+Astralis,16,FaZe,13,ovp,66.7,1000,444
+FaZe,16,Liquid,12,mrg,62.8,444,510
+Cloud9,11,Astralis,16,trn,67.6,85,1000
+fnatic,16,OpTic,2,cbl,65.2,197,151
+OpTic,16,mousesports,4,mrg,59.5,151,305
+North,15,NiP,19,inf,57,226,354
+SK,16,NiP,9,ovp,,226,354
+North,16,OpTic,11,ovp,57.8,226,151
+fnatic,16,Astralis,7,inf,67.2,197,1000
+fnatic,22,Liquid,18,mrg,61.4,197,510
+FaZe,16,Astralis,5,mrg,62.8,444,1000
+SK,14,OpTic,16,mrg,,444,151
+NiP,16,OpTic,14,cbl,57.8,354,151
+North,7,SK,16,ovp,57.8,226,151
+FaZe,16,Liquid,14,mrg,62.8,444,510
+Astralis,20,Liquid,22,mrg,69.1,1000,510
+fnatic,19,FaZe,15,inf,67.2,197,444
+mousesports,12,Envy,16,trn,54.6,305,444
+Gambit,31,Natus Vincere,28,inf,,305,569
+Heroic,11,Natus Vincere,16,ovp,53.9,110,569
+Astralis,16,FaZe,14,inf,72.5,1000,444
+North,12,SK,16,mrg,59.3,226,444
+G2,16,NiP,7,cbl,55.7,67,354
+SK,8,FaZe,16,mrg,,67,444
 Astralis,16,G2,4,ovp,66.7,1000,67
-NiP,16,North,2,trn,68.3,352,280
-Astralis,15,North,15,ovp,66.7,1000,280
-G2,8,FaZe,16,mrg,47.3,67,451
-NiP,4,SK,16,trn,68.3,352,451
-FaZe,13,North,16,trn,57.5,451,280
-Astralis,16,NiP,5,ovp,66.7,1000,352
+NiP,16,North,2,trn,68.3,354,226
+Astralis,15,North,15,ovp,66.7,1000,226
+G2,8,FaZe,16,mrg,46.8,67,444
+NiP,4,SK,16,trn,68.3,354,444
+FaZe,13,North,16,trn,57.5,444,226
+Astralis,16,NiP,5,ovp,66.7,1000,354
 SK,16,G2,8,cbl,,1000,67
-North,15,G2,15,mrg,60,280,67
-FaZe,15,NiP,15,trn,57.5,451,352
-Astralis,16,SK,3,inf,71.9,1000,352
-Envy,15,Virtus.pro,15,trn,,1000,352
-BIG,12,Space Soldiers,16,cch,54.8,221,352
-Envy,11,mousesports,16,nuke,,221,341
-mousesports,16,Envy,1,cbl,51.1,341,341
-Heroic,16,Envy,11,inf,44,117,341
-Virtus.pro,16,FaZe,7,cbl,,117,451
-FaZe,16,Virtus.pro,8,trn,57.5,451,451
-Envy,9,Heroic,16,nuke,,451,117
-Liquid,11,Cloud9,16,cch,66.9,455,84
-Cloud9,19,Liquid,15,mrg,62.4,84,455
-NiP,16,Astralis,14,nuke,77.2,352,1000
-Astralis,14,NiP,16,trn,63.6,1000,352
-Cloud9,12,Renegades,16,trn,67.6,84,109
-Renegades,12,Cloud9,16,cbl,56.9,109,84
-Virtus.pro,14,fnatic,16,cch,,109,183
-fnatic,16,Virtus.pro,4,mrg,61.4,183,183
-Virtus.pro,17,NiP,19,cbl,,183,352
-NiP,16,Virtus.pro,9,cch,60.1,352,352
-G2,14,OpTic,16,ovp,50.5,67,156
-Renegades,9,Gambit,16,inf,58.6,109,60
-Liquid,5,FaZe,16,inf,63.6,455,451
-G2,16,Liquid,9,cch,56.2,67,455
-OpTic,6,Renegades,16,mrg,58.7,156,109
-OpTic,16,Liquid,10,mrg,58.7,156,455
-FaZe,3,Gambit,16,mrg,62.8,451,60
-Envy,11,NiP,16,nuke,,451,352
-Cloud9,16,SK,7,trn,67.6,84,352
-Envy,16,Cloud9,8,cbl,,84,84
-SK,21,Astralis,25,ovp,,84,1000
-mousesports,16,Virtus.pro,5,cbl,51.1,341,1000
-NiP,16,Cloud9,4,ovp,57,352,84
-Virtus.pro,11,mousesports,16,trn,,352,341
-G2,22,Gambit,19,ovp,50.5,67,60
-FaZe,16,Renegades,13,trn,57.5,451,109
-Liquid,19,Gambit,16,mrg,56.7,455,60
-G2,9,Renegades,16,cbl,55.7,67,109
-Liquid,19,Renegades,17,cch,66.9,455,109
-OpTic,3,FaZe,16,ovp,59.3,156,451
-G2,14,FaZe,16,ovp,50.5,67,451
-OpTic,16,Gambit,7,trn,52.1,156,60
-Envy,11,Astralis,16,inf,,156,1000
-Cloud9,16,Astralis,6,trn,67.6,84,1000
-NiP,13,SK,16,cbl,57.8,352,1000
-Envy,20,SK,22,cbl,,352,1000
-NiP,16,Astralis,11,ovp,57,352,1000
-Virtus.pro,4,Heroic,16,inf,,352,117
-Heroic,16,Virtus.pro,14,nuke,66.3,117,117
-Renegades,16,Cloud9,14,mrg,52.4,109,84
-Renegades,12,Liquid,16,trn,52.9,109,455
-Liquid,4,Renegades,16,cbl,64,455,109
-Natus Vincere,22,FaZe,19,nuke,46.6,558,451
-fnatic,16,G2,11,inf,67.2,183,67
-Envy,16,NiP,12,cbl,,183,352
-Astralis,12,mousesports,16,inf,71.9,1000,341
-BIG,9,North,16,ovp,53.5,221,280
-NiP,19,Envy,15,trn,68.3,352,280
-mousesports,5,Astralis,16,nuke,57,341,1000
-FaZe,16,Natus Vincere,6,ovp,61.2,451,558
-North,16,BIG,8,cbl,60.9,280,221
-G2,9,fnatic,16,cbl,55.7,67,183
-G2,12,FaZe,16,cch,56.2,67,451
-FaZe,16,G2,14,mrg,62.8,451,67
-Renegades,16,CLG,3,cbl,56.9,109,67
-CLG,12,Renegades,16,mrg,,109,109
-Heroic,8,mousesports,16,nuke,66.3,117,341
-mousesports,16,Heroic,13,mrg,61.8,341,117
-Natus Vincere,16,BIG,12,ovp,64.3,558,221
-Gambit,12,Virtus.pro,16,cch,52.5,60,221
-BIG,11,Natus Vincere,16,trn,53.8,221,558
-Heroic,11,North,16,trn,49.6,117,280
-Envy,9,Astralis,16,nuke,,117,1000
-North,12,Heroic,16,ovp,57.8,280,117
-Astralis,6,Envy,16,trn,63.6,1000,117
-Heroic,9,NiP,16,nuke,66.3,117,352
-Gambit,16,Space Soldiers,13,mrg,52.5,60,352
-Astralis,13,FaZe,16,inf,71.9,1000,451
-NiP,25,Heroic,21,ovp,57,352,117
-FaZe,10,Astralis,16,mrg,62.8,451,1000
-fnatic,14,mousesports,16,inf,67.2,183,341
-mousesports,14,fnatic,16,mrg,61.8,341,183
-Astralis,19,Natus Vincere,15,inf,71.9,1000,558
-fnatic,16,FaZe,12,cch,62.6,183,451
-FaZe,7,fnatic,16,mrg,62.8,451,183
-Natus Vincere,4,Astralis,16,nuke,46.6,558,1000
-G2,16,Astralis,11,nuke,62.1,67,1000
+North,15,G2,15,mrg,59.3,226,67
+FaZe,15,NiP,15,trn,57.5,444,354
+Astralis,16,SK,3,inf,72.5,1000,354
+Envy,15,Virtus.pro,15,trn,,1000,72
+BIG,12,Space Soldiers,16,cch,54,262,72
+Envy,11,mousesports,16,nuke,,262,305
+mousesports,16,Envy,1,cbl,51.1,305,305
+Heroic,16,Envy,11,inf,44,110,305
+Virtus.pro,16,FaZe,7,cbl,57.3,72,444
+FaZe,16,Virtus.pro,8,trn,57.5,444,72
+Envy,9,Heroic,16,nuke,,444,110
+Liquid,11,Cloud9,16,cch,66.9,510,85
+Cloud9,19,Liquid,15,mrg,62.4,85,510
+NiP,16,Astralis,14,nuke,77.2,354,1000
+Astralis,14,NiP,16,trn,63.6,1000,354
+Cloud9,12,Renegades,16,trn,67.6,85,105
+Renegades,12,Cloud9,16,cbl,56.9,105,85
+Virtus.pro,14,fnatic,16,cch,52.2,72,197
+fnatic,16,Virtus.pro,4,mrg,61.4,197,72
+Virtus.pro,17,NiP,19,cbl,57.3,72,354
+NiP,16,Virtus.pro,9,cch,60.1,354,72
+G2,14,OpTic,16,ovp,51.8,67,151
+Renegades,9,Gambit,16,inf,59.1,105,151
+Liquid,5,FaZe,16,inf,63.7,510,444
+G2,16,Liquid,9,cch,55.9,67,510
+OpTic,6,Renegades,16,mrg,59.5,151,105
+OpTic,16,Liquid,10,mrg,59.5,151,510
+FaZe,3,Gambit,16,mrg,62.8,444,510
+Envy,11,NiP,16,nuke,,444,354
+Cloud9,16,SK,7,trn,67.6,85,354
+Envy,16,Cloud9,8,cbl,,85,85
+SK,21,Astralis,25,ovp,,85,1000
+mousesports,16,Virtus.pro,5,cbl,51.1,305,72
+NiP,16,Cloud9,4,ovp,57,354,85
+Virtus.pro,11,mousesports,16,trn,52.1,72,305
+G2,22,Gambit,19,ovp,51.8,67,305
+FaZe,16,Renegades,13,trn,57.5,444,105
+Liquid,19,Gambit,16,mrg,56.7,510,105
+G2,9,Renegades,16,cbl,55.7,67,105
+Liquid,19,Renegades,17,cch,66.9,510,105
+OpTic,3,FaZe,16,ovp,59.3,151,444
+G2,14,FaZe,16,ovp,51.8,67,444
+OpTic,16,Gambit,7,trn,52.1,151,444
+Envy,11,Astralis,16,inf,,151,1000
+Cloud9,16,Astralis,6,trn,67.6,85,1000
+NiP,13,SK,16,cbl,57.8,354,1000
+Envy,20,SK,22,cbl,,354,1000
+NiP,16,Astralis,11,ovp,57,354,1000
+Virtus.pro,4,Heroic,16,inf,47.3,72,110
+Heroic,16,Virtus.pro,14,nuke,66.3,110,72
+Renegades,16,Cloud9,14,mrg,52.4,105,85
+Renegades,12,Liquid,16,trn,53.8,105,510
+Liquid,4,Renegades,16,cbl,64,510,105
+Natus Vincere,22,FaZe,19,nuke,46.7,569,444
+fnatic,16,G2,11,inf,67.2,197,67
+Envy,16,NiP,12,cbl,,197,354
+Astralis,12,mousesports,16,inf,72.5,1000,305
+BIG,9,North,16,ovp,54.2,262,226
+NiP,19,Envy,15,trn,68.3,354,226
+mousesports,5,Astralis,16,nuke,57.4,305,1000
+FaZe,16,Natus Vincere,6,ovp,61.2,444,569
+North,16,BIG,8,cbl,60.9,226,262
+G2,9,fnatic,16,cbl,55.7,67,197
+G2,12,FaZe,16,cch,55.9,67,444
+FaZe,16,G2,14,mrg,62.8,444,67
+Renegades,16,CLG,3,cbl,56.9,105,67
+CLG,12,Renegades,16,mrg,,105,105
+Heroic,8,mousesports,16,nuke,66.3,110,305
+mousesports,16,Heroic,13,mrg,61.8,305,110
+Natus Vincere,16,BIG,12,ovp,64.3,569,262
+Gambit,12,Virtus.pro,16,cch,,569,72
+BIG,11,Natus Vincere,16,trn,53.7,262,569
+Heroic,11,North,16,trn,49.6,110,226
+Envy,9,Astralis,16,nuke,,110,1000
+North,12,Heroic,16,ovp,57.8,226,110
+Astralis,6,Envy,16,trn,63.6,1000,110
+Heroic,9,NiP,16,nuke,66.3,110,354
+Gambit,16,Space Soldiers,13,mrg,,110,354
+Astralis,13,FaZe,16,inf,72.5,1000,444
+NiP,25,Heroic,21,ovp,57,354,110
+FaZe,10,Astralis,16,mrg,62.8,444,1000
+fnatic,14,mousesports,16,inf,67.2,197,305
+mousesports,14,fnatic,16,mrg,61.8,305,197
+Astralis,19,Natus Vincere,15,inf,72.5,1000,569
+fnatic,16,FaZe,12,cch,62.6,197,444
+FaZe,7,fnatic,16,mrg,62.8,444,197
+Natus Vincere,4,Astralis,16,nuke,46.7,569,1000
+G2,16,Astralis,11,nuke,61.2,67,1000
 Astralis,12,G2,16,ovp,66.7,1000,67
-Cloud9,13,Liquid,16,mrg,62.4,84,455
-Liquid,2,Cloud9,16,cbl,64,455,84
-Heroic,6,Astralis,16,inf,44,117,1000
-Astralis,16,Heroic,3,trn,63.6,1000,117
-BIG,13,Envy,16,cch,54.8,221,117
-Envy,16,BIG,4,trn,,221,221
-NiP,16,G2,5,ovp,57,352,67
-G2,8,NiP,16,cbl,55.7,67,352
-mousesports,25,Astralis,22,mrg,61.8,341,1000
-Astralis,16,mousesports,14,inf,71.9,1000,341
-G2,16,fnatic,13,cbl,55.7,67,183
-fnatic,16,G2,12,inf,67.2,183,67
-Cloud9,16,SK,2,mrg,62.4,84,67
-SK,14,Cloud9,16,cbl,,84,84
-Astralis,16,fnatic,10,mrg,69.7,1000,183
-fnatic,16,Astralis,8,trn,58,183,1000
-mousesports,9,G2,16,inf,49.1,341,67
-G2,14,mousesports,16,cbl,55.7,67,341
-fnatic,13,FaZe,16,trn,58,183,451
-FaZe,14,fnatic,16,mrg,62.8,451,183
-Envy,8,NiP,16,trn,,451,352
-NiP,11,Envy,16,cch,60.1,352,352
-NiP,16,mousesports,13,cch,60.1,352,341
-mousesports,16,NiP,8,mrg,61.8,341,352
-Cloud9,16,CLG,14,inf,53.4,84,352
-CLG,8,Cloud9,16,cbl,,84,84
-Envy,4,G2,16,cch,,84,67
+Cloud9,13,Liquid,16,mrg,62.4,85,510
+Liquid,2,Cloud9,16,cbl,64,510,85
+Heroic,6,Astralis,16,inf,44,110,1000
+Astralis,16,Heroic,3,trn,63.6,1000,110
+BIG,13,Envy,16,cch,54,262,110
+Envy,16,BIG,4,trn,,262,262
+NiP,16,G2,5,ovp,57,354,67
+G2,8,NiP,16,cbl,55.7,67,354
+mousesports,25,Astralis,22,mrg,61.8,305,1000
+Astralis,16,mousesports,14,inf,72.5,1000,305
+G2,16,fnatic,13,cbl,55.7,67,197
+fnatic,16,G2,12,inf,67.2,197,67
+Cloud9,16,SK,2,mrg,62.4,85,67
+SK,14,Cloud9,16,cbl,,85,85
+Astralis,16,fnatic,10,mrg,69.1,1000,197
+fnatic,16,Astralis,8,trn,58,197,1000
+mousesports,9,G2,16,inf,48.8,305,67
+G2,14,mousesports,16,cbl,55.7,67,305
+fnatic,13,FaZe,16,trn,58,197,444
+FaZe,14,fnatic,16,mrg,62.8,444,197
+Envy,8,NiP,16,trn,,444,354
+NiP,11,Envy,16,cch,60.1,354,354
+NiP,16,mousesports,13,cch,60.1,354,305
+mousesports,16,NiP,8,mrg,61.8,305,354
+Cloud9,16,CLG,14,inf,53.4,85,354
+CLG,8,Cloud9,16,cbl,,85,85
+Envy,4,G2,16,cch,,85,67
 G2,16,Envy,2,cbl,55.7,67,67
-fnatic,16,NiP,9,mrg,61.4,183,352
-NiP,14,fnatic,16,ovp,57,352,183
-FaZe,7,Envy,16,trn,57.5,451,183
-Envy,16,FaZe,19,cch,,451,451
-SK,15,Liquid,19,trn,,451,455
-Liquid,16,SK,4,inf,63.6,455,455
-mousesports,4,FaZe,16,cch,60.5,341,451
-FaZe,12,mousesports,16,inf,62.3,451,341
-fnatic,16,Envy,11,inf,67.2,183,341
-Envy,5,fnatic,16,trn,,183,183
-Heroic,13,G2,16,inf,44,117,67
-G2,16,Heroic,8,nuke,62.1,67,117
-NiP,12,FaZe,16,trn,68.3,352,451
-FaZe,16,NiP,8,mrg,62.8,451,352
-Virtus.pro,7,Astralis,16,trn,,451,1000
-Astralis,16,Virtus.pro,8,mrg,69.7,1000,1000
-Liquid,16,Renegades,14,cbl,64,455,109
-mousesports,10,BIG,16,trn,54.4,341,221
-Cloud9,16,Renegades,1,trn,67.6,84,109
-CLG,14,Renegades,16,cbl,,84,109
-fnatic,16,Heroic,14,mrg,61.4,183,117
-Heroic,4,fnatic,16,trn,49.6,117,183
-Envy,14,Astralis,16,inf,,117,1000
+fnatic,16,NiP,9,mrg,61.4,197,354
+NiP,14,fnatic,16,ovp,57,354,197
+FaZe,7,Envy,16,trn,57.5,444,197
+Envy,16,FaZe,19,cch,,444,444
+SK,15,Liquid,19,trn,,444,510
+Liquid,16,SK,4,inf,63.7,510,510
+mousesports,4,FaZe,16,cch,60.5,305,444
+FaZe,12,mousesports,16,inf,62.3,444,305
+fnatic,16,Envy,11,inf,67.2,197,305
+Envy,5,fnatic,16,trn,,197,197
+Heroic,13,G2,16,inf,44,110,67
+G2,16,Heroic,8,nuke,61.2,67,110
+NiP,12,FaZe,16,trn,68.3,354,444
+FaZe,16,NiP,8,mrg,62.8,444,354
+Virtus.pro,7,Astralis,16,trn,52.1,72,1000
+Astralis,16,Virtus.pro,8,mrg,69.1,1000,72
+Liquid,16,Renegades,14,cbl,64,510,105
+mousesports,10,BIG,16,trn,54.6,305,262
+Cloud9,16,Renegades,1,trn,67.6,85,105
+CLG,14,Renegades,16,cbl,,85,105
+fnatic,16,Heroic,14,mrg,61.4,197,110
+Heroic,4,fnatic,16,trn,49.6,110,197
+Envy,14,Astralis,16,inf,,110,1000
 Astralis,16,Envy,11,trn,63.6,1000,1000
-Envy,10,Heroic,16,inf,,1000,117
-Heroic,9,Envy,16,nuke,66.3,117,117
-Astralis,10,HellRaisers,16,ovp,66.7,1000,129
-HellRaisers,10,Astralis,16,mrg,49.5,129,1000
-Renegades,16,Cloud9,11,cbl,56.9,109,84
-Cloud9,16,Renegades,7,mrg,62.4,84,109
-North,17,Natus Vincere,19,nuke,58.3,280,558
-BIG,12,G2,16,ovp,53.5,221,67
-G2,14,BIG,16,cbl,55.7,67,221
-Natus Vincere,8,North,16,ovp,64.3,558,280
-North,19,fnatic,16,cbl,60.9,280,183
-Heroic,14,G2,16,nuke,66.3,117,67
-fnatic,17,North,19,mrg,61.4,183,280
-G2,16,Heroic,10,inf,51.2,67,117
-BIG,7,NiP,16,cch,54.8,221,352
-NiP,16,BIG,4,mrg,55.7,352,221
-Renegades,16,SK,14,cch,61.9,109,221
-SK,16,Renegades,14,cbl,,109,109
-CLG,10,Liquid,16,mrg,,109,455
-Liquid,16,CLG,14,inf,63.6,455,455
-Virtus.pro,10,G2,16,cch,,455,67
-G2,8,Virtus.pro,16,inf,51.2,67,67
-CLG,11,SK,16,inf,,67,67
-SK,16,CLG,11,mrg,,67,67
-Envy,16,Heroic,8,nuke,,67,117
-NiP,10,Heroic,16,inf,60.3,352,117
-HellRaisers,14,Space Soldiers,16,cbl,56.2,129,117
-mousesports,16,Envy,10,cbl,51.1,341,117
-Heroic,4,NiP,16,inf,44,117,352
-Envy,16,mousesports,11,cch,,117,341
-NiP,16,Heroic,14,ovp,57,352,117
-FaZe,12,Heroic,16,ovp,61.2,451,117
-Heroic,4,FaZe,16,inf,44,117,451
-Renegades,13,SK,16,cbl,56.9,109,451
-SK,16,Renegades,7,mrg,,109,109
-Astralis,8,fnatic,16,trn,63.6,1000,183
-fnatic,16,Astralis,4,mrg,61.4,183,1000
-Natus Vincere,11,mousesports,16,inf,53.9,558,341
-Virtus.pro,4,Envy,16,inf,,558,341
-mousesports,16,Natus Vincere,12,cbl,51.1,341,558
-Envy,14,Virtus.pro,16,nuke,,341,558
-Astralis,19,FaZe,15,ovp,66.7,1000,451
-mousesports,13,Heroic,16,mrg,61.8,341,117
-FaZe,16,Astralis,14,mrg,62.8,451,1000
-Heroic,12,mousesports,16,nuke,66.3,117,341
-HellRaisers,17,fnatic,19,inf,54.8,129,183
-Natus Vincere,14,G2,16,nuke,46.6,558,67
-Heroic,4,FaZe,16,inf,44,117,451
-G2,19,Natus Vincere,16,ovp,50.5,67,558
-fnatic,10,HellRaisers,16,mrg,61.4,183,129
-FaZe,16,Heroic,7,ovp,61.2,451,117
-mousesports,6,NiP,16,nuke,57,341,352
-NiP,2,mousesports,16,inf,60.3,352,341
-HellRaisers,16,FaZe,12,cch,60,129,451
-Astralis,16,North,10,inf,71.9,1000,280
-North,10,Astralis,16,mrg,60,280,1000
-FaZe,10,HellRaisers,16,inf,62.3,451,129
-Cloud9,9,SK,16,mrg,62.4,84,129
-SK,16,Cloud9,11,cbl,,84,84
-North,4,FaZe,16,inf,57.6,280,451
-FaZe,12,North,16,mrg,62.8,451,280
-BIG,6,Astralis,16,inf,56.2,221,1000
-Astralis,16,BIG,19,ovp,66.7,1000,221
-BIG,7,mousesports,16,trn,53.8,221,341
-NiP,16,fnatic,4,cch,60.1,352,183
-mousesports,22,BIG,20,cbl,51.1,341,221
-fnatic,17,NiP,19,mrg,61.4,183,352
-Envy,16,G2,13,inf,,183,67
+Envy,10,Heroic,16,inf,,1000,110
+Heroic,9,Envy,16,nuke,66.3,110,110
+Astralis,10,HellRaisers,16,ovp,66.7,1000,161
+HellRaisers,10,Astralis,16,mrg,50,161,1000
+Renegades,16,Cloud9,11,cbl,56.9,105,85
+Cloud9,16,Renegades,7,mrg,62.4,85,105
+North,17,Natus Vincere,19,nuke,58.3,226,569
+BIG,12,G2,16,ovp,54.2,262,67
+G2,14,BIG,16,cbl,55.7,67,262
+Natus Vincere,8,North,16,ovp,64.3,569,226
+North,19,fnatic,16,cbl,60.9,226,197
+Heroic,14,G2,16,nuke,66.3,110,67
+fnatic,17,North,19,mrg,61.4,197,226
+G2,16,Heroic,10,inf,50.8,67,110
+BIG,7,NiP,16,cch,54,262,354
+NiP,16,BIG,4,mrg,55.7,354,262
+Renegades,16,SK,14,cch,62.5,105,262
+SK,16,Renegades,14,cbl,,105,105
+CLG,10,Liquid,16,mrg,,105,510
+Liquid,16,CLG,14,inf,63.7,510,510
+Virtus.pro,10,G2,16,cch,52.2,72,67
+G2,8,Virtus.pro,16,inf,50.8,67,72
+CLG,11,SK,16,inf,,67,72
+SK,16,CLG,11,mrg,,67,72
+Envy,16,Heroic,8,nuke,,67,110
+NiP,10,Heroic,16,inf,60.3,354,110
+HellRaisers,14,Space Soldiers,16,cbl,56.2,161,110
+mousesports,16,Envy,10,cbl,51.1,305,110
+Heroic,4,NiP,16,inf,44,110,354
+Envy,16,mousesports,11,cch,,110,305
+NiP,16,Heroic,14,ovp,57,354,110
+FaZe,12,Heroic,16,ovp,61.2,444,110
+Heroic,4,FaZe,16,inf,44,110,444
+Renegades,13,SK,16,cbl,56.9,105,444
+SK,16,Renegades,7,mrg,,105,105
+Astralis,8,fnatic,16,trn,63.6,1000,197
+fnatic,16,Astralis,4,mrg,61.4,197,1000
+Natus Vincere,11,mousesports,16,inf,53.7,569,305
+Virtus.pro,4,Envy,16,inf,47.3,72,305
+mousesports,16,Natus Vincere,12,cbl,51.1,305,569
+Envy,14,Virtus.pro,16,nuke,,305,72
+Astralis,19,FaZe,15,ovp,66.7,1000,444
+mousesports,13,Heroic,16,mrg,61.8,305,110
+FaZe,16,Astralis,14,mrg,62.8,444,1000
+Heroic,12,mousesports,16,nuke,66.3,110,305
+HellRaisers,17,fnatic,19,inf,54.8,161,197
+Natus Vincere,14,G2,16,nuke,46.7,569,67
+Heroic,4,FaZe,16,inf,44,110,444
+G2,19,Natus Vincere,16,ovp,51.8,67,569
+fnatic,10,HellRaisers,16,mrg,61.4,197,161
+FaZe,16,Heroic,7,ovp,61.2,444,110
+mousesports,6,NiP,16,nuke,57.4,305,354
+NiP,2,mousesports,16,inf,60.3,354,305
+HellRaisers,16,FaZe,12,cch,60,161,444
+Astralis,16,North,10,inf,72.5,1000,226
+North,10,Astralis,16,mrg,59.3,226,1000
+FaZe,10,HellRaisers,16,inf,62.3,444,161
+Cloud9,9,SK,16,mrg,62.4,85,161
+SK,16,Cloud9,11,cbl,,85,85
+North,4,FaZe,16,inf,57,226,444
+FaZe,12,North,16,mrg,62.8,444,226
+BIG,6,Astralis,16,inf,55.1,262,1000
+Astralis,16,BIG,19,ovp,66.7,1000,262
+BIG,7,mousesports,16,trn,53.7,262,305
+NiP,16,fnatic,4,cch,60.1,354,197
+mousesports,22,BIG,20,cbl,51.1,305,262
+fnatic,17,NiP,19,mrg,61.4,197,354
+Envy,16,G2,13,inf,,197,67
 G2,9,Envy,16,cbl,55.7,67,67
-Astralis,16,Heroic,2,trn,63.6,1000,117
-SK,5,Heroic,16,trn,,1000,117
-Astralis,16,Liquid,11,ovp,66.7,1000,455
-FaZe,16,NiP,7,mrg,62.8,451,352
-NiP,16,FaZe,6,cbl,57.8,352,451
-NiP,16,G2,13,ovp,57,352,67
-G2,14,NiP,16,nuke,62.1,67,352
-Envy,16,Natus Vincere,14,cbl,,67,558
-fnatic,16,mousesports,10,cch,62.6,183,341
-Natus Vincere,16,Envy,5,trn,65,558,341
-mousesports,1,fnatic,16,trn,54.4,341,183
-SK,16,CLG,7,ovp,,341,183
-CLG,16,SK,3,cch,,341,183
-Heroic,16,fnatic,19,inf,44,117,183
-mousesports,14,North,16,mrg,61.8,341,280
-fnatic,16,Heroic,13,mrg,61.4,183,117
-North,16,mousesports,12,cbl,60.9,280,341
-Natus Vincere,13,HellRaisers,16,inf,53.9,558,129
-HellRaisers,16,Natus Vincere,5,ovp,55.9,129,558
-Envy,2,Cloud9,16,trn,,129,84
-Cloud9,16,NiP,6,mrg,62.4,84,352
-Virtus.pro,6,Envy,16,cbl,,84,352
-Immortals,20,North,22,cbl,,84,280
-North,16,fnatic,14,mrg,60,280,183
-mousesports,8,Immortals,16,cbl,51.1,341,183
-FaZe,16,Astralis,6,inf,62.3,451,1000
-SK,16,Cloud9,5,trn,,451,84
-Cloud9,16,Natus Vincere,13,inf,53.4,84,558
-Astralis,16,Liquid,13,mrg,69.7,1000,455
-SK,16,Envy,12,cbl,,1000,455
-FaZe,16,Virtus.pro,5,cch,54.6,451,455
-Heroic,1,BIG,16,ovp,53.9,117,221
-BIG,19,Heroic,15,trn,53.8,221,117
-FaZe,16,Natus Vincere,6,inf,62.3,451,558
-Cloud9,13,Immortals,16,cch,61.6,84,558
-G2,10,Natus Vincere,16,inf,51.2,67,558
-FaZe,16,Renegades,9,mrg,62.8,451,109
-Gambit,12,SK,16,ovp,58.1,60,109
-fnatic,16,Envy,9,cch,62.6,183,109
-Envy,10,fnatic,16,cbl,,183,183
-SK,19,mousesports,15,inf,,183,341
-NiP,16,HellRaisers,6,trn,68.3,352,129
-Gambit,16,Heroic,7,mrg,52.5,60,117
-HellRaisers,5,NiP,16,inf,54.8,129,352
-Liquid,10,Virtus.pro,16,mrg,56.7,455,352
-Virtus.pro,16,Envy,6,trn,,455,352
-Liquid,16,BIG,14,ovp,56,455,221
-Cloud9,16,Immortals,3,trn,67.6,84,221
-Immortals,16,Cloud9,5,inf,,84,84
-North,16,HellRaisers,9,cbl,60.9,280,129
-HellRaisers,16,North,9,ovp,55.9,129,280
-NiP,14,Astralis,16,nuke,77.2,352,1000
-Astralis,16,NiP,6,inf,71.9,1000,352
-mousesports,16,HellRaisers,4,mrg,61.8,341,129
-Heroic,16,Envy,9,inf,44,117,129
-mousesports,9,FaZe,16,mrg,61.8,341,451
-fnatic,16,Envy,13,cbl,65.2,183,451
-G2,16,Envy,13,inf,51.2,67,451
-FaZe,8,NiP,16,nuke,62.8,451,352
-Gambit,16,mousesports,6,trn,51.8,60,341
-Immortals,16,fnatic,14,cbl,,60,183
-Cloud9,10,North,16,inf,53.4,84,280
-Virtus.pro,4,Natus Vincere,16,inf,,84,558
-NiP,16,Natus Vincere,13,mrg,55.7,352,558
-Natus Vincere,16,NiP,9,trn,65,558,352
-mousesports,25,G2,22,cch,60.5,341,67
-G2,16,mousesports,7,cbl,55.7,67,341
-NiP,12,North,16,inf,60.3,352,280
-North,16,NiP,5,nuke,58.3,280,352
-fnatic,5,Natus Vincere,16,mrg,61.4,183,558
-Natus Vincere,9,fnatic,16,ovp,64.3,558,183
-Heroic,16,Natus Vincere,14,inf,44,117,558
-Envy,13,North,16,cbl,,117,280
-Natus Vincere,10,Heroic,16,ovp,64.3,558,117
-North,16,Envy,6,nuke,58.3,280,117
-FaZe,16,Envy,7,nuke,62.8,451,117
-Envy,12,FaZe,16,trn,,451,451
-PENTA,5,FlipSid3,16,trn,,451,451
-SK,16,Immortals,12,trn,,451,451
-Immortals,16,SK,8,cbl,,451,451
-FaZe,10,BIG,16,trn,57.5,451,221
-Heroic,12,Astralis,16,inf,44,117,1000
-BIG,8,FaZe,16,ovp,53.5,221,451
-Astralis,16,Heroic,6,ovp,66.7,1000,117
-HellRaisers,16,Envy,19,cch,60,129,117
-North,16,G2,7,cbl,60.9,280,67
-Envy,16,HellRaisers,14,cbl,,280,129
-G2,16,North,9,nuke,62.1,67,280
-FaZe,16,mousesports,14,mrg,62.8,451,341
-mousesports,16,FaZe,9,cch,60.5,341,451
-HellRaisers,11,BIG,16,cbl,56.2,129,221
-Astralis,6,G2,16,inf,71.9,1000,67
-G2,16,Astralis,9,ovp,50.5,67,1000
-BIG,7,HellRaisers,16,cch,54.8,221,129
-Liquid,3,SK,16,cbl,64,455,129
-SK,12,Liquid,16,trn,,455,455
-fnatic,16,BIG,11,cbl,65.2,183,221
-BIG,9,fnatic,16,trn,53.8,221,183
-Heroic,16,HellRaisers,14,ovp,53.9,117,129
-FaZe,16,G2,12,ovp,61.2,451,67
-HellRaisers,8,Heroic,16,mrg,49.5,129,117
-G2,3,FaZe,16,cch,56.2,67,451
-Envy,11,HellRaisers,16,cbl,,67,129
-Envy,9,Heroic,16,inf,,67,117
-Virtus.pro,16,Cloud9,10,trn,,67,84
-fnatic,16,G2,10,ovp,54.8,183,67
-SK,16,Immortals,9,ovp,,183,67
-North,16,Virtus.pro,14,mrg,60,280,67
-G2,6,Astralis,16,inf,51.2,67,1000
-Natus Vincere,12,fnatic,16,mrg,63,558,183
-mousesports,11,Cloud9,16,trn,54.4,341,84
-SK,14,BIG,16,inf,,341,221
-Gambit,16,Virtus.pro,11,trn,51.8,60,221
-fnatic,14,Astralis,16,nuke,74.1,183,1000
-G2,19,Cloud9,17,cbl,55.7,67,84
-Natus Vincere,10,Immortals,16,ovp,64.3,558,84
-mousesports,15,North,19,cbl,51.1,341,280
-Virtus.pro,16,fnatic,11,cch,,341,183
-SK,16,Astralis,8,inf,,341,1000
-Gambit,16,G2,6,cch,52.5,60,67
-BIG,16,Cloud9,11,inf,56.2,221,84
-mousesports,19,FaZe,15,trn,54.4,341,451
-Astralis,19,Immortals,17,ovp,66.7,1000,451
-Natus Vincere,14,G2,16,ovp,64.3,558,67
-North,12,Cloud9,16,mrg,60,280,84
-FaZe,8,BIG,16,inf,62.3,451,221
-SK,16,PENTA,13,inf,,451,221
-Gambit,16,mousesports,10,inf,54,60,341
-CLG,10,NiP,16,ovp,,60,352
-North,7,FaZe,16,inf,57.6,280,451
-Cloud9,22,mousesports,20,inf,53.4,84,341
-fnatic,6,SK,16,mrg,61.4,183,341
-FaZe,10,OpTic,16,trn,57.5,451,156
-SK,11,G2,16,inf,,451,67
-Natus Vincere,16,mousesports,4,mrg,63,558,341
-Cloud9,16,Immortals,11,trn,67.6,84,341
-Liquid,16,OpTic,5,cbl,64,455,156
-NiP,16,mousesports,10,cch,60.1,352,341
-fnatic,12,FaZe,16,ovp,54.8,183,451
-Immortals,7,G2,16,cbl,,183,67
-North,10,SK,16,cch,52.4,280,67
-G2,6,NiP,16,cch,56.2,67,352
-Immortals,15,Liquid,19,trn,,67,455
-mousesports,16,FaZe,12,nuke,57,341,451
-Cloud9,32,Natus Vincere,34,trn,67.6,84,558
-SK,16,Virtus.pro,9,mrg,,84,558
-Natus Vincere,7,Liquid,16,inf,53.9,558,455
-North,9,OpTic,16,cbl,60.9,280,156
-NiP,16,Cloud9,12,cch,60.1,352,84
-Immortals,16,Virtus.pro,12,cbl,,352,84
-mousesports,16,fnatic,11,trn,54.4,341,183
-HellRaisers,13,Immortals,16,ovp,55.9,129,183
-BIG,16,Liquid,10,trn,53.8,221,455
-Liquid,16,HellRaisers,2,trn,56.1,455,129
-PENTA,14,mousesports,16,cbl,,455,341
-BIG,16,Immortals,9,cch,54.8,221,341
-G2,16,Cloud9,11,cch,56.2,67,84
-Liquid,3,PENTA,16,mrg,56.7,455,84
-BIG,10,Cloud9,16,cbl,57.9,221,84
-OpTic,14,PENTA,16,trn,52.1,156,84
-G2,22,Immortals,20,inf,51.2,67,84
-Cloud9,19,Astralis,15,mrg,62.4,84,1000
-Liquid,11,Astralis,16,inf,63.6,455,1000
-Cloud9,16,fnatic,8,trn,67.6,84,183
-FaZe,8,SK,16,trn,57.5,451,183
-G2,7,SK,16,cch,56.2,67,183
-FaZe,16,OpTic,9,ovp,61.2,451,156
-CLG,31,fnatic,28,trn,,451,183
-SK,10,Immortals,16,cch,,451,183
-fnatic,16,Cloud9,12,mrg,61.4,183,84
-mousesports,6,Immortals,16,cbl,51.1,341,84
-Gambit,16,CLG,19,ovp,58.1,60,84
-Cloud9,16,CLG,12,mrg,62.4,84,84
-Virtus.pro,14,G2,16,trn,,84,67
-G2,16,Virtus.pro,10,ovp,50.5,67,67
-mousesports,6,FaZe,16,cch,60.5,341,451
-FaZe,11,mousesports,16,mrg,62.8,451,341
-NiP,16,G2,11,trn,68.3,352,67
-G2,16,NiP,12,cch,56.2,67,352
-Renegades,13,CLG,16,cbl,56.9,109,352
-CLG,16,Renegades,13,cch,,109,109
-Liquid,16,North,10,cbl,64,455,280
-OpTic,16,Natus Vincere,8,cbl,55.2,156,558
-mousesports,16,Liquid,12,inf,49.1,341,455
-North,16,OpTic,14,mrg,60,280,156
-mousesports,16,OpTic,12,cbl,51.1,341,156
-fnatic,11,G2,16,ovp,54.8,183,67
-Immortals,16,Cloud9,8,mrg,,183,84
-G2,16,SK,6,cbl,55.7,67,84
-G2,10,Immortals,16,ovp,50.5,67,84
-fnatic,16,Cloud9,6,nuke,74.1,183,84
-North,16,Natus Vincere,13,mrg,60,280,558
-Liquid,16,OpTic,5,nuke,39.2,455,156
-mousesports,19,Natus Vincere,15,cbl,51.1,341,558
-mousesports,17,North,19,nuke,57,341,280
-Liquid,4,Natus Vincere,16,trn,56.1,455,558
-fnatic,3,SK,16,cch,62.6,183,558
-SK,16,Immortals,5,mrg,,183,558
-G2,4,Cloud9,16,inf,51.2,67,84
-SK,16,Cloud9,7,cbl,,67,84
-Immortals,9,SK,16,cbl,,67,84
-SK,16,Immortals,19,ovp,,67,84
-Cloud9,13,Liquid,16,mrg,62.4,84,455
-Liquid,10,Cloud9,16,trn,56.1,455,84
-Virtus.pro,2,NiP,16,trn,,455,352
-NiP,16,Virtus.pro,11,nuke,77.2,352,352
-FaZe,16,Astralis,10,nuke,62.8,451,1000
-Astralis,16,FaZe,1,trn,63.6,1000,451
-Immortals,16,CLG,13,mrg,,1000,451
-CLG,4,Immortals,16,cbl,,1000,451
-Cloud9,8,SK,16,cbl,64.4,84,451
-SK,9,Cloud9,16,cch,,84,84
-FaZe,16,fnatic,11,trn,57.5,451,183
-fnatic,19,FaZe,17,mrg,61.4,183,451
-Liquid,10,SK,16,cbl,64,455,451
-SK,16,Liquid,12,mrg,,455,455
-fnatic,14,G2,16,trn,58,183,67
-G2,16,fnatic,8,cbl,55.7,67,183
-mousesports,7,Astralis,16,mrg,61.8,341,1000
-Astralis,20,mousesports,22,nuke,75.7,1000,341
-mousesports,17,fnatic,19,nuke,57,341,183
-fnatic,16,mousesports,10,trn,58,183,341
-CLG,15,SK,19,cch,,183,341
-SK,16,CLG,10,ovp,,183,341
-Astralis,8,fnatic,16,inf,71.9,1000,183
-fnatic,1,Astralis,16,trn,58,183,1000
-OpTic,17,Immortals,19,mrg,58.7,156,1000
-Immortals,10,OpTic,16,cbl,,156,156
-FaZe,16,G2,14,ovp,61.2,451,67
-G2,5,FaZe,16,nuke,62.1,67,451
-OpTic,5,Cloud9,16,cbl,55.2,156,84
-Cloud9,4,OpTic,16,trn,67.6,84,156
-Misfits,16,CLG,13,cch,,84,156
-SK,12,CLG,16,mrg,,84,156
-Misfits,13,Immortals,16,cch,,84,156
-CLG,16,SK,12,trn,,84,156
-Natus Vincere,25,Heroic,22,cbl,53.6,558,117
-FaZe,14,G2,16,cch,54.6,451,67
-NiP,16,HellRaisers,5,cch,60.1,352,129
-fnatic,16,mousesports,6,mrg,61.4,183,341
-Virtus.pro,7,North,16,cch,,183,280
-Heroic,16,Natus Vincere,14,ovp,53.9,117,558
-HellRaisers,14,NiP,16,trn,49,129,352
-mousesports,10,fnatic,16,cch,60.5,341,183
-North,16,Virtus.pro,6,inf,57.6,280,183
-G2,16,FaZe,4,inf,51.2,67,451
-Cloud9,11,Liquid,16,inf,53.4,84,455
-Liquid,16,Cloud9,5,trn,56.1,455,84
-CLG,14,Cloud9,16,cch,,455,84
-Cloud9,16,CLG,13,mrg,62.4,84,84
-mousesports,16,G2,13,trn,54.4,341,67
-G2,16,mousesports,11,cbl,55.7,67,341
-Virtus.pro,9,fnatic,16,mrg,,67,183
-FaZe,19,HellRaisers,15,cch,54.6,451,129
-fnatic,19,Virtus.pro,15,inf,67.2,183,129
-HellRaisers,16,FaZe,14,trn,49,129,451
-CLG,15,OpTic,19,mrg,,129,156
-Natus Vincere,3,mousesports,16,mrg,63,558,341
-Heroic,10,mousesports,16,cbl,53.4,117,341
-Immortals,12,Liquid,16,cbl,,117,455
-Liquid,16,Immortals,13,cbl,64,455,455
-Virtus.pro,11,mousesports,16,ovp,,455,341
-mousesports,18,Virtus.pro,22,trn,54.4,341,341
-FaZe,16,OpTic,6,trn,57.5,451,156
-SK,16,Astralis,12,inf,,451,1000
-North,16,FaZe,19,cch,52.4,280,451
-CLG,16,Liquid,4,cch,,280,455
-Liquid,16,CLG,12,cbl,64,455,455
-NiP,16,fnatic,14,cbl,57.8,352,183
-fnatic,16,NiP,13,inf,67.2,183,352
-mousesports,11,NiP,16,cbl,51.1,341,352
-NiP,11,mousesports,16,cch,60.1,352,341
-FaZe,7,Astralis,16,cbl,34.8,451,1000
-SK,16,North,14,cbl,,451,280
-North,25,OpTic,23,inf,57.6,280,156
-GODSENT,10,mousesports,16,cch,,280,341
-mousesports,11,GODSENT,16,mrg,61.8,341,341
-Immortals,16,Cloud9,7,inf,,341,84
-HellRaisers,7,Gambit,16,nuke,50.9,129,60
-G2,10,Cloud9,16,cch,56.2,67,84
-Gambit,25,Heroic,23,trn,51.8,60,117
-Immortals,16,Liquid,11,inf,,60,455
-mousesports,16,Natus Vincere,0,mrg,61.8,341,558
-Natus Vincere,8,mousesports,16,nuke,46.6,558,341
-Liquid,9,Immortals,16,inf,63.6,455,341
-Immortals,3,Liquid,16,cbl,,455,455
-fnatic,16,Astralis,14,trn,58,183,1000
-NiP,3,North,16,cbl,57.8,352,280
-Astralis,16,fnatic,6,inf,71.9,1000,183
-North,16,NiP,1,cch,52.4,280,352
-G2,10,Virtus.pro,16,inf,51.2,67,352
-FaZe,16,NiP,1,inf,62.3,451,352
-Virtus.pro,13,G2,16,nuke,,451,67
-NiP,13,FaZe,16,nuke,77.2,352,451
-FaZe,16,Virtus.pro,4,nuke,62.8,451,451
-Virtus.pro,11,FaZe,16,inf,,451,451
-HellRaisers,8,mousesports,16,cch,60,129,341
+Astralis,16,Heroic,2,trn,63.6,1000,110
+SK,5,Heroic,16,trn,,1000,110
+Astralis,16,Liquid,11,ovp,66.7,1000,510
+FaZe,16,NiP,7,mrg,62.8,444,354
+NiP,16,FaZe,6,cbl,57.8,354,444
+NiP,16,G2,13,ovp,57,354,67
+G2,14,NiP,16,nuke,61.2,67,354
+Envy,16,Natus Vincere,14,cbl,,67,569
+fnatic,16,mousesports,10,cch,62.6,197,305
+Natus Vincere,16,Envy,5,trn,64.8,569,305
+mousesports,1,fnatic,16,trn,54.6,305,197
+SK,16,CLG,7,ovp,,305,197
+CLG,16,SK,3,cch,,305,197
+Heroic,16,fnatic,19,inf,44,110,197
+mousesports,14,North,16,mrg,61.8,305,226
+fnatic,16,Heroic,13,mrg,61.4,197,110
+North,16,mousesports,12,cbl,60.9,226,305
+Natus Vincere,13,HellRaisers,16,inf,53.7,569,161
+HellRaisers,16,Natus Vincere,5,ovp,55.6,161,569
+Envy,2,Cloud9,16,trn,,161,85
+Cloud9,16,NiP,6,mrg,62.4,85,354
+Virtus.pro,6,Envy,16,cbl,57.3,72,354
+Immortals,20,North,22,cbl,,72,226
+North,16,fnatic,14,mrg,59.3,226,197
+mousesports,8,Immortals,16,cbl,51.1,305,197
+FaZe,16,Astralis,6,inf,62.3,444,1000
+SK,16,Cloud9,5,trn,,444,85
+Cloud9,16,Natus Vincere,13,inf,53.4,85,569
+Astralis,16,Liquid,13,mrg,69.1,1000,510
+SK,16,Envy,12,cbl,,1000,510
+FaZe,16,Virtus.pro,5,cch,54.6,444,72
+Heroic,1,BIG,16,ovp,53.9,110,262
+BIG,19,Heroic,15,trn,53.7,262,110
+FaZe,16,Natus Vincere,6,inf,62.3,444,569
+Cloud9,13,Immortals,16,cch,61.6,85,569
+G2,10,Natus Vincere,16,inf,50.8,67,569
+FaZe,16,Renegades,9,mrg,62.8,444,105
+Gambit,12,SK,16,ovp,,444,105
+fnatic,16,Envy,9,cch,62.6,197,105
+Envy,10,fnatic,16,cbl,,197,197
+SK,19,mousesports,15,inf,,197,305
+NiP,16,HellRaisers,6,trn,68.3,354,161
+Gambit,16,Heroic,7,mrg,,354,110
+HellRaisers,5,NiP,16,inf,54.8,161,354
+Liquid,10,Virtus.pro,16,mrg,56.7,510,72
+Virtus.pro,16,Envy,6,trn,52.1,72,72
+Liquid,16,BIG,14,ovp,56.5,510,262
+Cloud9,16,Immortals,3,trn,67.6,85,262
+Immortals,16,Cloud9,5,inf,,85,85
+North,16,HellRaisers,9,cbl,60.9,226,161
+HellRaisers,16,North,9,ovp,55.6,161,226
+NiP,14,Astralis,16,nuke,77.2,354,1000
+Astralis,16,NiP,6,inf,72.5,1000,354
+mousesports,16,HellRaisers,4,mrg,61.8,305,161
+Heroic,16,Envy,9,inf,44,110,161
+mousesports,9,FaZe,16,mrg,61.8,305,444
+fnatic,16,Envy,13,cbl,65.2,197,444
+G2,16,Envy,13,inf,50.8,67,444
+FaZe,8,NiP,16,nuke,62.8,444,354
+Gambit,16,mousesports,6,trn,,444,305
+Immortals,16,fnatic,14,cbl,,444,197
+Cloud9,10,North,16,inf,53.4,85,226
+Virtus.pro,4,Natus Vincere,16,inf,47.3,72,569
+NiP,16,Natus Vincere,13,mrg,55.7,354,569
+Natus Vincere,16,NiP,9,trn,64.8,569,354
+mousesports,25,G2,22,cch,60.5,305,67
+G2,16,mousesports,7,cbl,55.7,67,305
+NiP,12,North,16,inf,60.3,354,226
+North,16,NiP,5,nuke,58.3,226,354
+fnatic,5,Natus Vincere,16,mrg,61.4,197,569
+Natus Vincere,9,fnatic,16,ovp,64.3,569,197
+Heroic,16,Natus Vincere,14,inf,44,110,569
+Envy,13,North,16,cbl,,110,226
+Natus Vincere,10,Heroic,16,ovp,64.3,569,110
+North,16,Envy,6,nuke,58.3,226,110
+FaZe,16,Envy,7,nuke,62.8,444,110
+Envy,12,FaZe,16,trn,,444,444
+PENTA,5,FlipSid3,16,trn,,444,444
+SK,16,Immortals,12,trn,,444,444
+Immortals,16,SK,8,cbl,,444,444
+FaZe,10,BIG,16,trn,57.5,444,262
+Heroic,12,Astralis,16,inf,44,110,1000
+BIG,8,FaZe,16,ovp,54.2,262,444
+Astralis,16,Heroic,6,ovp,66.7,1000,110
+HellRaisers,16,Envy,19,cch,60,161,110
+North,16,G2,7,cbl,60.9,226,67
+Envy,16,HellRaisers,14,cbl,,226,161
+G2,16,North,9,nuke,61.2,67,226
+FaZe,16,mousesports,14,mrg,62.8,444,305
+mousesports,16,FaZe,9,cch,60.5,305,444
+HellRaisers,11,BIG,16,cbl,56.2,161,262
+Astralis,6,G2,16,inf,72.5,1000,67
+G2,16,Astralis,9,ovp,51.8,67,1000
+BIG,7,HellRaisers,16,cch,54,262,161
+Liquid,3,SK,16,cbl,64,510,161
+SK,12,Liquid,16,trn,,510,510
+fnatic,16,BIG,11,cbl,65.2,197,262
+BIG,9,fnatic,16,trn,53.7,262,197
+Heroic,16,HellRaisers,14,ovp,53.9,110,161
+FaZe,16,G2,12,ovp,61.2,444,67
+HellRaisers,8,Heroic,16,mrg,50,161,110
+G2,3,FaZe,16,cch,55.9,67,444
+Envy,11,HellRaisers,16,cbl,,67,161
+Envy,9,Heroic,16,inf,,67,110
+Virtus.pro,16,Cloud9,10,trn,52.1,72,85
+fnatic,16,G2,10,ovp,54.8,197,67
+SK,16,Immortals,9,ovp,,197,67
+North,16,Virtus.pro,14,mrg,59.3,226,72
+G2,6,Astralis,16,inf,50.8,67,1000
+Natus Vincere,12,fnatic,16,mrg,63.3,569,197
+mousesports,11,Cloud9,16,trn,54.6,305,85
+SK,14,BIG,16,inf,,305,262
+Gambit,16,Virtus.pro,11,trn,,305,72
+fnatic,14,Astralis,16,nuke,74.1,197,1000
+G2,19,Cloud9,17,cbl,55.7,67,85
+Natus Vincere,10,Immortals,16,ovp,64.3,569,85
+mousesports,15,North,19,cbl,51.1,305,226
+Virtus.pro,16,fnatic,11,cch,52.2,72,197
+SK,16,Astralis,8,inf,,72,1000
+Gambit,16,G2,6,cch,,72,67
+BIG,16,Cloud9,11,inf,55.1,262,85
+mousesports,19,FaZe,15,trn,54.6,305,444
+Astralis,19,Immortals,17,ovp,66.7,1000,444
+Natus Vincere,14,G2,16,ovp,64.3,569,67
+North,12,Cloud9,16,mrg,59.3,226,85
+FaZe,8,BIG,16,inf,62.3,444,262
+SK,16,PENTA,13,inf,,444,262
+Gambit,16,mousesports,10,inf,,444,305
+CLG,10,NiP,16,ovp,,444,354
+North,7,FaZe,16,inf,57,226,444
+Cloud9,22,mousesports,20,inf,53.4,85,305
+fnatic,6,SK,16,mrg,61.4,197,305
+FaZe,10,OpTic,16,trn,57.5,444,151
+SK,11,G2,16,inf,,444,67
+Natus Vincere,16,mousesports,4,mrg,63.3,569,305
+Cloud9,16,Immortals,11,trn,67.6,85,305
+Liquid,16,OpTic,5,cbl,64,510,151
+NiP,16,mousesports,10,cch,60.1,354,305
+fnatic,12,FaZe,16,ovp,54.8,197,444
+Immortals,7,G2,16,cbl,,197,67
+North,10,SK,16,cch,52.4,226,67
+G2,6,NiP,16,cch,55.9,67,354
+Immortals,15,Liquid,19,trn,,67,510
+mousesports,16,FaZe,12,nuke,57.4,305,444
+Cloud9,32,Natus Vincere,34,trn,67.6,85,569
+SK,16,Virtus.pro,9,mrg,,85,72
+Natus Vincere,7,Liquid,16,inf,53.7,569,510
+North,9,OpTic,16,cbl,60.9,226,151
+NiP,16,Cloud9,12,cch,60.1,354,85
+Immortals,16,Virtus.pro,12,cbl,,354,72
+mousesports,16,fnatic,11,trn,54.6,305,197
+HellRaisers,13,Immortals,16,ovp,55.6,161,197
+BIG,16,Liquid,10,trn,53.7,262,510
+Liquid,16,HellRaisers,2,trn,56.1,510,161
+PENTA,14,mousesports,16,cbl,,510,305
+BIG,16,Immortals,9,cch,54,262,305
+G2,16,Cloud9,11,cch,55.9,67,85
+Liquid,3,PENTA,16,mrg,56.7,510,85
+BIG,10,Cloud9,16,cbl,57.9,262,85
+OpTic,14,PENTA,16,trn,52.1,151,85
+G2,22,Immortals,20,inf,50.8,67,85
+Cloud9,19,Astralis,15,mrg,62.4,85,1000
+Liquid,11,Astralis,16,inf,63.7,510,1000
+Cloud9,16,fnatic,8,trn,67.6,85,197
+FaZe,8,SK,16,trn,57.5,444,197
+G2,7,SK,16,cch,55.9,67,197
+FaZe,16,OpTic,9,ovp,61.2,444,151
+CLG,31,fnatic,28,trn,,444,197
+SK,10,Immortals,16,cch,,444,197
+fnatic,16,Cloud9,12,mrg,61.4,197,85
+mousesports,6,Immortals,16,cbl,51.1,305,85
+Gambit,16,CLG,19,ovp,,305,85
+Cloud9,16,CLG,12,mrg,62.4,85,85
+Virtus.pro,14,G2,16,trn,52.1,72,67
+G2,16,Virtus.pro,10,ovp,51.8,67,72
+mousesports,6,FaZe,16,cch,60.5,305,444
+FaZe,11,mousesports,16,mrg,62.8,444,305
+NiP,16,G2,11,trn,68.3,354,67
+G2,16,NiP,12,cch,55.9,67,354
+Renegades,13,CLG,16,cbl,56.9,105,354
+CLG,16,Renegades,13,cch,,105,105
+Liquid,16,North,10,cbl,64,510,226
+OpTic,16,Natus Vincere,8,cbl,55.2,151,569
+mousesports,16,Liquid,12,inf,48.8,305,510
+North,16,OpTic,14,mrg,59.3,226,151
+mousesports,16,OpTic,12,cbl,51.1,305,151
+fnatic,11,G2,16,ovp,54.8,197,67
+Immortals,16,Cloud9,8,mrg,,197,85
+G2,16,SK,6,cbl,55.7,67,85
+G2,10,Immortals,16,ovp,51.8,67,85
+fnatic,16,Cloud9,6,nuke,74.1,197,85
+North,16,Natus Vincere,13,mrg,59.3,226,569
+Liquid,16,OpTic,5,nuke,39.6,510,151
+mousesports,19,Natus Vincere,15,cbl,51.1,305,569
+mousesports,17,North,19,nuke,57.4,305,226
+Liquid,4,Natus Vincere,16,trn,56.1,510,569
+fnatic,3,SK,16,cch,62.6,197,569
+SK,16,Immortals,5,mrg,,197,569
+G2,4,Cloud9,16,inf,50.8,67,85
+SK,16,Cloud9,7,cbl,,67,85
+Immortals,9,SK,16,cbl,,67,85
+SK,16,Immortals,19,ovp,,67,85
+Cloud9,13,Liquid,16,mrg,62.4,85,510
+Liquid,10,Cloud9,16,trn,56.1,510,85
+Virtus.pro,2,NiP,16,trn,52.1,72,354
+NiP,16,Virtus.pro,11,nuke,77.2,354,72
+FaZe,16,Astralis,10,nuke,62.8,444,1000
+Astralis,16,FaZe,1,trn,63.6,1000,444
+Immortals,16,CLG,13,mrg,,1000,444
+CLG,4,Immortals,16,cbl,,1000,444
+Cloud9,8,SK,16,cbl,64.4,85,444
+SK,9,Cloud9,16,cch,,85,85
+FaZe,16,fnatic,11,trn,57.5,444,197
+fnatic,19,FaZe,17,mrg,61.4,197,444
+Liquid,10,SK,16,cbl,64,510,444
+SK,16,Liquid,12,mrg,,510,510
+fnatic,14,G2,16,trn,58,197,67
+G2,16,fnatic,8,cbl,55.7,67,197
+mousesports,7,Astralis,16,mrg,61.8,305,1000
+Astralis,20,mousesports,22,nuke,76,1000,305
+mousesports,17,fnatic,19,nuke,57.4,305,197
+fnatic,16,mousesports,10,trn,58,197,305
+CLG,15,SK,19,cch,,197,305
+SK,16,CLG,10,ovp,,197,305
+Astralis,8,fnatic,16,inf,72.5,1000,197
+fnatic,1,Astralis,16,trn,58,197,1000
+OpTic,17,Immortals,19,mrg,59.5,151,1000
+Immortals,10,OpTic,16,cbl,,151,151
+FaZe,16,G2,14,ovp,61.2,444,67
+G2,5,FaZe,16,nuke,61.2,67,444
+OpTic,5,Cloud9,16,cbl,55.2,151,85
+Cloud9,4,OpTic,16,trn,67.6,85,151
+Misfits,16,CLG,13,cch,,85,151
+SK,12,CLG,16,mrg,,85,151
+Misfits,13,Immortals,16,cch,,85,151
+CLG,16,SK,12,trn,,85,151
+Natus Vincere,25,Heroic,22,cbl,53.6,569,110
+FaZe,14,G2,16,cch,54.6,444,67
+NiP,16,HellRaisers,5,cch,60.1,354,161
+fnatic,16,mousesports,6,mrg,61.4,197,305
+Virtus.pro,7,North,16,cch,52.2,72,226
+Heroic,16,Natus Vincere,14,ovp,53.9,110,569
+HellRaisers,14,NiP,16,trn,49,161,354
+mousesports,10,fnatic,16,cch,60.5,305,197
+North,16,Virtus.pro,6,inf,57,226,72
+G2,16,FaZe,4,inf,50.8,67,444
+Cloud9,11,Liquid,16,inf,53.4,85,510
+Liquid,16,Cloud9,5,trn,56.1,510,85
+CLG,14,Cloud9,16,cch,,510,85
+Cloud9,16,CLG,13,mrg,62.4,85,85
+mousesports,16,G2,13,trn,54.6,305,67
+G2,16,mousesports,11,cbl,55.7,67,305
+Virtus.pro,9,fnatic,16,mrg,60,72,197
+FaZe,19,HellRaisers,15,cch,54.6,444,161
+fnatic,19,Virtus.pro,15,inf,67.2,197,72
+HellRaisers,16,FaZe,14,trn,49,161,444
+CLG,15,OpTic,19,mrg,,161,151
+Natus Vincere,3,mousesports,16,mrg,63.3,569,305
+Heroic,10,mousesports,16,cbl,53.4,110,305
+Immortals,12,Liquid,16,cbl,,110,510
+Liquid,16,Immortals,13,cbl,64,510,510
+Virtus.pro,11,mousesports,16,ovp,51,72,305
+mousesports,18,Virtus.pro,22,trn,54.6,305,72
+FaZe,16,OpTic,6,trn,57.5,444,151
+SK,16,Astralis,12,inf,,444,1000
+North,16,FaZe,19,cch,52.4,226,444
+CLG,16,Liquid,4,cch,,226,510
+Liquid,16,CLG,12,cbl,64,510,510
+NiP,16,fnatic,14,cbl,57.8,354,197
+fnatic,16,NiP,13,inf,67.2,197,354
+mousesports,11,NiP,16,cbl,51.1,305,354
+NiP,11,mousesports,16,cch,60.1,354,305
+FaZe,7,Astralis,16,cbl,34.8,444,1000
+SK,16,North,14,cbl,,444,226
+North,25,OpTic,23,inf,57,226,151
+GODSENT,10,mousesports,16,cch,,226,305
+mousesports,11,GODSENT,16,mrg,61.8,305,305
+Immortals,16,Cloud9,7,inf,,305,85
+HellRaisers,7,Gambit,16,nuke,50.9,161,85
+G2,10,Cloud9,16,cch,55.9,67,85
+Gambit,25,Heroic,23,trn,,67,110
+Immortals,16,Liquid,11,inf,,67,510
+mousesports,16,Natus Vincere,0,mrg,61.8,305,569
+Natus Vincere,8,mousesports,16,nuke,46.7,569,305
+Liquid,9,Immortals,16,inf,63.7,510,305
+Immortals,3,Liquid,16,cbl,,510,510
+fnatic,16,Astralis,14,trn,58,197,1000
+NiP,3,North,16,cbl,57.8,354,226
+Astralis,16,fnatic,6,inf,72.5,1000,197
+North,16,NiP,1,cch,52.4,226,354
+G2,10,Virtus.pro,16,inf,50.8,67,72
+FaZe,16,NiP,1,inf,62.3,444,354
+Virtus.pro,13,G2,16,nuke,58.8,72,67
+NiP,13,FaZe,16,nuke,77.2,354,444
+FaZe,16,Virtus.pro,4,nuke,62.8,444,72
+Virtus.pro,11,FaZe,16,inf,47.3,72,444
+HellRaisers,8,mousesports,16,cch,60,161,305
 Astralis,9,G2,16,cch,58.5,1000,67
-Virtus.pro,10,FaZe,16,inf,,1000,451
-mousesports,16,HellRaisers,12,mrg,61.8,341,129
-G2,16,Astralis,12,trn,47,67,1000
-FaZe,16,Virtus.pro,4,trn,57.5,451,1000
-North,16,Kinguin,5,inf,57.6,280,65
-Kinguin,11,North,16,cbl,57.4,65,280
-Heroic,16,Virtus.pro,9,trn,49.6,117,280
-Virtus.pro,1,Heroic,16,nuke,,117,117
-G2,13,Natus Vincere,16,ovp,50.5,67,558
-Natus Vincere,10,G2,16,nuke,46.6,558,67
-Astralis,12,NiP,16,cch,58.5,1000,352
-NiP,12,Astralis,16,inf,60.3,352,1000
-mousesports,19,FaZe,17,inf,49.1,341,451
-FaZe,16,mousesports,10,ovp,61.2,451,341
-OpTic,4,SK,16,ovp,59.3,156,341
-SK,15,OpTic,19,cch,,156,156
+Virtus.pro,10,FaZe,16,inf,47.3,72,444
+mousesports,16,HellRaisers,12,mrg,61.8,305,161
+G2,16,Astralis,12,trn,46.4,67,1000
+FaZe,16,Virtus.pro,4,trn,57.5,444,72
+North,16,Kinguin,5,inf,57,226,72
+Kinguin,11,North,16,cbl,,226,226
+Heroic,16,Virtus.pro,9,trn,49.6,110,72
+Virtus.pro,1,Heroic,16,nuke,58.8,72,110
+G2,13,Natus Vincere,16,ovp,51.8,67,569
+Natus Vincere,10,G2,16,nuke,46.7,569,67
+Astralis,12,NiP,16,cch,58.5,1000,354
+NiP,12,Astralis,16,inf,60.3,354,1000
+mousesports,19,FaZe,17,inf,48.8,305,444
+FaZe,16,mousesports,10,ovp,61.2,444,305
+OpTic,4,SK,16,ovp,59.3,151,305
+SK,15,OpTic,19,cch,,151,151
 Astralis,16,G2,12,trn,63.6,1000,67
-G2,16,Astralis,6,nuke,62.1,67,1000
-Immortals,13,Cloud9,16,cbl,,67,84
-Cloud9,6,Immortals,16,cch,61.6,84,84
-OpTic,16,CLG,11,trn,52.1,156,84
-CLG,16,OpTic,13,cch,,156,156
-Virtus.pro,16,Astralis,8,trn,,156,1000
-Astralis,16,Virtus.pro,9,inf,71.9,1000,1000
-OpTic,11,Liquid,16,cbl,55.2,156,455
-Liquid,16,OpTic,8,cbl,64,455,156
-NiP,14,Astralis,16,cch,60.1,352,1000
-Astralis,14,NiP,16,trn,63.6,1000,352
-Liquid,16,SK,14,inf,63.6,455,352
-SK,16,Liquid,9,mrg,,455,455
-CLG,6,Immortals,16,ovp,,455,455
-Immortals,16,CLG,8,inf,,455,455
-FaZe,25,North,22,mrg,62.8,451,280
-mousesports,11,G2,16,nuke,57,341,67
-North,14,FaZe,16,cch,52.4,280,451
-G2,16,mousesports,10,cbl,55.7,67,341
-fnatic,16,HellRaisers,14,cch,62.6,183,129
-NiP,16,Virtus.pro,9,cbl,57.8,352,129
-HellRaisers,10,fnatic,16,cbl,56.2,129,183
-Virtus.pro,16,NiP,6,nuke,,129,352
-Cloud9,16,SK,10,cch,61.6,84,352
-SK,16,Cloud9,12,inf,,84,84
-OpTic,14,Liquid,16,cbl,55.2,156,455
-Liquid,16,OpTic,13,nuke,39.2,455,156
-NiP,9,G2,16,trn,68.3,352,67
-Astralis,16,HellRaisers,14,mrg,69.7,1000,129
-G2,16,NiP,10,cbl,55.7,67,352
-HellRaisers,9,Astralis,16,ovp,55.9,129,1000
-Natus Vincere,16,Kinguin,5,inf,53.9,558,65
-Kinguin,6,Natus Vincere,16,mrg,59.6,65,558
-fnatic,6,Heroic,16,cbl,65.2,183,117
-Heroic,11,fnatic,16,trn,49.6,117,183
-fnatic,16,NiP,7,trn,58,183,352
-FaZe,16,SK,7,trn,57.5,451,352
-Astralis,16,SK,12,trn,63.6,1000,352
-HellRaisers,16,NiP,13,ovp,55.9,129,352
-FaZe,13,North,16,cch,54.6,451,280
-Virtus.pro,2,fnatic,16,inf,,451,183
-fnatic,13,Astralis,16,mrg,61.4,183,1000
-SK,8,G2,16,ovp,,183,67
-NiP,16,Virtus.pro,5,nuke,77.2,352,67
-Natus Vincere,16,North,11,inf,53.9,558,280
-Gambit,13,FaZe,16,cch,52.5,60,451
-Virtus.pro,2,SK,16,mrg,,60,451
-fnatic,9,Natus Vincere,16,ovp,54.8,183,558
-G2,16,HellRaisers,2,cbl,55.7,67,129
-Astralis,16,North,19,inf,71.9,1000,280
-FaZe,16,Immortals,10,mrg,62.8,451,280
-NiP,6,G2,16,inf,60.3,352,67
-Gambit,8,fnatic,16,inf,54,60,183
-FaZe,10,HellRaisers,16,cch,54.6,451,129
-North,16,Immortals,3,cbl,60.9,280,129
-G2,16,LDLC,5,inf,51.2,67,158
-FaZe,16,fnatic,13,trn,57.5,451,183
-LDLC,12,G2,16,nuke,54.6,158,67
-fnatic,16,FaZe,10,ovp,54.8,183,451
-North,16,HellRaisers,10,mrg,60,280,129
-HellRaisers,16,North,13,cch,60,129,280
-Kinguin,9,Astralis,16,cch,55.6,65,1000
-Astralis,16,Kinguin,7,ovp,66.7,1000,65
-Natus Vincere,8,NiP,16,cbl,53.6,558,352
-NiP,12,Natus Vincere,16,ovp,57,352,558
-G2,16,fnatic,5,trn,47,67,183
-Cloud9,16,OpTic,6,trn,67.6,84,156
-OpTic,11,Cloud9,16,nuke,61.5,156,84
-OpTic,7,SK,16,inf,58.7,156,84
-SK,14,OpTic,16,trn,,156,156
-Heroic,12,mousesports,16,cbl,53.4,117,341
-mousesports,4,Heroic,16,nuke,57,341,117
-HellRaisers,16,Natus Vincere,11,mrg,49.5,129,558
-Natus Vincere,16,HellRaisers,5,inf,53.9,558,129
-HellRaisers,16,Kinguin,4,cch,60,129,65
-G2,19,Kinguin,16,cbl,55.7,67,65
-Astralis,9,FaZe,16,nuke,75.7,1000,451
-FaZe,14,Astralis,16,inf,62.3,451,1000
-Kinguin,8,G2,16,cch,55.6,65,67
-Heroic,10,North,16,mrg,55,117,280
-mousesports,11,Virtus.pro,16,nuke,57,341,280
-North,19,Heroic,16,ovp,57.8,280,117
-Virtus.pro,16,mousesports,5,inf,,280,341
-Virtus.pro,10,HellRaisers,16,ovp,,280,129
-HellRaisers,16,Virtus.pro,10,mrg,49.5,129,129
-North,16,Natus Vincere,19,mrg,60,280,558
-Natus Vincere,4,North,16,cbl,53.6,558,280
-fnatic,14,NiP,16,inf,67.2,183,352
-NiP,16,fnatic,7,cch,60.1,352,183
-G2,9,HellRaisers,16,ovp,50.5,67,129
-Natus Vincere,16,FaZe,6,mrg,63,558,451
-HellRaisers,19,G2,15,inf,54.8,129,67
-GODSENT,14,Gambit,16,ovp,,129,60
-FaZe,9,Natus Vincere,16,trn,57.5,451,558
-Heroic,7,Astralis,16,inf,44,117,1000
-fnatic,16,Natus Vincere,12,mrg,61.4,183,558
-Astralis,16,Heroic,10,nuke,75.7,1000,117
-Natus Vincere,16,fnatic,7,trn,65,558,183
-Kinguin,14,NiP,16,trn,54.4,65,352
-Astralis,16,North,11,nuke,75.7,1000,280
-NiP,16,Kinguin,12,cch,60.1,352,65
-North,16,Astralis,4,ovp,57.8,280,1000
-HellRaisers,16,Heroic,6,trn,49,129,117
-Virtus.pro,16,fnatic,5,mrg,,129,183
-Heroic,16,HellRaisers,12,mrg,55,117,129
-fnatic,16,Virtus.pro,2,trn,58,183,129
-NiP,9,FaZe,16,ovp,57,352,451
-mousesports,16,North,5,inf,49.1,341,280
-North,8,mousesports,16,mrg,60,280,341
-FaZe,16,NiP,9,nuke,62.8,451,352
-Astralis,15,Virtus.pro,19,nuke,75.7,1000,352
-Virtus.pro,16,Astralis,8,inf,,1000,1000
-North,16,G2,10,inf,57.6,280,67
-G2,13,North,16,nuke,62.1,67,280
-Cloud9,8,Immortals,16,cbl,64.4,84,280
-Immortals,9,Cloud9,16,trn,,84,84
-G2,13,Heroic,16,ovp,50.5,67,117
-Heroic,13,G2,16,trn,49.6,117,67
-Heroic,16,Virtus.pro,14,nuke,66.3,117,67
-Cloud9,6,Natus Vincere,16,mrg,62.4,84,558
-North,8,SK,16,cbl,60.9,280,558
-Cloud9,12,North,16,cbl,64.4,84,280
-Natus Vincere,12,Heroic,16,ovp,64.3,558,117
-SK,14,Virtus.pro,16,inf,,558,117
-Natus Vincere,12,North,16,cbl,53.6,558,280
-Cloud9,4,Virtus.pro,16,mrg,62.4,84,280
-SK,16,Heroic,5,mrg,,84,117
-North,16,Virtus.pro,13,cbl,60.9,280,117
-Cloud9,16,Heroic,7,cbl,64.4,84,117
-North,17,Heroic,19,nuke,58.3,280,117
-Natus Vincere,16,SK,12,ovp,64.3,558,117
-Cloud9,16,SK,9,nuke,52.9,84,117
-Natus Vincere,16,Virtus.pro,9,trn,65,558,117
-OpTic,13,NiP,16,inf,58.7,156,352
-FaZe,8,Astralis,16,trn,57.5,451,1000
-OpTic,12,FaZe,16,trn,52.1,156,451
-Astralis,19,fnatic,17,inf,71.9,1000,183
-NiP,6,FaZe,16,cch,60.1,352,451
-OpTic,10,fnatic,16,trn,52.1,156,183
-NiP,24,Astralis,28,ovp,57,352,1000
-FaZe,16,fnatic,11,trn,57.5,451,183
-OpTic,12,Astralis,16,trn,52.1,156,1000
-NiP,14,fnatic,16,cch,60.1,352,183
-Kinguin,14,mousesports,16,cbl,57.4,65,341
-mousesports,16,Kinguin,5,nuke,57,341,65
-OpTic,16,Immortals,5,ovp,59.3,156,65
-Immortals,16,OpTic,6,cbl,,156,156
-fnatic,16,G2,14,cbl,65.2,183,67
-GODSENT,13,FlipSid3,16,cch,,183,67
-FaZe,10,mousesports,16,mrg,62.8,451,341
-SK,16,Cloud9,6,ovp,,451,84
-Virtus.pro,10,Gambit,16,cbl,,451,60
-Astralis,16,OpTic,9,nuke,75.7,1000,156
-Natus Vincere,12,mousesports,16,cbl,53.6,558,341
-NiP,14,Cloud9,16,ovp,57,352,84
-fnatic,8,Gambit,16,inf,67.2,183,60
-North,11,OpTic,16,inf,57.6,280,156
-Gambit,16,FlipSid3,2,d2,undefined,60,156
-Kinguin,9,Virtus.pro,16,cbl,57.4,65,156
-Gambit,19,Space Soldiers,15,nuke,54.5,60,156
-Virtus.pro,15,Kinguin,19,ovp,,60,65
-fnatic,12,North,16,ovp,54.8,183,280
-North,16,fnatic,5,mrg,60,280,183
-mousesports,16,NiP,10,trn,54.4,341,352
-Virtus.pro,16,Natus Vincere,8,cbl,,341,558
-FlipSid3,16,Space Soldiers,12,nuke,,341,558
-Natus Vincere,16,Virtus.pro,10,trn,65,558,558
-NiP,8,mousesports,16,d2,undefined,352,341
-SK,16,Immortals,7,cbl,,352,341
-Immortals,11,SK,16,cch,,352,341
-mousesports,11,Astralis,16,nuke,57,341,1000
-Kinguin,16,FaZe,8,d2,undefined,65,451
-Astralis,8,mousesports,16,mrg,69.7,1000,341
-FaZe,6,Kinguin,16,ovp,61.2,451,65
-Astralis,16,Natus Vincere,4,nuke,75.7,1000,558
-Natus Vincere,16,Astralis,11,ovp,64.3,558,1000
-Liquid,3,Astralis,16,mrg,56.7,455,1000
-FaZe,16,Envy,11,nuke,62.8,451,1000
-North,19,GODSENT,17,ovp,57.8,280,1000
-Gambit,16,FaZe,14,ovp,58.1,60,451
-SK,19,Astralis,17,d2,,60,1000
-GODSENT,16,OpTic,8,cch,,60,156
-mousesports,4,Liquid,16,nuke,57,341,455
-Envy,11,fnatic,16,cbl,,341,183
-North,16,G2,9,ovp,57.8,280,67
-FlipSid3,13,OpTic,16,trn,,280,156
-Liquid,18,FaZe,22,nuke,39.2,455,451
-SK,3,Natus Vincere,16,d2,,455,558
+G2,16,Astralis,6,nuke,61.2,67,1000
+Immortals,13,Cloud9,16,cbl,,67,85
+Cloud9,6,Immortals,16,cch,61.6,85,85
+OpTic,16,CLG,11,trn,52.1,151,85
+CLG,16,OpTic,13,cch,,151,151
+Virtus.pro,16,Astralis,8,trn,52.1,72,1000
+Astralis,16,Virtus.pro,9,inf,72.5,1000,72
+OpTic,11,Liquid,16,cbl,55.2,151,510
+Liquid,16,OpTic,8,cbl,64,510,151
+NiP,14,Astralis,16,cch,60.1,354,1000
+Astralis,14,NiP,16,trn,63.6,1000,354
+Liquid,16,SK,14,inf,63.7,510,354
+SK,16,Liquid,9,mrg,,510,510
+CLG,6,Immortals,16,ovp,,510,510
+Immortals,16,CLG,8,inf,,510,510
+FaZe,25,North,22,mrg,62.8,444,226
+mousesports,11,G2,16,nuke,57.4,305,67
+North,14,FaZe,16,cch,52.4,226,444
+G2,16,mousesports,10,cbl,55.7,67,305
+fnatic,16,HellRaisers,14,cch,62.6,197,161
+NiP,16,Virtus.pro,9,cbl,57.8,354,72
+HellRaisers,10,fnatic,16,cbl,56.2,161,197
+Virtus.pro,16,NiP,6,nuke,58.8,72,354
+Cloud9,16,SK,10,cch,61.6,85,354
+SK,16,Cloud9,12,inf,,85,85
+OpTic,14,Liquid,16,cbl,55.2,151,510
+Liquid,16,OpTic,13,nuke,39.6,510,151
+NiP,9,G2,16,trn,68.3,354,67
+Astralis,16,HellRaisers,14,mrg,69.1,1000,161
+G2,16,NiP,10,cbl,55.7,67,354
+HellRaisers,9,Astralis,16,ovp,55.6,161,1000
+Natus Vincere,16,Kinguin,5,inf,53.7,569,1000
+Kinguin,6,Natus Vincere,16,mrg,,569,569
+fnatic,6,Heroic,16,cbl,65.2,197,110
+Heroic,11,fnatic,16,trn,49.6,110,197
+fnatic,16,NiP,7,trn,58,197,354
+FaZe,16,SK,7,trn,57.5,444,354
+Astralis,16,SK,12,trn,63.6,1000,354
+HellRaisers,16,NiP,13,ovp,55.6,161,354
+FaZe,13,North,16,cch,54.6,444,226
+Virtus.pro,2,fnatic,16,inf,47.3,72,197
+fnatic,13,Astralis,16,mrg,61.4,197,1000
+SK,8,G2,16,ovp,,197,67
+NiP,16,Virtus.pro,5,nuke,77.2,354,72
+Natus Vincere,16,North,11,inf,53.7,569,226
+Gambit,13,FaZe,16,cch,,569,444
+Virtus.pro,2,SK,16,mrg,60,72,444
+fnatic,9,Natus Vincere,16,ovp,54.8,197,569
+G2,16,HellRaisers,2,cbl,55.7,67,161
+Astralis,16,North,19,inf,72.5,1000,226
+FaZe,16,Immortals,10,mrg,62.8,444,226
+NiP,6,G2,16,inf,60.3,354,67
+Gambit,8,fnatic,16,inf,,354,197
+FaZe,10,HellRaisers,16,cch,54.6,444,161
+North,16,Immortals,3,cbl,60.9,226,161
+G2,16,LDLC,5,inf,50.8,67,139
+FaZe,16,fnatic,13,trn,57.5,444,197
+LDLC,12,G2,16,nuke,55,139,67
+fnatic,16,FaZe,10,ovp,54.8,197,444
+North,16,HellRaisers,10,mrg,59.3,226,161
+HellRaisers,16,North,13,cch,60,161,226
+Kinguin,9,Astralis,16,cch,,161,1000
+Astralis,16,Kinguin,7,ovp,66.7,1000,1000
+Natus Vincere,8,NiP,16,cbl,53.6,569,354
+NiP,12,Natus Vincere,16,ovp,57,354,569
+G2,16,fnatic,5,trn,46.4,67,197
+Cloud9,16,OpTic,6,trn,67.6,85,151
+OpTic,11,Cloud9,16,nuke,62.1,151,85
+OpTic,7,SK,16,inf,59.1,151,85
+SK,14,OpTic,16,trn,,151,151
+Heroic,12,mousesports,16,cbl,53.4,110,305
+mousesports,4,Heroic,16,nuke,57.4,305,110
+HellRaisers,16,Natus Vincere,11,mrg,50,161,569
+Natus Vincere,16,HellRaisers,5,inf,53.7,569,161
+HellRaisers,16,Kinguin,4,cch,60,161,161
+G2,19,Kinguin,16,cbl,55.7,67,161
+Astralis,9,FaZe,16,nuke,76,1000,444
+FaZe,14,Astralis,16,inf,62.3,444,1000
+Kinguin,8,G2,16,cch,,444,67
+Heroic,10,North,16,mrg,55,110,226
+mousesports,11,Virtus.pro,16,nuke,57.4,305,72
+North,19,Heroic,16,ovp,57.8,226,110
+Virtus.pro,16,mousesports,5,inf,47.3,72,305
+Virtus.pro,10,HellRaisers,16,ovp,51,72,161
+HellRaisers,16,Virtus.pro,10,mrg,50,161,72
+North,16,Natus Vincere,19,mrg,59.3,226,569
+Natus Vincere,4,North,16,cbl,53.6,569,226
+fnatic,14,NiP,16,inf,67.2,197,354
+NiP,16,fnatic,7,cch,60.1,354,197
+G2,9,HellRaisers,16,ovp,51.8,67,161
+Natus Vincere,16,FaZe,6,mrg,63.3,569,444
+HellRaisers,19,G2,15,inf,54.8,161,67
+GODSENT,14,Gambit,16,ovp,,161,67
+FaZe,9,Natus Vincere,16,trn,57.5,444,569
+Heroic,7,Astralis,16,inf,44,110,1000
+fnatic,16,Natus Vincere,12,mrg,61.4,197,569
+Astralis,16,Heroic,10,nuke,76,1000,110
+Natus Vincere,16,fnatic,7,trn,64.8,569,197
+Kinguin,14,NiP,16,trn,,569,354
+Astralis,16,North,11,nuke,76,1000,226
+NiP,16,Kinguin,12,cch,60.1,354,226
+North,16,Astralis,4,ovp,57.8,226,1000
+HellRaisers,16,Heroic,6,trn,49,161,110
+Virtus.pro,16,fnatic,5,mrg,60,72,197
+Heroic,16,HellRaisers,12,mrg,55,110,161
+fnatic,16,Virtus.pro,2,trn,58,197,72
+NiP,9,FaZe,16,ovp,57,354,444
+mousesports,16,North,5,inf,48.8,305,226
+North,8,mousesports,16,mrg,59.3,226,305
+FaZe,16,NiP,9,nuke,62.8,444,354
+Astralis,15,Virtus.pro,19,nuke,76,1000,72
+Virtus.pro,16,Astralis,8,inf,47.3,72,1000
+North,16,G2,10,inf,57,226,67
+G2,13,North,16,nuke,61.2,67,226
+Cloud9,8,Immortals,16,cbl,64.4,85,226
+Immortals,9,Cloud9,16,trn,,85,85
+G2,13,Heroic,16,ovp,51.8,67,110
+Heroic,13,G2,16,trn,49.6,110,67
+Heroic,16,Virtus.pro,14,nuke,66.3,110,72
+Cloud9,6,Natus Vincere,16,mrg,62.4,85,569
+North,8,SK,16,cbl,60.9,226,569
+Cloud9,12,North,16,cbl,64.4,85,226
+Natus Vincere,12,Heroic,16,ovp,64.3,569,110
+SK,14,Virtus.pro,16,inf,,569,72
+Natus Vincere,12,North,16,cbl,53.6,569,226
+Cloud9,4,Virtus.pro,16,mrg,62.4,85,72
+SK,16,Heroic,5,mrg,,85,110
+North,16,Virtus.pro,13,cbl,60.9,226,72
+Cloud9,16,Heroic,7,cbl,64.4,85,110
+North,17,Heroic,19,nuke,58.3,226,110
+Natus Vincere,16,SK,12,ovp,64.3,569,110
+Cloud9,16,SK,9,nuke,52.9,85,110
+Natus Vincere,16,Virtus.pro,9,trn,64.8,569,72
+OpTic,13,NiP,16,inf,59.1,151,354
+FaZe,8,Astralis,16,trn,57.5,444,1000
+OpTic,12,FaZe,16,trn,52.1,151,444
+Astralis,19,fnatic,17,inf,72.5,1000,197
+NiP,6,FaZe,16,cch,60.1,354,444
+OpTic,10,fnatic,16,trn,52.1,151,197
+NiP,24,Astralis,28,ovp,57,354,1000
+FaZe,16,fnatic,11,trn,57.5,444,197
+OpTic,12,Astralis,16,trn,52.1,151,1000
+NiP,14,fnatic,16,cch,60.1,354,197
+Kinguin,14,mousesports,16,cbl,,354,305
+mousesports,16,Kinguin,5,nuke,57.4,305,305
+OpTic,16,Immortals,5,ovp,59.3,151,305
+Immortals,16,OpTic,6,cbl,,151,151
+fnatic,16,G2,14,cbl,65.2,197,67
+GODSENT,13,FlipSid3,16,cch,,197,67
+FaZe,10,mousesports,16,mrg,62.8,444,305
+SK,16,Cloud9,6,ovp,,444,85
+Virtus.pro,10,Gambit,16,cbl,57.3,72,85
+Astralis,16,OpTic,9,nuke,76,1000,151
+Natus Vincere,12,mousesports,16,cbl,53.6,569,305
+NiP,14,Cloud9,16,ovp,57,354,85
+fnatic,8,Gambit,16,inf,67.2,197,85
+North,11,OpTic,16,inf,57,226,151
+Gambit,16,FlipSid3,2,d2,,226,151
+Kinguin,9,Virtus.pro,16,cbl,,226,72
+Gambit,19,Space Soldiers,15,nuke,,226,72
+Virtus.pro,15,Kinguin,19,ovp,51,72,72
+fnatic,12,North,16,ovp,54.8,197,226
+North,16,fnatic,5,mrg,59.3,226,197
+mousesports,16,NiP,10,trn,54.6,305,354
+Virtus.pro,16,Natus Vincere,8,cbl,57.3,72,569
+FlipSid3,16,Space Soldiers,12,nuke,,72,569
+Natus Vincere,16,Virtus.pro,10,trn,64.8,569,72
+NiP,8,mousesports,16,d2,67.8,354,305
+SK,16,Immortals,7,cbl,,354,305
+Immortals,11,SK,16,cch,,354,305
+mousesports,11,Astralis,16,nuke,57.4,305,1000
+Kinguin,16,FaZe,8,d2,,305,444
+Astralis,8,mousesports,16,mrg,69.1,1000,305
+FaZe,6,Kinguin,16,ovp,61.2,444,305
+Astralis,16,Natus Vincere,4,nuke,76,1000,569
+Natus Vincere,16,Astralis,11,ovp,64.3,569,1000
+Liquid,3,Astralis,16,mrg,56.7,510,1000
+FaZe,16,Envy,11,nuke,62.8,444,1000
+North,19,GODSENT,17,ovp,57.8,226,1000
+Gambit,16,FaZe,14,ovp,,226,444
+SK,19,Astralis,17,d2,,226,1000
+GODSENT,16,OpTic,8,cch,,226,151
+mousesports,4,Liquid,16,nuke,57.4,305,510
+Envy,11,fnatic,16,cbl,,305,197
+North,16,G2,9,ovp,57.8,226,67
+FlipSid3,13,OpTic,16,trn,,226,151
+Liquid,18,FaZe,22,nuke,39.6,510,444
+SK,3,Natus Vincere,16,d2,,510,569
 Astralis,16,G2,5,trn,63.6,1000,67
-Gambit,10,Virtus.pro,16,trn,51.8,60,67
-North,19,HellRaisers,15,mrg,60,280,129
-GODSENT,3,Envy,16,cch,,280,129
-fnatic,16,mousesports,11,d2,undefined,183,341
-Virtus.pro,16,G2,14,nuke,,183,67
-GODSENT,9,Gambit,16,ovp,,183,60
-OpTic,12,Astralis,16,trn,52.1,156,1000
-North,13,fnatic,16,cbl,60.9,280,183
-FlipSid3,14,Liquid,16,ovp,,280,455
-FaZe,17,SK,19,mrg,62.8,451,455
-Natus Vincere,16,Envy,6,cbl,53.6,558,455
-mousesports,16,HellRaisers,7,cch,60.5,341,129
-FlipSid3,9,FaZe,16,nuke,,341,451
-Astralis,6,GODSENT,16,trn,63.6,1000,451
-Liquid,21,Envy,25,cch,66.9,455,451
-Natus Vincere,16,mousesports,3,cbl,53.6,558,341
-Virtus.pro,16,OpTic,13,cbl,,558,156
-SK,16,HellRaisers,7,mrg,,558,129
-fnatic,10,G2,16,cch,62.6,183,67
-Gambit,16,North,8,cbl,50,60,280
-Cloud9,13,HellRaisers,16,ovp,57,84,129
-Immortals,17,G2,19,cch,,84,67
-mousesports,16,Immortals,3,cch,60.5,341,67
-Dignitas,16,G2,9,nuke,,341,67
-OpTic,16,HellRaisers,10,trn,52.1,156,129
-FaZe,16,Immortals,11,mrg,62.8,451,129
-NiP,9,OpTic,16,ovp,57,352,156
-Cloud9,16,Renegades,9,mrg,62.4,84,109
-GODSENT,16,HellRaisers,11,trn,,84,129
-FaZe,16,OpTic,11,ovp,61.2,451,156
-GODSENT,16,Dignitas,11,mrg,,451,156
-G2,16,Envy,12,d2,undefined,67,156
-NiP,17,HellRaisers,19,ovp,57,352,129
-G2,11,GODSENT,16,ovp,50.5,67,129
-mousesports,6,HellRaisers,16,trn,54.4,341,129
-NiP,16,Renegades,9,d2,undefined,352,109
-FaZe,19,Cloud9,17,mrg,62.8,451,84
-Envy,11,Immortals,16,cbl,,451,84
-Dignitas,3,Envy,16,nuke,,451,84
-Immortals,19,Envy,22,cch,,451,84
-SK,7,Dignitas,16,ovp,,451,84
-Astralis,16,FaZe,3,d2,undefined,1000,451
-FaZe,16,Cloud9,6,mrg,62.8,451,84
-Astralis,16,OpTic,7,d2,undefined,1000,156
-mousesports,16,NiP,7,d2,undefined,341,352
-NiP,16,mousesports,9,trn,68.3,352,341
-Envy,13,NiP,16,cch,,352,352
-NiP,12,Envy,16,nuke,77.2,352,352
-GODSENT,7,Astralis,16,mrg,,352,1000
-Astralis,16,GODSENT,3,d2,undefined,1000,1000
-GODSENT,16,FaZe,7,mrg,,1000,451
-FaZe,16,GODSENT,8,d2,undefined,451,451
+Gambit,10,Virtus.pro,16,trn,,1000,72
+North,19,HellRaisers,15,mrg,59.3,226,161
+GODSENT,3,Envy,16,cch,,226,161
+fnatic,16,mousesports,11,d2,57.5,197,305
+Virtus.pro,16,G2,14,nuke,58.8,72,67
+GODSENT,9,Gambit,16,ovp,,72,67
+OpTic,12,Astralis,16,trn,52.1,151,1000
+North,13,fnatic,16,cbl,60.9,226,197
+FlipSid3,14,Liquid,16,ovp,,226,510
+FaZe,17,SK,19,mrg,62.8,444,510
+Natus Vincere,16,Envy,6,cbl,53.6,569,510
+mousesports,16,HellRaisers,7,cch,60.5,305,161
+FlipSid3,9,FaZe,16,nuke,,305,444
+Astralis,6,GODSENT,16,trn,63.6,1000,444
+Liquid,21,Envy,25,cch,66.9,510,444
+Natus Vincere,16,mousesports,3,cbl,53.6,569,305
+Virtus.pro,16,OpTic,13,cbl,57.3,72,151
+SK,16,HellRaisers,7,mrg,,72,161
+fnatic,10,G2,16,cch,62.6,197,67
+Gambit,16,North,8,cbl,,197,226
+Cloud9,13,HellRaisers,16,ovp,57,85,161
+Immortals,17,G2,19,cch,,85,67
+mousesports,16,Immortals,3,cch,60.5,305,67
+Dignitas,16,G2,9,nuke,,305,67
+OpTic,16,HellRaisers,10,trn,52.1,151,161
+FaZe,16,Immortals,11,mrg,62.8,444,161
+NiP,9,OpTic,16,ovp,57,354,151
+Cloud9,16,Renegades,9,mrg,62.4,85,105
+GODSENT,16,HellRaisers,11,trn,,85,161
+FaZe,16,OpTic,11,ovp,61.2,444,151
+GODSENT,16,Dignitas,11,mrg,,444,151
+G2,16,Envy,12,d2,59.8,67,151
+NiP,17,HellRaisers,19,ovp,57,354,161
+G2,11,GODSENT,16,ovp,51.8,67,161
+mousesports,6,HellRaisers,16,trn,54.6,305,161
+NiP,16,Renegades,9,d2,67.8,354,105
+FaZe,19,Cloud9,17,mrg,62.8,444,85
+Envy,11,Immortals,16,cbl,,444,85
+Dignitas,3,Envy,16,nuke,,444,85
+Immortals,19,Envy,22,cch,,444,85
+SK,7,Dignitas,16,ovp,,444,85
+Astralis,16,FaZe,3,d2,65.6,1000,444
+FaZe,16,Cloud9,6,mrg,62.8,444,85
+Astralis,16,OpTic,7,d2,65.6,1000,151
+mousesports,16,NiP,7,d2,55,305,354
+NiP,16,mousesports,9,trn,68.3,354,305
+Envy,13,NiP,16,cch,,354,354
+NiP,12,Envy,16,nuke,77.2,354,354
+GODSENT,7,Astralis,16,mrg,,354,1000
+Astralis,16,GODSENT,3,d2,65.6,1000,1000
+GODSENT,16,FaZe,7,mrg,,1000,444
+FaZe,16,GODSENT,8,d2,54.3,444,444
 Astralis,16,G2,2,ovp,66.7,1000,67
-G2,17,Astralis,19,ovp,50.5,67,1000
-Dignitas,11,mousesports,16,cbl,,67,341
-mousesports,16,Dignitas,9,mrg,61.8,341,341
-fnatic,9,G2,16,d2,undefined,183,67
-G2,16,fnatic,9,ovp,50.5,67,183
-NiP,16,G2,9,nuke,77.2,352,67
-G2,16,NiP,4,cch,56.2,67,352
-NiP,11,Astralis,16,cch,60.1,352,1000
-Astralis,16,NiP,9,ovp,66.7,1000,352
+G2,17,Astralis,19,ovp,51.8,67,1000
+Dignitas,11,mousesports,16,cbl,,67,305
+mousesports,16,Dignitas,9,mrg,61.8,305,305
+fnatic,9,G2,16,d2,57.5,197,67
+G2,16,fnatic,9,ovp,51.8,67,197
+NiP,16,G2,9,nuke,77.2,354,67
+G2,16,NiP,4,cch,55.9,67,354
+NiP,11,Astralis,16,cch,60.1,354,1000
+Astralis,16,NiP,9,ovp,66.7,1000,354
 Dignitas,16,G2,6,nuke,,1000,67
-G2,14,Dignitas,16,nuke,62.1,67,67
-Virtus.pro,11,Astralis,16,nuke,,67,1000
-Astralis,16,Virtus.pro,4,trn,63.6,1000,1000
-OpTic,10,Gambit,16,cbl,55.2,156,60
-mousesports,10,G2,16,d2,undefined,341,67
-G2,12,mousesports,16,d2,undefined,67,341
-mousesports,14,Envy,16,d2,undefined,341,341
-Envy,16,mousesports,14,cch,,341,341
-FaZe,11,NiP,16,trn,57.5,451,352
-NiP,4,FaZe,16,cch,60.1,352,451
-FaZe,16,G2,2,ovp,61.2,451,67
-G2,20,FaZe,22,cch,56.2,67,451
-Virtus.pro,16,Envy,14,mrg,,67,451
-Envy,16,Virtus.pro,5,cbl,,67,451
-Astralis,19,fnatic,15,trn,63.6,1000,183
-fnatic,8,Astralis,16,d2,undefined,183,1000
-Virtus.pro,2,G2,16,trn,,183,67
-G2,16,Virtus.pro,7,ovp,50.5,67,67
-GODSENT,11,Virtus.pro,16,mrg,,67,67
-Virtus.pro,5,GODSENT,16,ovp,,67,67
-fnatic,3,Dignitas,16,ovp,54.8,183,67
-Envy,12,Dignitas,16,cbl,,183,67
-fnatic,19,OpTic,17,cch,62.6,183,156
-Heroic,12,Cloud9,16,mrg,55,117,84
-SK,16,NiP,9,cbl,,117,352
-mousesports,7,FaZe,16,trn,54.4,341,451
-FaZe,16,SK,11,nuke,62.8,451,451
-Cloud9,16,mousesports,10,cbl,64.4,84,341
-Heroic,8,NiP,16,nuke,66.3,117,352
-Cloud9,10,SK,16,d2,undefined,84,352
-Heroic,16,mousesports,11,cbl,53.4,117,341
-FaZe,16,NiP,5,ovp,61.2,451,352
-Cloud9,14,NiP,16,trn,67.6,84,352
-mousesports,10,SK,16,d2,undefined,341,352
-Heroic,3,FaZe,16,trn,49.6,117,451
-mousesports,8,NiP,16,ovp,52.8,341,352
-Heroic,16,SK,13,cbl,53.4,117,352
-Cloud9,17,FaZe,19,mrg,62.4,84,451
-Liquid,17,G2,19,nuke,39.2,455,67
-Natus Vincere,15,Immortals,19,mrg,63,558,67
-Astralis,16,TYLOO,9,mrg,69.7,1000,88
+G2,14,Dignitas,16,nuke,61.2,67,67
+Virtus.pro,11,Astralis,16,nuke,58.8,72,1000
+Astralis,16,Virtus.pro,4,trn,63.6,1000,72
+OpTic,10,Gambit,16,cbl,55.2,151,72
+mousesports,10,G2,16,d2,55,305,67
+G2,12,mousesports,16,d2,59.8,67,305
+mousesports,14,Envy,16,d2,55,305,305
+Envy,16,mousesports,14,cch,,305,305
+FaZe,11,NiP,16,trn,57.5,444,354
+NiP,4,FaZe,16,cch,60.1,354,444
+FaZe,16,G2,2,ovp,61.2,444,67
+G2,20,FaZe,22,cch,55.9,67,444
+Virtus.pro,16,Envy,14,mrg,60,72,444
+Envy,16,Virtus.pro,5,cbl,,72,72
+Astralis,19,fnatic,15,trn,63.6,1000,197
+fnatic,8,Astralis,16,d2,57.5,197,1000
+Virtus.pro,2,G2,16,trn,52.1,72,67
+G2,16,Virtus.pro,7,ovp,51.8,67,72
+GODSENT,11,Virtus.pro,16,mrg,,67,72
+Virtus.pro,5,GODSENT,16,ovp,51,72,72
+fnatic,3,Dignitas,16,ovp,54.8,197,72
+Envy,12,Dignitas,16,cbl,,197,72
+fnatic,19,OpTic,17,cch,62.6,197,151
+Heroic,12,Cloud9,16,mrg,55,110,85
+SK,16,NiP,9,cbl,,110,354
+mousesports,7,FaZe,16,trn,54.6,305,444
+FaZe,16,SK,11,nuke,62.8,444,444
+Cloud9,16,mousesports,10,cbl,64.4,85,305
+Heroic,8,NiP,16,nuke,66.3,110,354
+Cloud9,10,SK,16,d2,64.6,85,354
+Heroic,16,mousesports,11,cbl,53.4,110,305
+FaZe,16,NiP,5,ovp,61.2,444,354
+Cloud9,14,NiP,16,trn,67.6,85,354
+mousesports,10,SK,16,d2,55,305,354
+Heroic,3,FaZe,16,trn,49.6,110,444
+mousesports,8,NiP,16,ovp,52.8,305,354
+Heroic,16,SK,13,cbl,53.4,110,354
+Cloud9,17,FaZe,19,mrg,62.4,85,444
+Liquid,17,G2,19,nuke,39.6,510,67
+Natus Vincere,15,Immortals,19,mrg,63.3,569,67
+Astralis,16,TYLOO,9,mrg,69.1,1000,99
 Immortals,15,Astralis,19,d2,,1000,1000
-TYLOO,6,Liquid,16,mrg,75.4,88,455
-Natus Vincere,16,G2,10,ovp,64.3,558,67
-Immortals,16,Liquid,14,cch,,558,455
-Natus Vincere,9,Astralis,16,trn,65,558,1000
-TYLOO,3,G2,16,ovp,65.8,88,67
-Astralis,16,Liquid,1,trn,63.6,1000,455
+TYLOO,6,Liquid,16,mrg,75.4,99,510
+Natus Vincere,16,G2,10,ovp,64.3,569,67
+Immortals,16,Liquid,14,cch,,569,510
+Natus Vincere,9,Astralis,16,trn,64.8,569,1000
+TYLOO,3,G2,16,ovp,65.8,99,67
+Astralis,16,Liquid,1,trn,63.6,1000,510
 Immortals,16,G2,4,cbl,,1000,67
-Natus Vincere,16,TYLOO,14,ovp,64.3,558,88
-Astralis,12,G2,16,nuke,75.7,1000,67
-Immortals,19,TYLOO,17,mrg,,1000,88
-Natus Vincere,6,Liquid,16,nuke,46.6,558,455
-GODSENT,16,fnatic,11,trn,,558,183
-fnatic,6,GODSENT,16,trn,58,183,183
-OpTic,4,Cloud9,16,trn,52.1,156,84
-Cloud9,16,OpTic,11,trn,67.6,84,156
-Virtus.pro,16,mousesports,8,cbl,,84,341
-mousesports,9,Virtus.pro,16,mrg,61.8,341,341
-Cloud9,16,TYLOO,0,d2,undefined,84,88
-Immortals,19,FaZe,17,cch,,84,451
-Cloud9,16,FlipSid3,4,ovp,57,84,451
-SK,13,Astralis,16,ovp,,84,1000
-Natus Vincere,10,SK,16,trn,65,558,1000
-Envy,16,OpTic,8,nuke,,558,156
-Envy,16,G2,9,nuke,,558,67
-Dignitas,16,GODSENT,7,mrg,,558,67
-GODSENT,9,Dignitas,16,cbl,,558,67
-GODSENT,16,mousesports,11,mrg,,558,341
-mousesports,16,GODSENT,11,d2,undefined,341,341
-mousesports,11,FaZe,16,d2,undefined,341,451
-FaZe,14,mousesports,16,ovp,61.2,451,341
-G2,16,Envy,9,cch,56.2,67,341
-Virtus.pro,16,NiP,12,cbl,,67,352
-NiP,16,Virtus.pro,14,ovp,57,352,352
-GODSENT,20,NiP,22,d2,,352,352
-NiP,16,GODSENT,5,cbl,57.8,352,352
-Dignitas,9,NiP,16,cbl,,352,352
-NiP,13,Dignitas,16,d2,undefined,352,352
-FaZe,7,fnatic,16,mrg,62.8,451,183
-fnatic,16,FaZe,13,trn,58,183,451
-Dignitas,17,fnatic,19,ovp,,183,183
-fnatic,19,Dignitas,16,d2,undefined,183,183
-FaZe,16,Astralis,9,mrg,62.8,451,1000
-Astralis,16,FaZe,13,ovp,66.7,1000,451
-SK,16,Cloud9,7,trn,,1000,84
-Cloud9,11,SK,16,trn,67.6,84,84
-SK,16,OpTic,8,trn,,84,156
-OpTic,16,SK,13,cbl,55.2,156,156
-Envy,11,FaZe,16,cch,,156,451
-FaZe,7,Envy,16,mrg,62.8,451,451
-Dignitas,16,Astralis,2,ovp,,451,1000
+Natus Vincere,16,TYLOO,14,ovp,64.3,569,99
+Astralis,12,G2,16,nuke,76,1000,67
+Immortals,19,TYLOO,17,mrg,,1000,99
+Natus Vincere,6,Liquid,16,nuke,46.7,569,510
+GODSENT,16,fnatic,11,trn,,569,197
+fnatic,6,GODSENT,16,trn,58,197,197
+OpTic,4,Cloud9,16,trn,52.1,151,85
+Cloud9,16,OpTic,11,trn,67.6,85,151
+Virtus.pro,16,mousesports,8,cbl,57.3,72,305
+mousesports,9,Virtus.pro,16,mrg,61.8,305,72
+Cloud9,16,TYLOO,0,d2,64.6,85,99
+Immortals,19,FaZe,17,cch,,85,444
+Cloud9,16,FlipSid3,4,ovp,57,85,444
+SK,13,Astralis,16,ovp,,85,1000
+Natus Vincere,10,SK,16,trn,64.8,569,1000
+Envy,16,OpTic,8,nuke,,569,151
+Envy,16,G2,9,nuke,,569,67
+Dignitas,16,GODSENT,7,mrg,,569,67
+GODSENT,9,Dignitas,16,cbl,,569,67
+GODSENT,16,mousesports,11,mrg,,569,305
+mousesports,16,GODSENT,11,d2,55,305,305
+mousesports,11,FaZe,16,d2,55,305,444
+FaZe,14,mousesports,16,ovp,61.2,444,305
+G2,16,Envy,9,cch,55.9,67,305
+Virtus.pro,16,NiP,12,cbl,57.3,72,354
+NiP,16,Virtus.pro,14,ovp,57,354,72
+GODSENT,20,NiP,22,d2,,354,354
+NiP,16,GODSENT,5,cbl,57.8,354,354
+Dignitas,9,NiP,16,cbl,,354,354
+NiP,13,Dignitas,16,d2,67.8,354,354
+FaZe,7,fnatic,16,mrg,62.8,444,197
+fnatic,16,FaZe,13,trn,58,197,444
+Dignitas,17,fnatic,19,ovp,,197,197
+fnatic,19,Dignitas,16,d2,57.5,197,197
+FaZe,16,Astralis,9,mrg,62.8,444,1000
+Astralis,16,FaZe,13,ovp,66.7,1000,444
+SK,16,Cloud9,7,trn,,1000,85
+Cloud9,11,SK,16,trn,67.6,85,85
+SK,16,OpTic,8,trn,,85,151
+OpTic,16,SK,13,cbl,55.2,151,151
+Envy,11,FaZe,16,cch,,151,444
+FaZe,7,Envy,16,mrg,62.8,444,444
+Dignitas,16,Astralis,2,ovp,,444,1000
 Astralis,12,Dignitas,16,ovp,66.7,1000,1000
-Virtus.pro,16,NiP,7,cbl,,1000,352
-NiP,16,G2,5,ovp,57,352,67
-mousesports,12,Astralis,16,mrg,61.8,341,1000
-Astralis,16,mousesports,4,mrg,69.7,1000,341
+Virtus.pro,16,NiP,7,cbl,57.3,72,354
+NiP,16,G2,5,ovp,57,354,67
+mousesports,12,Astralis,16,mrg,61.8,305,1000
+Astralis,16,mousesports,4,mrg,69.1,1000,305
 Envy,16,Astralis,8,d2,,1000,1000
-Astralis,4,Envy,16,nuke,75.7,1000,1000
-OpTic,16,Liquid,13,cbl,55.2,156,455
-Liquid,16,OpTic,14,nuke,39.2,455,156
-Cloud9,16,Dignitas,13,mrg,62.4,84,156
-NiP,16,FaZe,7,ovp,57,352,451
-NiP,9,Cloud9,16,d2,undefined,352,84
-SK,16,Dignitas,7,cbl,,352,84
-mousesports,16,Envy,9,cch,60.5,341,84
-Immortals,14,Liquid,16,mrg,,341,455
-OpTic,5,Envy,16,cbl,55.2,156,455
-Immortals,16,mousesports,14,mrg,,156,341
-SK,16,Cloud9,6,d2,,156,84
-FaZe,16,Dignitas,7,mrg,62.8,451,84
-SK,16,FaZe,2,ovp,,451,451
-mousesports,16,OpTic,10,cch,60.5,341,156
-Envy,16,Liquid,4,d2,,341,455
-Immortals,4,OpTic,16,cbl,,341,156
-NiP,14,Dignitas,16,nuke,77.2,352,156
-SK,10,NiP,16,cbl,,352,352
-Cloud9,16,FaZe,14,d2,undefined,84,451
-mousesports,16,Liquid,12,mrg,61.8,341,455
-Immortals,5,Envy,16,cbl,,341,455
-OpTic,16,Liquid,2,trn,52.1,156,455
-mousesports,19,Cloud9,16,d2,undefined,341,84
-Cloud9,16,FaZe,7,trn,67.6,84,451
-mousesports,16,Immortals,9,mrg,61.8,341,451
-fnatic,16,Virtus.pro,13,mrg,61.4,183,451
-Virtus.pro,16,fnatic,11,cbl,,183,183
-NiP,3,Natus Vincere,16,ovp,57,352,558
-Natus Vincere,11,NiP,16,nuke,46.6,558,352
-Dignitas,12,G2,16,ovp,,558,67
-G2,14,Dignitas,16,d2,undefined,67,67
-fnatic,16,SK,5,mrg,61.4,183,67
-SK,16,fnatic,9,trn,,183,183
-G2,16,Natus Vincere,11,cbl,55.7,67,558
-Natus Vincere,16,G2,9,trn,65,558,67
-Dignitas,16,NiP,12,nuke,,558,352
-NiP,16,Dignitas,12,cbl,57.8,352,352
-NiP,9,G2,16,cch,60.1,352,67
-G2,11,NiP,16,cbl,55.7,67,352
-Dignitas,9,Natus Vincere,16,nuke,,67,558
-Natus Vincere,6,Dignitas,16,mrg,63,558,558
-SK,12,Virtus.pro,16,cbl,,558,558
-Virtus.pro,16,SK,9,mrg,,558,558
-Immortals,16,Liquid,2,cbl,,558,455
-Liquid,1,Immortals,16,trn,56.1,455,455
-GODSENT,16,Envy,5,mrg,,455,455
-Envy,11,GODSENT,16,cch,,455,455
-Virtus.pro,12,FaZe,16,ovp,,455,451
-FaZe,16,Virtus.pro,6,trn,57.5,451,451
-Envy,16,fnatic,4,cbl,,451,183
-fnatic,5,Envy,16,d2,undefined,183,183
-Dignitas,14,Envy,16,mrg,,183,183
-Envy,7,Dignitas,16,cbl,,183,183
-Virtus.pro,7,fnatic,16,cbl,,183,183
-fnatic,12,Virtus.pro,16,cch,62.6,183,183
-Virtus.pro,12,G2,16,cch,,183,67
-Envy,16,Dignitas,9,cbl,,183,67
-mousesports,16,Astralis,2,trn,54.4,341,1000
-FlipSid3,16,FaZe,7,mrg,,341,451
-Heroic,7,Natus Vincere,16,ovp,53.9,117,558
-Astralis,16,mousesports,10,mrg,69.7,1000,341
-G2,16,Virtus.pro,19,trn,47,67,341
-FaZe,16,FlipSid3,14,trn,57.5,451,341
-Dignitas,12,Envy,16,d2,,451,341
-Natus Vincere,4,Heroic,16,cbl,53.6,558,117
-SK,16,Liquid,9,trn,,558,455
-Liquid,16,SK,9,d2,undefined,455,455
-Natus Vincere,15,FaZe,19,d2,undefined,558,451
-FaZe,25,Natus Vincere,23,mrg,62.8,451,558
-Heroic,16,Envy,10,cbl,53.4,117,558
-FlipSid3,9,fnatic,16,trn,,117,183
-GODSENT,10,G2,16,trn,,117,67
-Envy,16,Heroic,7,nuke,,117,117
-fnatic,16,FlipSid3,2,cbl,65.2,183,117
-G2,9,GODSENT,16,ovp,50.5,67,117
-Envy,10,Natus Vincere,16,mrg,,67,558
-Dignitas,8,Virtus.pro,16,cbl,,67,558
-Natus Vincere,17,Envy,19,cbl,53.6,558,558
-Virtus.pro,16,Dignitas,5,cbl,,558,558
-OpTic,15,SK,19,trn,52.1,156,558
-SK,16,OpTic,8,cbl,,156,156
-G2,16,Astralis,14,d2,undefined,67,1000
-Dignitas,10,FaZe,16,ovp,,67,451
-Astralis,4,G2,16,d2,undefined,1000,67
-FaZe,16,Dignitas,14,mrg,62.8,451,67
-Heroic,12,fnatic,16,trn,49.6,117,183
-fnatic,16,Heroic,14,cbl,65.2,183,117
-mousesports,16,FlipSid3,9,cbl,51.1,341,117
-FlipSid3,4,mousesports,16,mrg,,341,341
-Immortals,9,SK,16,ovp,,341,341
-SK,16,Immortals,12,trn,,341,341
-NiP,11,fnatic,16,ovp,57,352,183
-fnatic,16,NiP,7,cch,62.6,183,352
-mousesports,16,fnatic,8,ovp,52.8,341,183
-fnatic,13,mousesports,16,d2,undefined,183,341
-Immortals,8,Cloud9,16,ovp,,183,84
-Cloud9,28,Immortals,24,mrg,62.4,84,84
-Liquid,14,Cloud9,16,d2,undefined,455,84
-Cloud9,14,Liquid,16,trn,67.6,84,455
-Immortals,19,OpTic,15,ovp,,84,156
-OpTic,16,Immortals,11,trn,52.1,156,156
-Astralis,14,Envy,16,d2,undefined,1000,156
-Immortals,16,Liquid,12,mrg,,1000,455
-Liquid,16,Immortals,12,trn,56.1,455,455
-Dignitas,16,Natus Vincere,4,mrg,,455,558
-mousesports,16,Heroic,4,ovp,52.8,341,117
-Natus Vincere,8,Dignitas,16,cbl,53.6,558,117
-Heroic,14,mousesports,16,mrg,55,117,341
-fnatic,16,Envy,8,d2,undefined,183,341
-FlipSid3,7,NiP,16,nuke,,183,352
-Envy,16,fnatic,14,cbl,,183,183
-NiP,16,FlipSid3,1,ovp,57,352,183
-mousesports,25,Virtus.pro,28,cbl,51.1,341,183
-fnatic,16,NiP,9,cch,62.6,183,352
-NiP,14,fnatic,16,d2,undefined,352,183
-Virtus.pro,8,mousesports,16,mrg,,352,341
-FlipSid3,9,Heroic,16,ovp,,352,117
-Heroic,7,FlipSid3,16,trn,49.6,117,117
-OpTic,14,Virtus.pro,16,cbl,55.2,156,117
-SK,16,Virtus.pro,8,trn,,156,117
-Astralis,12,OpTic,16,ovp,66.7,1000,156
-Natus Vincere,16,SK,6,mrg,63,558,156
-OpTic,16,G2,7,cch,57.6,156,67
-Liquid,8,Virtus.pro,16,mrg,56.7,455,67
-SK,16,Astralis,13,ovp,,455,1000
-Virtus.pro,9,Natus Vincere,16,trn,,455,558
-G2,7,Liquid,16,trn,47,67,455
-Natus Vincere,16,Liquid,9,mrg,63,558,455
-SK,16,OpTic,10,trn,,558,156
-G2,13,Astralis,16,d2,undefined,67,1000
-Dignitas,16,Heroic,12,nuke,,67,117
-Heroic,3,Dignitas,16,nuke,66.3,117,117
-Astralis,14,Virtus.pro,16,mrg,69.7,1000,117
-Virtus.pro,16,Astralis,14,nuke,,1000,1000
+Astralis,4,Envy,16,nuke,76,1000,1000
+OpTic,16,Liquid,13,cbl,55.2,151,510
+Liquid,16,OpTic,14,nuke,39.6,510,151
+Cloud9,16,Dignitas,13,mrg,62.4,85,151
+NiP,16,FaZe,7,ovp,57,354,444
+NiP,9,Cloud9,16,d2,67.8,354,85
+SK,16,Dignitas,7,cbl,,354,85
+mousesports,16,Envy,9,cch,60.5,305,85
+Immortals,14,Liquid,16,mrg,,305,510
+OpTic,5,Envy,16,cbl,55.2,151,510
+Immortals,16,mousesports,14,mrg,,151,305
+SK,16,Cloud9,6,d2,,151,85
+FaZe,16,Dignitas,7,mrg,62.8,444,85
+SK,16,FaZe,2,ovp,,444,444
+mousesports,16,OpTic,10,cch,60.5,305,151
+Envy,16,Liquid,4,d2,,305,510
+Immortals,4,OpTic,16,cbl,,305,151
+NiP,14,Dignitas,16,nuke,77.2,354,151
+SK,10,NiP,16,cbl,,354,354
+Cloud9,16,FaZe,14,d2,64.6,85,444
+mousesports,16,Liquid,12,mrg,61.8,305,510
+Immortals,5,Envy,16,cbl,,305,510
+OpTic,16,Liquid,2,trn,52.1,151,510
+mousesports,19,Cloud9,16,d2,55,305,85
+Cloud9,16,FaZe,7,trn,67.6,85,444
+mousesports,16,Immortals,9,mrg,61.8,305,444
+fnatic,16,Virtus.pro,13,mrg,61.4,197,72
+Virtus.pro,16,fnatic,11,cbl,57.3,72,197
+NiP,3,Natus Vincere,16,ovp,57,354,569
+Natus Vincere,11,NiP,16,nuke,46.7,569,354
+Dignitas,12,G2,16,ovp,,569,67
+G2,14,Dignitas,16,d2,59.8,67,67
+fnatic,16,SK,5,mrg,61.4,197,67
+SK,16,fnatic,9,trn,,197,197
+G2,16,Natus Vincere,11,cbl,55.7,67,569
+Natus Vincere,16,G2,9,trn,64.8,569,67
+Dignitas,16,NiP,12,nuke,,569,354
+NiP,16,Dignitas,12,cbl,57.8,354,354
+NiP,9,G2,16,cch,60.1,354,67
+G2,11,NiP,16,cbl,55.7,67,354
+Dignitas,9,Natus Vincere,16,nuke,,67,569
+Natus Vincere,6,Dignitas,16,mrg,63.3,569,569
+SK,12,Virtus.pro,16,cbl,,569,72
+Virtus.pro,16,SK,9,mrg,60,72,72
+Immortals,16,Liquid,2,cbl,,72,510
+Liquid,1,Immortals,16,trn,56.1,510,510
+GODSENT,16,Envy,5,mrg,,510,510
+Envy,11,GODSENT,16,cch,,510,510
+Virtus.pro,12,FaZe,16,ovp,51,72,444
+FaZe,16,Virtus.pro,6,trn,57.5,444,72
+Envy,16,fnatic,4,cbl,,444,197
+fnatic,5,Envy,16,d2,57.5,197,197
+Dignitas,14,Envy,16,mrg,,197,197
+Envy,7,Dignitas,16,cbl,,197,197
+Virtus.pro,7,fnatic,16,cbl,57.3,72,197
+fnatic,12,Virtus.pro,16,cch,62.6,197,72
+Virtus.pro,12,G2,16,cch,52.2,72,67
+Envy,16,Dignitas,9,cbl,,72,67
+mousesports,16,Astralis,2,trn,54.6,305,1000
+FlipSid3,16,FaZe,7,mrg,,305,444
+Heroic,7,Natus Vincere,16,ovp,53.9,110,569
+Astralis,16,mousesports,10,mrg,69.1,1000,305
+G2,16,Virtus.pro,19,trn,46.4,67,72
+FaZe,16,FlipSid3,14,trn,57.5,444,72
+Dignitas,12,Envy,16,d2,,444,72
+Natus Vincere,4,Heroic,16,cbl,53.6,569,110
+SK,16,Liquid,9,trn,,569,510
+Liquid,16,SK,9,d2,50.5,510,510
+Natus Vincere,15,FaZe,19,d2,58.2,569,444
+FaZe,25,Natus Vincere,23,mrg,62.8,444,569
+Heroic,16,Envy,10,cbl,53.4,110,569
+FlipSid3,9,fnatic,16,trn,,110,197
+GODSENT,10,G2,16,trn,,110,67
+Envy,16,Heroic,7,nuke,,110,110
+fnatic,16,FlipSid3,2,cbl,65.2,197,110
+G2,9,GODSENT,16,ovp,51.8,67,110
+Envy,10,Natus Vincere,16,mrg,,67,569
+Dignitas,8,Virtus.pro,16,cbl,,67,72
+Natus Vincere,17,Envy,19,cbl,53.6,569,72
+Virtus.pro,16,Dignitas,5,cbl,57.3,72,72
+OpTic,15,SK,19,trn,52.1,151,72
+SK,16,OpTic,8,cbl,,151,151
+G2,16,Astralis,14,d2,59.8,67,1000
+Dignitas,10,FaZe,16,ovp,,67,444
+Astralis,4,G2,16,d2,65.6,1000,67
+FaZe,16,Dignitas,14,mrg,62.8,444,67
+Heroic,12,fnatic,16,trn,49.6,110,197
+fnatic,16,Heroic,14,cbl,65.2,197,110
+mousesports,16,FlipSid3,9,cbl,51.1,305,110
+FlipSid3,4,mousesports,16,mrg,,305,305
+Immortals,9,SK,16,ovp,,305,305
+SK,16,Immortals,12,trn,,305,305
+NiP,11,fnatic,16,ovp,57,354,197
+fnatic,16,NiP,7,cch,62.6,197,354
+mousesports,16,fnatic,8,ovp,52.8,305,197
+fnatic,13,mousesports,16,d2,57.5,197,305
+Immortals,8,Cloud9,16,ovp,,197,85
+Cloud9,28,Immortals,24,mrg,62.4,85,85
+Liquid,14,Cloud9,16,d2,50.5,510,85
+Cloud9,14,Liquid,16,trn,67.6,85,510
+Immortals,19,OpTic,15,ovp,,85,151
+OpTic,16,Immortals,11,trn,52.1,151,151
+Astralis,14,Envy,16,d2,65.6,1000,151
+Immortals,16,Liquid,12,mrg,,1000,510
+Liquid,16,Immortals,12,trn,56.1,510,510
+Dignitas,16,Natus Vincere,4,mrg,,510,569
+mousesports,16,Heroic,4,ovp,52.8,305,110
+Natus Vincere,8,Dignitas,16,cbl,53.6,569,110
+Heroic,14,mousesports,16,mrg,55,110,305
+fnatic,16,Envy,8,d2,57.5,197,305
+FlipSid3,7,NiP,16,nuke,,197,354
+Envy,16,fnatic,14,cbl,,197,197
+NiP,16,FlipSid3,1,ovp,57,354,197
+mousesports,25,Virtus.pro,28,cbl,51.1,305,72
+fnatic,16,NiP,9,cch,62.6,197,354
+NiP,14,fnatic,16,d2,67.8,354,197
+Virtus.pro,8,mousesports,16,mrg,60,72,305
+FlipSid3,9,Heroic,16,ovp,,72,110
+Heroic,7,FlipSid3,16,trn,49.6,110,110
+OpTic,14,Virtus.pro,16,cbl,55.2,151,72
+SK,16,Virtus.pro,8,trn,,151,72
+Astralis,12,OpTic,16,ovp,66.7,1000,151
+Natus Vincere,16,SK,6,mrg,63.3,569,151
+OpTic,16,G2,7,cch,57.6,151,67
+Liquid,8,Virtus.pro,16,mrg,56.7,510,72
+SK,16,Astralis,13,ovp,,510,1000
+Virtus.pro,9,Natus Vincere,16,trn,52.1,72,569
+G2,7,Liquid,16,trn,46.4,67,510
+Natus Vincere,16,Liquid,9,mrg,63.3,569,510
+SK,16,OpTic,10,trn,,569,151
+G2,13,Astralis,16,d2,59.8,67,1000
+Dignitas,16,Heroic,12,nuke,,67,110
+Heroic,3,Dignitas,16,nuke,66.3,110,110
+Astralis,14,Virtus.pro,16,mrg,69.1,1000,72
+Virtus.pro,16,Astralis,14,nuke,58.8,72,1000
 Astralis,16,Dignitas,6,cch,58.5,1000,1000
 Dignitas,10,Astralis,16,mrg,,1000,1000
-Virtus.pro,16,FlipSid3,5,trn,,1000,1000
-FlipSid3,16,Virtus.pro,5,cbl,,1000,1000
-FaZe,19,Dignitas,17,ovp,61.2,451,1000
-Dignitas,4,FaZe,16,cch,,451,451
-Envy,10,Virtus.pro,16,mrg,,451,451
-Immortals,16,SK,4,mrg,,451,451
-SK,11,Immortals,16,ovp,,451,451
-Virtus.pro,9,Natus Vincere,16,trn,,451,558
-Natus Vincere,3,Virtus.pro,16,cbl,53.6,558,558
-SK,16,Echo Fox,11,d2,,558,558
-Echo Fox,12,SK,16,ovp,,558,558
-Echo Fox,11,OpTic,16,trn,,558,156
-OpTic,16,Echo Fox,5,d2,undefined,156,156
-Heroic,16,G2,12,trn,49.6,117,67
-G2,19,Heroic,16,ovp,50.5,67,117
-FlipSid3,5,Envy,16,cbl,,67,117
-Envy,16,FlipSid3,4,nuke,,67,117
-Echo Fox,8,Cloud9,16,d2,,67,84
-Cloud9,12,Echo Fox,16,d2,undefined,84,84
-NiP,16,G2,5,ovp,57,352,67
-G2,10,NiP,16,mrg,47.3,67,352
-Natus Vincere,13,mousesports,16,d2,undefined,558,341
-mousesports,8,Natus Vincere,16,ovp,52.8,341,558
-Cloud9,16,FaZe,8,trn,67.6,84,451
-Virtus.pro,16,Heroic,6,trn,,84,117
-Dignitas,11,FaZe,16,d2,,84,451
-Heroic,34,Envy,31,mrg,55,117,451
-Cloud9,16,FlipSid3,4,trn,67.6,84,451
-Virtus.pro,16,Gambit,12,cbl,,84,60
-Natus Vincere,11,NiP,16,d2,undefined,558,352
-NiP,8,Natus Vincere,16,ovp,57,352,558
-Envy,9,mousesports,16,mrg,,352,341
-mousesports,16,Envy,9,d2,undefined,341,341
-Astralis,16,NiP,7,ovp,66.7,1000,352
-NiP,16,Astralis,14,d2,undefined,352,1000
-Immortals,12,OpTic,16,cch,,352,156
-OpTic,13,Immortals,16,cbl,55.2,156,156
-Dignitas,16,G2,14,d2,,156,67
+Virtus.pro,16,FlipSid3,5,trn,52.1,72,1000
+FlipSid3,16,Virtus.pro,5,cbl,,72,72
+FaZe,19,Dignitas,17,ovp,61.2,444,72
+Dignitas,4,FaZe,16,cch,,444,444
+Envy,10,Virtus.pro,16,mrg,,444,72
+Immortals,16,SK,4,mrg,,444,72
+SK,11,Immortals,16,ovp,,444,72
+Virtus.pro,9,Natus Vincere,16,trn,52.1,72,569
+Natus Vincere,3,Virtus.pro,16,cbl,53.6,569,72
+SK,16,Echo Fox,11,d2,,569,72
+Echo Fox,12,SK,16,ovp,,569,72
+Echo Fox,11,OpTic,16,trn,,569,151
+OpTic,16,Echo Fox,5,d2,42.5,151,151
+Heroic,16,G2,12,trn,49.6,110,67
+G2,19,Heroic,16,ovp,51.8,67,110
+FlipSid3,5,Envy,16,cbl,,67,110
+Envy,16,FlipSid3,4,nuke,,67,110
+Echo Fox,8,Cloud9,16,d2,,67,85
+Cloud9,12,Echo Fox,16,d2,64.6,85,85
+NiP,16,G2,5,ovp,57,354,67
+G2,10,NiP,16,mrg,46.8,67,354
+Natus Vincere,13,mousesports,16,d2,58.2,569,305
+mousesports,8,Natus Vincere,16,ovp,52.8,305,569
+Cloud9,16,FaZe,8,trn,67.6,85,444
+Virtus.pro,16,Heroic,6,trn,52.1,72,110
+Dignitas,11,FaZe,16,d2,,72,444
+Heroic,34,Envy,31,mrg,55,110,444
+Cloud9,16,FlipSid3,4,trn,67.6,85,444
+Virtus.pro,16,Gambit,12,cbl,57.3,72,444
+Natus Vincere,11,NiP,16,d2,58.2,569,354
+NiP,8,Natus Vincere,16,ovp,57,354,569
+Envy,9,mousesports,16,mrg,,354,305
+mousesports,16,Envy,9,d2,55,305,305
+Astralis,16,NiP,7,ovp,66.7,1000,354
+NiP,16,Astralis,14,d2,67.8,354,1000
+Immortals,12,OpTic,16,cch,,354,151
+OpTic,13,Immortals,16,cbl,55.2,151,151
+Dignitas,16,G2,14,d2,,151,67
 G2,16,Dignitas,13,cbl,55.7,67,67
-mousesports,16,FaZe,3,mrg,61.8,341,451
-FaZe,6,mousesports,16,d2,undefined,451,341
-Envy,16,Virtus.pro,8,cbl,,451,341
-Natus Vincere,16,Astralis,19,d2,undefined,558,1000
-G2,16,FaZe,10,d2,undefined,67,451
-NiP,16,GODSENT,5,ovp,57,352,451
-Envy,8,Cloud9,16,cbl,,352,84
-Astralis,13,Heroic,16,trn,63.6,1000,117
-FaZe,16,FlipSid3,2,trn,57.5,451,117
-GODSENT,16,Dignitas,3,mrg,,451,117
-NiP,16,mousesports,5,cch,60.1,352,341
-mousesports,13,NiP,16,cbl,51.1,341,352
-Natus Vincere,16,FlipSid3,7,ovp,64.3,558,352
-FlipSid3,12,Natus Vincere,16,trn,,558,558
-G2,16,mousesports,6,d2,undefined,67,341
-mousesports,16,G2,11,cch,60.5,341,67
-Virtus.pro,7,Dignitas,16,mrg,,341,67
-Dignitas,7,Virtus.pro,16,d2,,341,67
-Astralis,16,FaZe,11,mrg,69.7,1000,451
-FaZe,19,Astralis,16,d2,undefined,451,1000
-SK,13,Liquid,16,mrg,,451,455
-Liquid,16,SK,10,cbl,64,455,455
-G2,16,FlipSid3,6,trn,47,67,455
+mousesports,16,FaZe,3,mrg,61.8,305,444
+FaZe,6,mousesports,16,d2,54.3,444,305
+Envy,16,Virtus.pro,8,cbl,,444,72
+Natus Vincere,16,Astralis,19,d2,58.2,569,1000
+G2,16,FaZe,10,d2,59.8,67,444
+NiP,16,GODSENT,5,ovp,57,354,444
+Envy,8,Cloud9,16,cbl,,354,85
+Astralis,13,Heroic,16,trn,63.6,1000,110
+FaZe,16,FlipSid3,2,trn,57.5,444,110
+GODSENT,16,Dignitas,3,mrg,,444,110
+NiP,16,mousesports,5,cch,60.1,354,305
+mousesports,13,NiP,16,cbl,51.1,305,354
+Natus Vincere,16,FlipSid3,7,ovp,64.3,569,354
+FlipSid3,12,Natus Vincere,16,trn,,569,569
+G2,16,mousesports,6,d2,59.8,67,305
+mousesports,16,G2,11,cch,60.5,305,67
+Virtus.pro,7,Dignitas,16,mrg,60,72,67
+Dignitas,7,Virtus.pro,16,d2,,72,72
+Astralis,16,FaZe,11,mrg,69.1,1000,444
+FaZe,19,Astralis,16,d2,54.3,444,1000
+SK,13,Liquid,16,mrg,,444,510
+Liquid,16,SK,10,cbl,64,510,510
+G2,16,FlipSid3,6,trn,46.4,67,510
 FlipSid3,12,G2,16,nuke,,67,67
-Heroic,13,Dignitas,16,mrg,55,117,67
-FaZe,12,NiP,16,cch,54.6,451,352
-Envy,3,Astralis,16,trn,,451,1000
-Astralis,14,Envy,16,mrg,69.7,1000,1000
-NiP,16,FaZe,3,cch,60.1,352,451
-Dignitas,16,FlipSid3,9,ovp,,352,451
-FlipSid3,5,Dignitas,16,cbl,,352,451
-Dignitas,14,mousesports,16,mrg,,352,341
-Envy,6,NiP,16,nuke,,352,352
-mousesports,16,Dignitas,14,cbl,51.1,341,352
-NiP,15,Envy,19,d2,undefined,352,352
-Astralis,16,FlipSid3,12,trn,63.6,1000,352
+Heroic,13,Dignitas,16,mrg,55,110,67
+FaZe,12,NiP,16,cch,54.6,444,354
+Envy,3,Astralis,16,trn,,444,1000
+Astralis,14,Envy,16,mrg,69.1,1000,1000
+NiP,16,FaZe,3,cch,60.1,354,444
+Dignitas,16,FlipSid3,9,ovp,,354,444
+FlipSid3,5,Dignitas,16,cbl,,354,444
+Dignitas,14,mousesports,16,mrg,,354,305
+Envy,6,NiP,16,nuke,,354,354
+mousesports,16,Dignitas,14,cbl,51.1,305,354
+NiP,15,Envy,19,d2,67.8,354,354
+Astralis,16,FlipSid3,12,trn,63.6,1000,354
 FlipSid3,6,Astralis,16,ovp,,1000,1000
-Dignitas,16,NiP,10,d2,,1000,352
-NiP,16,Dignitas,8,nuke,77.2,352,352
-G2,6,Envy,16,nuke,62.1,67,352
+Dignitas,16,NiP,10,d2,,1000,354
+NiP,16,Dignitas,8,nuke,77.2,354,354
+G2,6,Envy,16,nuke,61.2,67,354
 Envy,16,G2,14,trn,,67,67
-FaZe,16,G2,12,ovp,61.2,451,67
-G2,12,FaZe,16,cch,56.2,67,451
-Natus Vincere,16,Astralis,6,mrg,63,558,1000
-Astralis,7,Natus Vincere,16,trn,63.6,1000,558
-OpTic,20,Liquid,22,cbl,55.2,156,455
-Liquid,16,OpTic,3,mrg,56.7,455,156
-Envy,10,FaZe,16,mrg,,455,451
-FaZe,6,Envy,16,cch,54.6,451,451
-G2,11,Natus Vincere,16,trn,47,67,558
-Natus Vincere,16,G2,12,d2,undefined,558,67
-Immortals,14,Cloud9,16,ovp,,558,84
-Cloud9,16,Immortals,5,cbl,64.4,84,84
-Virtus.pro,5,FaZe,16,mrg,,84,451
-FaZe,16,Virtus.pro,8,trn,57.5,451,451
-Liquid,10,Cloud9,16,d2,undefined,455,84
-Cloud9,16,Liquid,8,cbl,64.4,84,455
-NiP,17,Virtus.pro,19,ovp,57,352,455
-Virtus.pro,8,NiP,16,nuke,,352,352
-G2,13,fnatic,16,trn,47,67,183
-SK,16,FaZe,6,cbl,,67,451
-Envy,12,mousesports,16,trn,,67,341
-Liquid,12,Virtus.pro,16,cbl,64,455,341
-Natus Vincere,16,NiP,12,cbl,53.6,558,352
-Astralis,6,Gambit,16,d2,undefined,1000,60
-fnatic,14,FaZe,16,d2,undefined,183,451
-SK,16,G2,11,cbl,,183,67
-Virtus.pro,16,mousesports,10,trn,,183,341
-Liquid,16,Envy,7,trn,56.1,455,341
-NiP,16,OpTic,4,d2,undefined,352,156
-Astralis,16,Dignitas,12,ovp,66.7,1000,156
-Gambit,9,Virtus.pro,16,trn,51.8,60,156
-Virtus.pro,12,Gambit,16,nuke,,60,60
-Envy,16,Virtus.pro,11,cch,,60,60
-Virtus.pro,19,Envy,16,mrg,,60,60
-Gambit,9,Envy,16,cbl,50,60,60
-Envy,16,Gambit,13,d2,,60,60
-fnatic,16,Cloud9,13,d2,undefined,183,84
-Luminosity,16,Liquid,12,trn,62.2,86,455
-Liquid,16,G2,6,cbl,64,455,67
-Luminosity,16,NiP,12,trn,62.2,86,352
-mousesports,6,Natus Vincere,16,cbl,51.1,341,558
-Natus Vincere,6,mousesports,16,mrg,63,558,341
-NiP,8,GODSENT,16,mrg,55.7,352,341
-Astralis,16,SK,12,ovp,66.7,1000,341
-HellRaisers,7,GODSENT,16,cbl,56.2,129,341
-Immortals,13,SK,16,trn,,129,341
-fnatic,16,Dignitas,6,d2,undefined,183,341
-Dignitas,9,fnatic,16,cbl,,183,183
-FaZe,16,fnatic,8,mrg,62.8,451,183
-fnatic,16,FaZe,0,cbl,65.2,183,451
-FaZe,16,Dignitas,6,mrg,62.8,451,451
-Dignitas,5,FaZe,16,cbl,,451,451
-Cloud9,8,G2,16,cch,61.6,84,67
-TYLOO,3,Dignitas,16,cbl,73.2,88,67
-Envy,16,Cloud9,12,cbl,,88,84
-HellRaisers,14,OpTic,16,cch,60,129,156
-mousesports,16,G2,1,d2,undefined,341,67
-Cloud9,16,TYLOO,13,cch,61.6,84,88
-Dignitas,10,HellRaisers,16,nuke,,84,129
-Cloud9,12,mousesports,16,mrg,62.4,84,341
-HellRaisers,8,G2,16,d2,undefined,129,67
-TYLOO,16,Immortals,11,cch,74.4,88,67
-G2,16,TYLOO,9,cch,56.2,67,88
-FaZe,16,Dignitas,8,mrg,62.8,451,88
-Envy,16,Immortals,6,d2,,451,88
-Astralis,16,SK,7,ovp,66.7,1000,88
+FaZe,16,G2,12,ovp,61.2,444,67
+G2,12,FaZe,16,cch,55.9,67,444
+Natus Vincere,16,Astralis,6,mrg,63.3,569,1000
+Astralis,7,Natus Vincere,16,trn,63.6,1000,569
+OpTic,20,Liquid,22,cbl,55.2,151,510
+Liquid,16,OpTic,3,mrg,56.7,510,151
+Envy,10,FaZe,16,mrg,,510,444
+FaZe,6,Envy,16,cch,54.6,444,444
+G2,11,Natus Vincere,16,trn,46.4,67,569
+Natus Vincere,16,G2,12,d2,58.2,569,67
+Immortals,14,Cloud9,16,ovp,,569,85
+Cloud9,16,Immortals,5,cbl,64.4,85,85
+Virtus.pro,5,FaZe,16,mrg,60,72,444
+FaZe,16,Virtus.pro,8,trn,57.5,444,72
+Liquid,10,Cloud9,16,d2,50.5,510,85
+Cloud9,16,Liquid,8,cbl,64.4,85,510
+NiP,17,Virtus.pro,19,ovp,57,354,72
+Virtus.pro,8,NiP,16,nuke,58.8,72,354
+G2,13,fnatic,16,trn,46.4,67,197
+SK,16,FaZe,6,cbl,,67,444
+Envy,12,mousesports,16,trn,,67,305
+Liquid,12,Virtus.pro,16,cbl,64,510,72
+Natus Vincere,16,NiP,12,cbl,53.6,569,354
+Astralis,6,Gambit,16,d2,65.6,1000,354
+fnatic,14,FaZe,16,d2,57.5,197,444
+SK,16,G2,11,cbl,,197,67
+Virtus.pro,16,mousesports,10,trn,52.1,72,305
+Liquid,16,Envy,7,trn,56.1,510,305
+NiP,16,OpTic,4,d2,67.8,354,151
+Astralis,16,Dignitas,12,ovp,66.7,1000,151
+Gambit,9,Virtus.pro,16,trn,,1000,72
+Virtus.pro,12,Gambit,16,nuke,58.8,72,72
+Envy,16,Virtus.pro,11,cch,,72,72
+Virtus.pro,19,Envy,16,mrg,60,72,72
+Gambit,9,Envy,16,cbl,,72,72
+Envy,16,Gambit,13,d2,,72,72
+fnatic,16,Cloud9,13,d2,57.5,197,85
+Luminosity,16,Liquid,12,trn,62.2,86,510
+Liquid,16,G2,6,cbl,64,510,67
+Luminosity,16,NiP,12,trn,62.2,86,354
+mousesports,6,Natus Vincere,16,cbl,51.1,305,569
+Natus Vincere,6,mousesports,16,mrg,63.3,569,305
+NiP,8,GODSENT,16,mrg,55.7,354,305
+Astralis,16,SK,12,ovp,66.7,1000,305
+HellRaisers,7,GODSENT,16,cbl,56.2,161,305
+Immortals,13,SK,16,trn,,161,305
+fnatic,16,Dignitas,6,d2,57.5,197,305
+Dignitas,9,fnatic,16,cbl,,197,197
+FaZe,16,fnatic,8,mrg,62.8,444,197
+fnatic,16,FaZe,0,cbl,65.2,197,444
+FaZe,16,Dignitas,6,mrg,62.8,444,444
+Dignitas,5,FaZe,16,cbl,,444,444
+Cloud9,8,G2,16,cch,61.6,85,67
+TYLOO,3,Dignitas,16,cbl,73.2,99,67
+Envy,16,Cloud9,12,cbl,,99,85
+HellRaisers,14,OpTic,16,cch,60,161,151
+mousesports,16,G2,1,d2,55,305,67
+Cloud9,16,TYLOO,13,cch,61.6,85,99
+Dignitas,10,HellRaisers,16,nuke,,85,161
+Cloud9,12,mousesports,16,mrg,62.4,85,305
+HellRaisers,8,G2,16,d2,56.3,161,67
+TYLOO,16,Immortals,11,cch,74.4,99,67
+G2,16,TYLOO,9,cch,55.9,67,99
+FaZe,16,Dignitas,8,mrg,62.8,444,99
+Envy,16,Immortals,6,d2,,444,99
+Astralis,16,SK,7,ovp,66.7,1000,99
 SK,16,Astralis,6,trn,,1000,1000
 CLG,6,Astralis,16,d2,,1000,1000
 Astralis,16,CLG,2,trn,63.6,1000,1000
 SK,14,CLG,16,ovp,,1000,1000
 CLG,3,SK,16,nuke,,1000,1000
-G2,16,OpTic,4,nuke,62.1,67,156
-OpTic,14,G2,16,trn,52.1,156,67
-G2,16,NiP,12,d2,undefined,67,352
-NiP,9,G2,16,trn,68.3,352,67
-OpTic,10,NiP,16,trn,52.1,156,352
-NiP,16,OpTic,4,cbl,57.8,352,156
-Luminosity,16,Cloud9,10,trn,62.2,86,84
-Cloud9,7,Luminosity,16,d2,undefined,84,86
-Liquid,14,Luminosity,16,cbl,64,455,86
-Luminosity,16,Liquid,6,d2,undefined,86,455
-Cloud9,16,Liquid,2,cch,61.6,84,455
-Liquid,11,Cloud9,16,d2,undefined,455,84
-fnatic,9,NiP,16,trn,58,183,352
-NiP,22,Liquid,18,d2,undefined,352,455
-fnatic,16,Cloud9,10,inf,67.2,183,84
+G2,16,OpTic,4,nuke,61.2,67,151
+OpTic,14,G2,16,trn,52.1,151,67
+G2,16,NiP,12,d2,59.8,67,354
+NiP,9,G2,16,trn,68.3,354,67
+OpTic,10,NiP,16,trn,52.1,151,354
+NiP,16,OpTic,4,cbl,57.8,354,151
+Luminosity,16,Cloud9,10,trn,62.2,86,85
+Cloud9,7,Luminosity,16,d2,64.6,85,86
+Liquid,14,Luminosity,16,cbl,64,510,86
+Luminosity,16,Liquid,6,d2,56.5,86,510
+Cloud9,16,Liquid,2,cch,61.6,85,510
+Liquid,11,Cloud9,16,d2,50.5,510,85
+fnatic,9,NiP,16,trn,58,197,354
+NiP,22,Liquid,18,d2,67.8,354,510
+fnatic,16,Cloud9,10,inf,67.2,197,85
 Luminosity,12,G2,16,trn,62.2,86,67
-Tempo Storm,16,Liquid,10,cbl,,86,455
-Luminosity,16,Cloud9,3,mrg,50.8,86,84
-CLG,1,Cloud9,16,cbl,,86,84
+Tempo Storm,16,Liquid,10,cbl,,86,510
+Luminosity,16,Cloud9,3,mrg,50.8,86,85
+CLG,1,Cloud9,16,cbl,,86,85
 Selfless,6,Luminosity,16,ovp,,86,86
 Luminosity,16,Selfless,14,inf,53.1,86,86
-fnatic,22,Astralis,19,trn,58,183,1000
-FaZe,16,Envy,7,trn,57.5,451,1000
-NiP,16,G2,10,d2,undefined,352,67
-mousesports,16,Natus Vincere,10,cch,60.5,341,558
-Envy,14,FaZe,16,inf,,341,451
-G2,16,NiP,13,cbl,55.7,67,352
-Natus Vincere,16,mousesports,10,d2,undefined,558,341
-Astralis,16,fnatic,5,ovp,66.7,1000,183
-Liquid,16,Selfless,11,cch,66.9,455,183
-Selfless,16,Liquid,9,trn,,455,455
-mousesports,15,Virtus.pro,19,trn,54.4,341,455
-FaZe,16,Dignitas,7,inf,62.3,451,455
-Virtus.pro,5,mousesports,16,cch,,451,341
-Dignitas,16,FaZe,9,mrg,,451,451
-NiP,16,Envy,3,trn,68.3,352,451
-Envy,10,NiP,16,cch,,352,352
-FaZe,16,fnatic,10,inf,62.3,451,183
-fnatic,6,FaZe,16,trn,58,183,451
-G2,16,Natus Vincere,3,ovp,50.5,67,558
-Natus Vincere,19,G2,16,trn,65,558,67
-FaZe,9,Astralis,16,inf,62.3,451,1000
-Astralis,16,FaZe,12,d2,undefined,1000,451
-fnatic,13,Natus Vincere,16,cbl,65.2,183,558
-Natus Vincere,11,fnatic,16,ovp,64.3,558,183
-mousesports,16,Envy,8,cch,60.5,341,183
-Envy,19,mousesports,22,inf,,341,341
-Virtus.pro,16,Tempo Storm,9,mrg,,341,341
-Astralis,9,Dignitas,16,cch,58.5,1000,341
-Natus Vincere,19,CLG,15,d2,undefined,558,341
-Luminosity,7,mousesports,16,cch,54.9,86,341
-FaZe,12,Envy,16,cch,54.6,451,341
-Envy,14,Tempo Storm,16,cbl,,451,341
-Virtus.pro,16,FaZe,8,trn,,451,451
-NiP,2,Dignitas,16,ovp,57,352,451
-G2,2,CLG,16,d2,undefined,67,451
-Liquid,13,mousesports,16,d2,undefined,455,341
-Liquid,16,Cloud9,5,cch,66.9,455,84
-Cloud9,8,Liquid,16,d2,undefined,84,455
-Dignitas,16,Envy,7,inf,,84,455
-Envy,14,Dignitas,16,mrg,,84,455
-NiP,16,FlipSid3,8,cbl,57.8,352,455
-FlipSid3,4,NiP,16,ovp,,352,352
-Natus Vincere,16,Virtus.pro,4,cbl,53.6,558,352
-CLG,9,Astralis,16,ovp,,558,1000
-Liquid,22,fnatic,19,d2,undefined,455,183
-NiP,5,Luminosity,16,mrg,55.7,352,86
-Cloud9,3,G2,16,d2,undefined,84,67
-FlipSid3,28,mousesports,31,cbl,,84,341
-Virtus.pro,16,G2,1,trn,,84,67
-Natus Vincere,16,Cloud9,9,trn,65,558,84
-Envy,8,CLG,16,cbl,,558,84
-FaZe,11,Liquid,16,cch,54.6,451,455
-Luminosity,16,mousesports,13,mrg,50.8,86,341
-NiP,19,FlipSid3,17,cch,60.1,352,341
-NiP,16,Astralis,4,cch,60.1,352,1000
-Astralis,8,NiP,16,mrg,69.7,1000,352
-fnatic,16,FlipSid3,14,inf,67.2,183,352
-FlipSid3,13,fnatic,16,ovp,,183,183
-Dignitas,16,mousesports,10,inf,,183,341
-mousesports,16,Dignitas,19,cbl,51.1,341,341
-FlipSid3,13,SK,16,trn,,341,341
-SK,10,FlipSid3,16,mrg,,341,341
-Liquid,22,CLG,19,mrg,56.7,455,341
-CLG,5,Liquid,16,cbl,,455,455
-Dignitas,5,Astralis,16,mrg,,455,1000
-Astralis,16,Dignitas,11,inf,71.9,1000,1000
-Natus Vincere,16,Envy,7,cbl,53.6,558,1000
-Envy,11,Natus Vincere,16,trn,,558,558
-FlipSid3,16,mousesports,13,cbl,,558,341
-mousesports,12,FlipSid3,16,ovp,52.8,341,341
-Luminosity,16,CLG,12,ovp,58.8,86,341
+fnatic,22,Astralis,19,trn,58,197,1000
+FaZe,16,Envy,7,trn,57.5,444,1000
+NiP,16,G2,10,d2,67.8,354,67
+mousesports,16,Natus Vincere,10,cch,60.5,305,569
+Envy,14,FaZe,16,inf,,305,444
+G2,16,NiP,13,cbl,55.7,67,354
+Natus Vincere,16,mousesports,10,d2,58.2,569,305
+Astralis,16,fnatic,5,ovp,66.7,1000,197
+Liquid,16,Selfless,11,cch,66.9,510,197
+Selfless,16,Liquid,9,trn,,510,510
+mousesports,15,Virtus.pro,19,trn,54.6,305,72
+FaZe,16,Dignitas,7,inf,62.3,444,72
+Virtus.pro,5,mousesports,16,cch,52.2,72,305
+Dignitas,16,FaZe,9,mrg,,72,444
+NiP,16,Envy,3,trn,68.3,354,444
+Envy,10,NiP,16,cch,,354,354
+FaZe,16,fnatic,10,inf,62.3,444,197
+fnatic,6,FaZe,16,trn,58,197,444
+G2,16,Natus Vincere,3,ovp,51.8,67,569
+Natus Vincere,19,G2,16,trn,64.8,569,67
+FaZe,9,Astralis,16,inf,62.3,444,1000
+Astralis,16,FaZe,12,d2,65.6,1000,444
+fnatic,13,Natus Vincere,16,cbl,65.2,197,569
+Natus Vincere,11,fnatic,16,ovp,64.3,569,197
+mousesports,16,Envy,8,cch,60.5,305,197
+Envy,19,mousesports,22,inf,,305,305
+Virtus.pro,16,Tempo Storm,9,mrg,60,72,305
+Astralis,9,Dignitas,16,cch,58.5,1000,305
+Natus Vincere,19,CLG,15,d2,58.2,569,305
+Luminosity,7,mousesports,16,cch,54.9,86,305
+FaZe,12,Envy,16,cch,54.6,444,305
+Envy,14,Tempo Storm,16,cbl,,444,305
+Virtus.pro,16,FaZe,8,trn,52.1,72,444
+NiP,2,Dignitas,16,ovp,57,354,444
+G2,2,CLG,16,d2,59.8,67,444
+Liquid,13,mousesports,16,d2,50.5,510,305
+Liquid,16,Cloud9,5,cch,66.9,510,85
+Cloud9,8,Liquid,16,d2,64.6,85,510
+Dignitas,16,Envy,7,inf,,85,510
+Envy,14,Dignitas,16,mrg,,85,510
+NiP,16,FlipSid3,8,cbl,57.8,354,510
+FlipSid3,4,NiP,16,ovp,,354,354
+Natus Vincere,16,Virtus.pro,4,cbl,53.6,569,72
+CLG,9,Astralis,16,ovp,,569,1000
+Liquid,22,fnatic,19,d2,50.5,510,197
+NiP,5,Luminosity,16,mrg,55.7,354,86
+Cloud9,3,G2,16,d2,64.6,85,67
+FlipSid3,28,mousesports,31,cbl,,85,305
+Virtus.pro,16,G2,1,trn,52.1,72,67
+Natus Vincere,16,Cloud9,9,trn,64.8,569,85
+Envy,8,CLG,16,cbl,,569,85
+FaZe,11,Liquid,16,cch,54.6,444,510
+Luminosity,16,mousesports,13,mrg,50.8,86,305
+NiP,19,FlipSid3,17,cch,60.1,354,305
+NiP,16,Astralis,4,cch,60.1,354,1000
+Astralis,8,NiP,16,mrg,69.1,1000,354
+fnatic,16,FlipSid3,14,inf,67.2,197,354
+FlipSid3,13,fnatic,16,ovp,,197,197
+Dignitas,16,mousesports,10,inf,,197,305
+mousesports,16,Dignitas,19,cbl,51.1,305,305
+FlipSid3,13,SK,16,trn,,305,305
+SK,10,FlipSid3,16,mrg,,305,305
+Liquid,22,CLG,19,mrg,56.7,510,305
+CLG,5,Liquid,16,cbl,,510,510
+Dignitas,5,Astralis,16,mrg,,510,1000
+Astralis,16,Dignitas,11,inf,72.5,1000,1000
+Natus Vincere,16,Envy,7,cbl,53.6,569,1000
+Envy,11,Natus Vincere,16,trn,,569,569
+FlipSid3,16,mousesports,13,cbl,,569,305
+mousesports,12,FlipSid3,16,ovp,52.8,305,305
+Luminosity,16,CLG,12,ovp,58.8,86,305
 CLG,9,Luminosity,16,cbl,,86,86
-Dignitas,5,fnatic,16,ovp,,86,183
-fnatic,16,Dignitas,6,trn,58,183,183
-FaZe,13,mousesports,16,d2,undefined,451,341
-mousesports,16,FaZe,14,cch,60.5,341,451
-Luminosity,16,Cloud9,7,cbl,59.6,86,84
-Cloud9,16,Luminosity,13,ovp,57,84,86
-Liquid,16,Renegades,7,d2,undefined,455,109
-Renegades,16,Liquid,11,mrg,52.4,109,455
-FaZe,10,G2,16,cch,54.6,451,67
-G2,16,FaZe,13,d2,undefined,67,451
-Renegades,8,Cloud9,16,d2,undefined,109,84
-Cloud9,19,Renegades,16,trn,67.6,84,109
-NiP,10,fnatic,16,inf,60.3,352,183
-fnatic,6,NiP,16,cch,62.6,183,352
-Dignitas,16,G2,10,ovp,,183,67
-G2,16,Dignitas,6,inf,51.2,67,67
-Dignitas,3,Natus Vincere,16,ovp,,67,558
-Natus Vincere,16,Dignitas,14,mrg,63,558,558
-mousesports,19,fnatic,17,d2,undefined,341,183
-fnatic,16,mousesports,4,cch,62.6,183,341
-FlipSid3,7,G2,16,ovp,,183,67
-G2,16,FlipSid3,12,trn,47,67,67
-G2,16,Virtus.pro,6,ovp,50.5,67,67
-Virtus.pro,16,G2,14,trn,,67,67
-Astralis,7,Envy,16,inf,71.9,1000,67
+Dignitas,5,fnatic,16,ovp,,86,197
+fnatic,16,Dignitas,6,trn,58,197,197
+FaZe,13,mousesports,16,d2,54.3,444,305
+mousesports,16,FaZe,14,cch,60.5,305,444
+Luminosity,16,Cloud9,7,cbl,59.6,86,85
+Cloud9,16,Luminosity,13,ovp,57,85,86
+Liquid,16,Renegades,7,d2,50.5,510,105
+Renegades,16,Liquid,11,mrg,52.4,105,510
+FaZe,10,G2,16,cch,54.6,444,67
+G2,16,FaZe,13,d2,59.8,67,444
+Renegades,8,Cloud9,16,d2,60.4,105,85
+Cloud9,19,Renegades,16,trn,67.6,85,105
+NiP,10,fnatic,16,inf,60.3,354,197
+fnatic,6,NiP,16,cch,62.6,197,354
+Dignitas,16,G2,10,ovp,,197,67
+G2,16,Dignitas,6,inf,50.8,67,67
+Dignitas,3,Natus Vincere,16,ovp,,67,569
+Natus Vincere,16,Dignitas,14,mrg,63.3,569,569
+mousesports,19,fnatic,17,d2,55,305,197
+fnatic,16,mousesports,4,cch,62.6,197,305
+FlipSid3,7,G2,16,ovp,,197,67
+G2,16,FlipSid3,12,trn,46.4,67,67
+G2,16,Virtus.pro,6,ovp,51.8,67,72
+Virtus.pro,16,G2,14,trn,52.1,72,67
+Astralis,7,Envy,16,inf,72.5,1000,67
 Envy,10,Astralis,16,trn,,1000,1000
-FaZe,12,Natus Vincere,16,mrg,62.8,451,558
-Natus Vincere,19,FaZe,17,d2,undefined,558,451
-FlipSid3,7,Envy,16,cbl,,558,451
-Envy,16,FlipSid3,9,mrg,,558,451
-Envy,12,G2,16,trn,,558,67
-G2,16,Envy,11,cch,56.2,67,67
-NiP,16,Virtus.pro,11,ovp,57,352,67
-Virtus.pro,2,NiP,16,cch,,352,352
-FaZe,9,NiP,16,trn,57.5,451,352
-NiP,16,FaZe,7,d2,undefined,352,451
-mousesports,4,Astralis,16,d2,undefined,341,1000
-Astralis,16,mousesports,12,mrg,69.7,1000,341
-Envy,19,E-frag.net,22,cch,,1000,341
-Virtus.pro,16,FaZe,13,mrg,,1000,451
-E-frag.net,9,Virtus.pro,16,ovp,,1000,451
-FaZe,5,Astralis,16,inf,62.3,451,1000
-Envy,16,FaZe,12,trn,,451,451
-E-frag.net,5,Astralis,16,mrg,,451,1000
-Envy,14,Virtus.pro,16,cch,,451,1000
-Virtus.pro,6,Astralis,16,ovp,,451,1000
-Envy,11,Astralis,16,trn,,451,1000
-E-frag.net,5,FaZe,16,cch,,451,451
-fnatic,19,mousesports,17,d2,undefined,183,341
-Luminosity,13,NiP,16,mrg,50.8,86,352
-mousesports,14,Luminosity,16,cbl,51.1,341,86
-NiP,13,Natus Vincere,16,ovp,57,352,558
-fnatic,16,NiP,14,inf,67.2,183,352
-mousesports,6,Natus Vincere,16,cbl,51.1,341,558
-fnatic,12,Luminosity,16,inf,67.2,183,86
-Luminosity,16,Natus Vincere,11,mrg,50.8,86,558
-fnatic,16,Natus Vincere,10,d2,undefined,183,558
-mousesports,16,NiP,8,mrg,61.8,341,352
-Dignitas,13,Cloud9,16,cch,,341,84
-SK,13,CLG,16,ovp,,341,84
-FlipSid3,14,G2,16,inf,,341,67
-Dignitas,9,Renegades,16,inf,,341,109
-HellRaisers,15,mousesports,19,mrg,49.5,129,341
-Liquid,20,HellRaisers,22,d2,undefined,455,129
-fnatic,16,SK,6,cch,62.6,183,129
-SK,11,fnatic,16,ovp,,183,183
-Virtus.pro,11,Astralis,16,cch,,183,1000
-Astralis,16,Virtus.pro,3,ovp,66.7,1000,1000
-NiP,16,Natus Vincere,10,mrg,55.7,352,558
-Natus Vincere,16,NiP,13,trn,65,558,352
-NiP,16,mousesports,14,ovp,57,352,341
-mousesports,15,NiP,19,cch,60.5,341,352
-Virtus.pro,13,Envy,16,mrg,,341,352
-Envy,20,Virtus.pro,22,cbl,,341,352
-mousesports,16,G2,10,ovp,52.8,341,67
-G2,16,mousesports,13,d2,undefined,67,341
-Astralis,13,fnatic,16,inf,71.9,1000,183
-Astralis,14,fnatic,16,d2,undefined,1000,183
-fnatic,16,G2,8,ovp,54.8,183,67
-fnatic,16,G2,7,inf,67.2,183,67
-Dignitas,12,Astralis,16,ovp,,183,1000
-Astralis,16,Dignitas,11,mrg,69.7,1000,1000
-fnatic,16,Envy,7,trn,58,183,1000
-Astralis,13,G2,16,d2,undefined,1000,67
+FaZe,12,Natus Vincere,16,mrg,62.8,444,569
+Natus Vincere,19,FaZe,17,d2,58.2,569,444
+FlipSid3,7,Envy,16,cbl,,569,444
+Envy,16,FlipSid3,9,mrg,,569,444
+Envy,12,G2,16,trn,,569,67
+G2,16,Envy,11,cch,55.9,67,67
+NiP,16,Virtus.pro,11,ovp,57,354,72
+Virtus.pro,2,NiP,16,cch,52.2,72,354
+FaZe,9,NiP,16,trn,57.5,444,354
+NiP,16,FaZe,7,d2,67.8,354,444
+mousesports,4,Astralis,16,d2,55,305,1000
+Astralis,16,mousesports,12,mrg,69.1,1000,305
+Envy,19,E-frag.net,22,cch,,1000,305
+Virtus.pro,16,FaZe,13,mrg,60,72,444
+E-frag.net,9,Virtus.pro,16,ovp,,72,72
+FaZe,5,Astralis,16,inf,62.3,444,1000
+Envy,16,FaZe,12,trn,,444,444
+E-frag.net,5,Astralis,16,mrg,,444,1000
+Envy,14,Virtus.pro,16,cch,,444,72
+Virtus.pro,6,Astralis,16,ovp,51,72,1000
+Envy,11,Astralis,16,trn,,72,1000
+E-frag.net,5,FaZe,16,cch,,72,444
+fnatic,19,mousesports,17,d2,57.5,197,305
+Luminosity,13,NiP,16,mrg,50.8,86,354
+mousesports,14,Luminosity,16,cbl,51.1,305,86
+NiP,13,Natus Vincere,16,ovp,57,354,569
+fnatic,16,NiP,14,inf,67.2,197,354
+mousesports,6,Natus Vincere,16,cbl,51.1,305,569
+fnatic,12,Luminosity,16,inf,67.2,197,86
+Luminosity,16,Natus Vincere,11,mrg,50.8,86,569
+fnatic,16,Natus Vincere,10,d2,57.5,197,569
+mousesports,16,NiP,8,mrg,61.8,305,354
+Dignitas,13,Cloud9,16,cch,,305,85
+SK,13,CLG,16,ovp,,305,85
+FlipSid3,14,G2,16,inf,,305,67
+Dignitas,9,Renegades,16,inf,,305,105
+HellRaisers,15,mousesports,19,mrg,50,161,305
+Liquid,20,HellRaisers,22,d2,50.5,510,161
+fnatic,16,SK,6,cch,62.6,197,161
+SK,11,fnatic,16,ovp,,197,197
+Virtus.pro,11,Astralis,16,cch,52.2,72,1000
+Astralis,16,Virtus.pro,3,ovp,66.7,1000,72
+NiP,16,Natus Vincere,10,mrg,55.7,354,569
+Natus Vincere,16,NiP,13,trn,64.8,569,354
+NiP,16,mousesports,14,ovp,57,354,305
+mousesports,15,NiP,19,cch,60.5,305,354
+Virtus.pro,13,Envy,16,mrg,60,72,354
+Envy,20,Virtus.pro,22,cbl,,72,72
+mousesports,16,G2,10,ovp,52.8,305,67
+G2,16,mousesports,13,d2,59.8,67,305
+Astralis,13,fnatic,16,inf,72.5,1000,197
+Astralis,14,fnatic,16,d2,65.6,1000,197
+fnatic,16,G2,8,ovp,54.8,197,67
+fnatic,16,G2,7,inf,67.2,197,67
+Dignitas,12,Astralis,16,ovp,,197,1000
+Astralis,16,Dignitas,11,mrg,69.1,1000,1000
+fnatic,16,Envy,7,trn,58,197,1000
+Astralis,13,G2,16,d2,65.6,1000,67
 Envy,9,Astralis,16,mrg,,1000,1000
-fnatic,19,Dignitas,17,cbl,65.2,183,1000
-Envy,13,fnatic,16,cbl,,183,183
-Astralis,19,G2,17,d2,undefined,1000,67
-Envy,16,fnatic,10,trn,,1000,183
-NiP,16,Dignitas,8,mrg,55.7,352,183
-Dignitas,8,NiP,16,trn,,352,352
-Natus Vincere,16,Virtus.pro,12,cbl,53.6,558,352
-Virtus.pro,9,Natus Vincere,16,d2,,558,558
-fnatic,5,Envy,16,cch,62.6,183,558
-Envy,4,fnatic,16,inf,,183,183
-FlipSid3,7,Astralis,16,ovp,,183,1000
-Astralis,16,FlipSid3,7,mrg,69.7,1000,1000
-Dignitas,16,Virtus.pro,14,ovp,,1000,1000
-Virtus.pro,5,Dignitas,16,mrg,,1000,1000
-G2,7,fnatic,16,inf,51.2,67,183
-fnatic,16,G2,5,cbl,65.2,183,67
-Liquid,11,Luminosity,16,cbl,64,455,86
-Luminosity,16,Liquid,13,ovp,58.8,86,455
-CLG,5,Cloud9,16,ovp,,86,84
-Cloud9,16,CLG,12,cbl,64.4,84,84
-Virtus.pro,9,fnatic,16,ovp,,84,183
-fnatic,16,Virtus.pro,12,d2,undefined,183,183
-Natus Vincere,12,SK,16,trn,65,558,183
-SK,16,Natus Vincere,7,cbl,,558,558
-FaZe,16,Virtus.pro,10,mrg,62.8,451,558
-Virtus.pro,9,FaZe,16,trn,,451,451
-G2,16,Astralis,8,cch,56.2,67,1000
-Astralis,16,G2,10,inf,71.9,1000,67
+fnatic,19,Dignitas,17,cbl,65.2,197,1000
+Envy,13,fnatic,16,cbl,,197,197
+Astralis,19,G2,17,d2,65.6,1000,67
+Envy,16,fnatic,10,trn,,1000,197
+NiP,16,Dignitas,8,mrg,55.7,354,197
+Dignitas,8,NiP,16,trn,,354,354
+Natus Vincere,16,Virtus.pro,12,cbl,53.6,569,72
+Virtus.pro,9,Natus Vincere,16,d2,45.8,72,569
+fnatic,5,Envy,16,cch,62.6,197,569
+Envy,4,fnatic,16,inf,,197,197
+FlipSid3,7,Astralis,16,ovp,,197,1000
+Astralis,16,FlipSid3,7,mrg,69.1,1000,1000
+Dignitas,16,Virtus.pro,14,ovp,,1000,72
+Virtus.pro,5,Dignitas,16,mrg,60,72,72
+G2,7,fnatic,16,inf,50.8,67,197
+fnatic,16,G2,5,cbl,65.2,197,67
+Liquid,11,Luminosity,16,cbl,64,510,86
+Luminosity,16,Liquid,13,ovp,58.8,86,510
+CLG,5,Cloud9,16,ovp,,86,85
+Cloud9,16,CLG,12,cbl,64.4,85,85
+Virtus.pro,9,fnatic,16,ovp,51,72,197
+fnatic,16,Virtus.pro,12,d2,57.5,197,72
+Natus Vincere,12,SK,16,trn,64.8,569,72
+SK,16,Natus Vincere,7,cbl,,569,569
+FaZe,16,Virtus.pro,10,mrg,62.8,444,72
+Virtus.pro,9,FaZe,16,trn,52.1,72,444
+G2,16,Astralis,8,cch,55.9,67,1000
+Astralis,16,G2,10,inf,72.5,1000,67
 Envy,16,SK,6,cbl,,1000,67
 SK,19,Envy,22,mrg,,1000,67
-Natus Vincere,16,Astralis,14,ovp,64.3,558,1000
-Astralis,16,Natus Vincere,13,mrg,69.7,1000,558
-mousesports,19,Astralis,22,mrg,61.8,341,1000
-Natus Vincere,16,FaZe,9,trn,65,558,451
-Astralis,16,Dignitas,9,ovp,66.7,1000,451
-Virtus.pro,5,mousesports,16,d2,,1000,341
-Luminosity,9,FaZe,16,inf,53.1,86,451
-Natus Vincere,16,SK,3,mrg,63,558,451
-NiP,4,fnatic,16,d2,undefined,352,183
-fnatic,16,Luminosity,0,d2,undefined,183,86
-Envy,8,NiP,16,mrg,,183,352
-Virtus.pro,13,TSM,16,mrg,,183,352
-TSM,16,Liquid,0,ovp,,183,455
-CLG,13,Conquest,16,inf,,183,455
-Luminosity,16,Cloud9,4,inf,53.1,86,84
-mousesports,12,Envy,16,cch,60.5,341,84
-HellRaisers,16,mousesports,13,trn,49,129,341
-Natus Vincere,16,Virtus.pro,5,d2,undefined,558,341
-TSM,12,Envy,16,cbl,,558,341
-NiP,16,Titan,3,mrg,55.7,352,341
-HellRaisers,8,Natus Vincere,16,cbl,56.2,129,558
-fnatic,16,Envy,10,inf,67.2,183,558
-mousesports,7,TSM,16,cch,60.5,341,558
-NiP,16,Virtus.pro,13,ovp,57,352,558
-Dignitas,13,Titan,16,ovp,,352,558
-Dignitas,16,Virtus.pro,7,cbl,,352,558
-CLG,11,Renegades,16,cbl,,352,109
-mousesports,13,Virtus.pro,16,d2,undefined,341,109
-NiP,16,Titan,6,trn,68.3,352,109
-Virtus.pro,16,Titan,2,trn,,352,109
-NiP,14,Virtus.pro,16,cbl,57.8,352,109
-Cloud9,14,Liquid,16,cch,61.6,84,455
-Cloud9,16,Conquest,4,inf,53.4,84,455
-Renegades,10,CLG,16,trn,52.9,109,455
-Virtus.pro,10,fnatic,16,trn,,109,183
-Luminosity,16,Renegades,0,cbl,59.6,86,109
-CLG,10,Renegades,16,d2,,86,109
-Titan,8,Virtus.pro,16,cbl,,86,109
-G2,16,Virtus.pro,10,cch,56.2,67,109
-NiP,16,fnatic,7,trn,68.3,352,183
-Envy,4,Virtus.pro,16,cch,,352,183
-Virtus.pro,14,NiP,16,mrg,,352,352
-Virtus.pro,13,G2,16,trn,,352,67
-Luminosity,16,Liquid,14,d2,undefined,86,455
-Cloud9,13,Luminosity,16,ovp,57,84,86
-Liquid,11,Luminosity,16,cbl,64,455,86
-Dignitas,4,fnatic,16,inf,,455,183
-Dignitas,16,Virtus.pro,4,cch,,455,183
-Natus Vincere,14,fnatic,16,d2,undefined,558,183
-Cloud9,12,Liquid,16,cch,61.6,84,455
-CLG,16,Conquest,12,d2,,84,455
-Liquid,16,Conquest,8,cch,66.9,455,455
-mousesports,16,fnatic,9,ovp,52.8,341,183
-mousesports,16,Virtus.pro,2,inf,49.1,341,183
-Titan,13,Virtus.pro,16,trn,,341,183
-NiP,8,mousesports,16,mrg,55.7,352,341
-CLG,10,Luminosity,16,cbl,,352,86
-Cloud9,16,Conquest,6,d2,undefined,84,86
-Cloud9,12,CLG,16,cch,61.6,84,86
-CLG,4,Luminosity,16,cch,,84,86
-Liquid,16,Luminosity,6,cbl,64,455,86
-CLG,16,Liquid,12,inf,,455,455
-NiP,16,Envy,9,cbl,57.8,352,455
-NiP,16,Dignitas,4,trn,68.3,352,455
-Envy,16,Natus Vincere,9,mrg,,352,558
-Virtus.pro,16,Titan,7,trn,,352,558
-TSM,16,G2,6,d2,,352,67
-fnatic,13,Luminosity,16,inf,67.2,183,86
-Dignitas,14,CLG,16,cbl,,183,86
-Liquid,11,NiP,16,mrg,56.7,455,352
-FlipSid3,8,mousesports,16,ovp,,455,341
-Vexed,13,Cloud9,16,cbl,,455,84
-Natus Vincere,16,CLG,12,cbl,53.6,558,84
-Envy,16,Dignitas,6,cbl,,558,84
-NiP,13,Titan,16,cbl,57.8,352,84
-Virtus.pro,19,Liquid,15,cbl,,352,455
-G2,16,mousesports,8,inf,51.2,67,341
-TSM,16,FlipSid3,6,cch,,67,341
-Luminosity,16,Cloud9,11,d2,undefined,86,84
-fnatic,16,Vexed,10,cbl,65.2,183,84
-mousesports,14,Envy,16,ovp,52.8,341,84
-mousesports,19,Natus Vincere,17,mrg,61.8,341,558
-HellRaisers,8,Natus Vincere,16,trn,49,129,558
-HellRaisers,16,Titan,5,cch,60,129,558
-Liquid,16,CLG,11,trn,56.1,455,558
-Cloud9,11,CLG,16,mrg,62.4,84,558
-TSM,16,Envy,9,inf,,84,558
-Virtus.pro,3,TSM,16,ovp,,84,558
-NiP,17,Titan,19,d2,undefined,352,558
-fnatic,22,TSM,20,mrg,61.4,183,558
-Natus Vincere,16,NiP,11,ovp,64.3,558,352
-NiP,6,Natus Vincere,16,inf,60.3,352,558
-Liquid,16,Cloud9,12,cbl,64,455,84
-fnatic,16,HellRaisers,13,cbl,65.2,183,129
-G2,10,NiP,16,cch,56.2,67,352
-TSM,5,Virtus.pro,16,ovp,,67,352
-Envy,16,fnatic,6,trn,,67,183
-NiP,16,mousesports,8,cbl,57.8,352,341
-G2,16,Titan,11,d2,undefined,67,341
-Cloud9,6,Liquid,16,inf,53.4,84,455
-G2,12,fnatic,16,inf,51.2,67,183
-Titan,16,Envy,12,d2,,67,183
-G2,16,HellRaisers,10,cch,56.2,67,129
-Titan,13,Natus Vincere,16,trn,,67,558
-HellRaisers,8,fnatic,16,mrg,49.5,129,183
-TSM,13,Envy,16,mrg,,129,183
-Envy,14,NiP,16,d2,,129,352
-HellRaisers,11,Virtus.pro,16,ovp,55.9,129,352
-Virtus.pro,11,TSM,16,mrg,,129,352
-Titan,16,fnatic,10,trn,,129,183
-Virtus.pro,16,fnatic,19,cch,,129,183
-HellRaisers,9,Dignitas,16,mrg,49.5,129,183
-Dignitas,5,Natus Vincere,16,ovp,,129,558
-Dignitas,6,TSM,16,mrg,,129,558
-Virtus.pro,17,fnatic,19,trn,,129,183
-Natus Vincere,16,TSM,19,cch,22.2,558,183
-NiP,12,Virtus.pro,16,inf,60.3,352,183
-Virtus.pro,5,Envy,16,d2,,352,183
-Immunity,9,Renegades,16,cch,,352,109
-NiP,16,Dignitas,8,d2,undefined,352,109
-Dignitas,8,Envy,16,cch,,352,109
-Luminosity,9,Liquid,16,ovp,58.8,86,455
-Dignitas,16,mousesports,13,trn,,86,341
-Dignitas,9,fnatic,16,mrg,,86,183
-mousesports,13,TSM,16,d2,undefined,341,183
-Titan,13,TSM,16,cbl,,341,183
-Cloud9,16,Luminosity,7,ovp,57,84,86
-Cloud9,19,Liquid,17,d2,undefined,84,455
-NiP,10,Envy,16,mrg,55.7,352,455
-fnatic,5,Envy,16,cch,62.6,183,455
-TSM,13,NiP,16,d2,,183,352
-Natus Vincere,16,Envy,13,trn,65,558,352
-TSM,16,Titan,5,ovp,,558,352
-Titan,16,Natus Vincere,13,ovp,,558,558
-HellRaisers,16,fnatic,14,cch,60,129,183
-HellRaisers,16,Envy,14,cbl,56.2,129,183
-TSM,16,fnatic,3,d2,,129,183
-Envy,11,Titan,16,mrg,,129,183
-G2,10,Envy,16,d2,undefined,67,183
-mousesports,16,Titan,8,mrg,61.8,341,183
-G2,19,TSM,21,d2,undefined,67,183
-Titan,2,fnatic,16,ovp,,67,183
-mousesports,10,Titan,16,cch,60.5,341,183
-fnatic,3,Envy,16,trn,58,183,183
-Dignitas,22,Natus Vincere,19,inf,,183,558
-France,16,Poland,19,cbl,,183,558
-Dignitas,3,TSM,16,d2,,183,558
-HellRaisers,16,NiP,2,cbl,56.2,129,352
-Dignitas,19,mousesports,15,cbl,,129,341
-Titan,16,NiP,21,cbl,,129,352
-Envy,16,G2,13,trn,,129,67
-NiP,10,TSM,16,cbl,57.8,352,67
-fnatic,16,NiP,14,cbl,65.2,183,352
-Titan,5,TSM,16,ovp,,183,352
-Titan,16,fnatic,13,trn,,183,183
-TSM,16,HellRaisers,5,ovp,,183,129
-Cloud9,16,Luminosity,6,trn,67.6,84,86
-Dignitas,8,Envy,16,ovp,,84,86
-NiP,11,HellRaisers,16,cch,60.1,352,129
+Natus Vincere,16,Astralis,14,ovp,64.3,569,1000
+Astralis,16,Natus Vincere,13,mrg,69.1,1000,569
+mousesports,19,Astralis,22,mrg,61.8,305,1000
+Natus Vincere,16,FaZe,9,trn,64.8,569,444
+Astralis,16,Dignitas,9,ovp,66.7,1000,444
+Virtus.pro,5,mousesports,16,d2,45.8,72,305
+Luminosity,9,FaZe,16,inf,53.1,86,444
+Natus Vincere,16,SK,3,mrg,63.3,569,444
+NiP,4,fnatic,16,d2,67.8,354,197
+fnatic,16,Luminosity,0,d2,57.5,197,86
+Envy,8,NiP,16,mrg,,197,354
+Virtus.pro,13,TSM,16,mrg,60,72,354
+TSM,16,Liquid,0,ovp,,72,510
+CLG,13,Conquest,16,inf,,72,510
+Luminosity,16,Cloud9,4,inf,53.1,86,85
+mousesports,12,Envy,16,cch,60.5,305,85
+HellRaisers,16,mousesports,13,trn,49,161,305
+Natus Vincere,16,Virtus.pro,5,d2,58.2,569,72
+TSM,12,Envy,16,cbl,,569,72
+NiP,16,Titan,3,mrg,55.7,354,72
+HellRaisers,8,Natus Vincere,16,cbl,56.2,161,569
+fnatic,16,Envy,10,inf,67.2,197,569
+mousesports,7,TSM,16,cch,60.5,305,569
+NiP,16,Virtus.pro,13,ovp,57,354,72
+Dignitas,13,Titan,16,ovp,,354,72
+Dignitas,16,Virtus.pro,7,cbl,,354,72
+CLG,11,Renegades,16,cbl,,354,105
+mousesports,13,Virtus.pro,16,d2,55,305,72
+NiP,16,Titan,6,trn,68.3,354,72
+Virtus.pro,16,Titan,2,trn,52.1,72,72
+NiP,14,Virtus.pro,16,cbl,57.8,354,72
+Cloud9,14,Liquid,16,cch,61.6,85,510
+Cloud9,16,Conquest,4,inf,53.4,85,510
+Renegades,10,CLG,16,trn,53.8,105,510
+Virtus.pro,10,fnatic,16,trn,52.1,72,197
+Luminosity,16,Renegades,0,cbl,59.6,86,105
+CLG,10,Renegades,16,d2,,86,105
+Titan,8,Virtus.pro,16,cbl,,86,72
+G2,16,Virtus.pro,10,cch,55.9,67,72
+NiP,16,fnatic,7,trn,68.3,354,197
+Envy,4,Virtus.pro,16,cch,,354,72
+Virtus.pro,14,NiP,16,mrg,60,72,354
+Virtus.pro,13,G2,16,trn,52.1,72,67
+Luminosity,16,Liquid,14,d2,56.5,86,510
+Cloud9,13,Luminosity,16,ovp,57,85,86
+Liquid,11,Luminosity,16,cbl,64,510,86
+Dignitas,4,fnatic,16,inf,,510,197
+Dignitas,16,Virtus.pro,4,cch,,510,72
+Natus Vincere,14,fnatic,16,d2,58.2,569,197
+Cloud9,12,Liquid,16,cch,61.6,85,510
+CLG,16,Conquest,12,d2,,85,510
+Liquid,16,Conquest,8,cch,66.9,510,510
+mousesports,16,fnatic,9,ovp,52.8,305,197
+mousesports,16,Virtus.pro,2,inf,48.8,305,72
+Titan,13,Virtus.pro,16,trn,,305,72
+NiP,8,mousesports,16,mrg,55.7,354,305
+CLG,10,Luminosity,16,cbl,,354,86
+Cloud9,16,Conquest,6,d2,64.6,85,86
+Cloud9,12,CLG,16,cch,61.6,85,86
+CLG,4,Luminosity,16,cch,,85,86
+Liquid,16,Luminosity,6,cbl,64,510,86
+CLG,16,Liquid,12,inf,,510,510
+NiP,16,Envy,9,cbl,57.8,354,510
+NiP,16,Dignitas,4,trn,68.3,354,510
+Envy,16,Natus Vincere,9,mrg,,354,569
+Virtus.pro,16,Titan,7,trn,52.1,72,569
+TSM,16,G2,6,d2,,72,67
+fnatic,13,Luminosity,16,inf,67.2,197,86
+Dignitas,14,CLG,16,cbl,,197,86
+Liquid,11,NiP,16,mrg,56.7,510,354
+FlipSid3,8,mousesports,16,ovp,,510,305
+Vexed,13,Cloud9,16,cbl,,510,85
+Natus Vincere,16,CLG,12,cbl,53.6,569,85
+Envy,16,Dignitas,6,cbl,,569,85
+NiP,13,Titan,16,cbl,57.8,354,85
+Virtus.pro,19,Liquid,15,cbl,57.3,72,510
+G2,16,mousesports,8,inf,50.8,67,305
+TSM,16,FlipSid3,6,cch,,67,305
+Luminosity,16,Cloud9,11,d2,56.5,86,85
+fnatic,16,Vexed,10,cbl,65.2,197,85
+mousesports,14,Envy,16,ovp,52.8,305,85
+mousesports,19,Natus Vincere,17,mrg,61.8,305,569
+HellRaisers,8,Natus Vincere,16,trn,49,161,569
+HellRaisers,16,Titan,5,cch,60,161,569
+Liquid,16,CLG,11,trn,56.1,510,569
+Cloud9,11,CLG,16,mrg,62.4,85,569
+TSM,16,Envy,9,inf,,85,569
+Virtus.pro,3,TSM,16,ovp,51,72,569
+NiP,17,Titan,19,d2,67.8,354,569
+fnatic,22,TSM,20,mrg,61.4,197,569
+Natus Vincere,16,NiP,11,ovp,64.3,569,354
+NiP,6,Natus Vincere,16,inf,60.3,354,569
+Liquid,16,Cloud9,12,cbl,64,510,85
+fnatic,16,HellRaisers,13,cbl,65.2,197,161
+G2,10,NiP,16,cch,55.9,67,354
+TSM,5,Virtus.pro,16,ovp,,67,72
+Envy,16,fnatic,6,trn,,67,197
+NiP,16,mousesports,8,cbl,57.8,354,305
+G2,16,Titan,11,d2,59.8,67,305
+Cloud9,6,Liquid,16,inf,53.4,85,510
+G2,12,fnatic,16,inf,50.8,67,197
+Titan,16,Envy,12,d2,,67,197
+G2,16,HellRaisers,10,cch,55.9,67,161
+Titan,13,Natus Vincere,16,trn,,67,569
+HellRaisers,8,fnatic,16,mrg,50,161,197
+TSM,13,Envy,16,mrg,,161,197
+Envy,14,NiP,16,d2,,161,354
+HellRaisers,11,Virtus.pro,16,ovp,55.6,161,72
+Virtus.pro,11,TSM,16,mrg,60,72,72
+Titan,16,fnatic,10,trn,,72,197
+Virtus.pro,16,fnatic,19,cch,52.2,72,197
+HellRaisers,9,Dignitas,16,mrg,50,161,197
+Dignitas,5,Natus Vincere,16,ovp,,161,569
+Dignitas,6,TSM,16,mrg,,161,569
+Virtus.pro,17,fnatic,19,trn,52.1,72,197
+Natus Vincere,16,TSM,19,cch,22.2,569,197
+NiP,12,Virtus.pro,16,inf,60.3,354,72
+Virtus.pro,5,Envy,16,d2,45.8,72,72
+Immunity,9,Renegades,16,cch,,72,105
+NiP,16,Dignitas,8,d2,67.8,354,105
+Dignitas,8,Envy,16,cch,,354,105
+Luminosity,9,Liquid,16,ovp,58.8,86,510
+Dignitas,16,mousesports,13,trn,,86,305
+Dignitas,9,fnatic,16,mrg,,86,197
+mousesports,13,TSM,16,d2,55,305,197
+Titan,13,TSM,16,cbl,,305,197
+Cloud9,16,Luminosity,7,ovp,57,85,86
+Cloud9,19,Liquid,17,d2,64.6,85,510
+NiP,10,Envy,16,mrg,55.7,354,510
+fnatic,5,Envy,16,cch,62.6,197,510
+TSM,13,NiP,16,d2,,197,354
+Natus Vincere,16,Envy,13,trn,64.8,569,354
+TSM,16,Titan,5,ovp,,569,354
+Titan,16,Natus Vincere,13,ovp,,569,569
+HellRaisers,16,fnatic,14,cch,60,161,197
+HellRaisers,16,Envy,14,cbl,56.2,161,197
+TSM,16,fnatic,3,d2,,161,197
+Envy,11,Titan,16,mrg,,161,197
+G2,10,Envy,16,d2,59.8,67,197
+mousesports,16,Titan,8,mrg,61.8,305,197
+G2,19,TSM,21,d2,59.8,67,197
+Titan,2,fnatic,16,ovp,,67,197
+mousesports,10,Titan,16,cch,60.5,305,197
+fnatic,3,Envy,16,trn,58,197,197
+Dignitas,22,Natus Vincere,19,inf,,197,569
+France,16,Poland,19,cbl,,197,569
+Dignitas,3,TSM,16,d2,,197,569
+HellRaisers,16,NiP,2,cbl,56.2,161,354
+Dignitas,19,mousesports,15,cbl,,161,305
+Titan,16,NiP,21,cbl,,161,354
+Envy,16,G2,13,trn,,161,67
+NiP,10,TSM,16,cbl,57.8,354,67
+fnatic,16,NiP,14,cbl,65.2,197,354
+Titan,5,TSM,16,ovp,,197,354
+Titan,16,fnatic,13,trn,,197,197
+TSM,16,HellRaisers,5,ovp,,197,161
+Cloud9,16,Luminosity,6,trn,67.6,85,86
+Dignitas,8,Envy,16,ovp,,85,86
+NiP,11,HellRaisers,16,cch,60.1,354,161

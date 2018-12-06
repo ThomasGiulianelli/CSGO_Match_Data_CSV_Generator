@@ -55,22 +55,25 @@ populateTeamStats = function(res,teamID) {
   	'ovp': null,
   	'inf': null,
   	'cch': null,
-  	'nuke': null 
+  	'nuke': null,
+  	'd2': null 
   };
   try { mapWinRates['mrg'] = res.mapStats.mrg.winRate; }
-  catch(err) { console.log("Team " + teamID + " mrg stat unavailable"); }
+  catch(err) { mapWinRates['mrg'] = ""; console.log("Team " + teamID + " mrg stat unavailable"); }
   try { mapWinRates['trn'] = res.mapStats.trn.winRate; }
-  catch(err) { console.log("Team " + teamID + " trn stat unavailable"); }
+  catch(err) { mapWinRates['trn'] = ""; console.log("Team " + teamID + " trn stat unavailable"); }
   try { mapWinRates['cbl'] = res.mapStats.cbl.winRate; }
-  catch(err) { console.log("Team " + teamID + " cbl stat unavailable"); }
+  catch(err) { mapWinRates['cbl'] = ""; console.log("Team " + teamID + " cbl stat unavailable"); }
   try { mapWinRates['ovp'] = res.mapStats.ovp.winRate; }
-  catch(err) { console.log("Team " + teamID + " ovp stat unavailable"); }
+  catch(err) { mapWinRates['ovp'] = ""; console.log("Team " + teamID + " ovp stat unavailable"); }
   try { mapWinRates['inf'] = res.mapStats.inf.winRate; }
-  catch(err) { console.log("Team " + teamID + " inf stat unavailable"); }
+  catch(err) { mapWinRates['inf'] = ""; console.log("Team " + teamID + " inf stat unavailable"); }
   try { mapWinRates['cch'] = res.mapStats.cch.winRate; }
-  catch(err) { console.log("Team " + teamID + " cch stat unavailable"); }
+  catch(err) { mapWinRates['cch'] = ""; console.log("Team " + teamID + " cch stat unavailable"); }
   try { mapWinRates['nuke'] = res.mapStats.nuke.winRate; }
-  catch(err) { console.log("Team " + teamID + " nuke stat unavailable"); }
+  catch(err) { mapWinRates['nuke'] = ""; console.log("Team " + teamID + " nuke stat unavailable"); }
+  try { mapWinRates['d2'] = res.mapStats.d2.winRate; }
+  catch(err) { mapWinRates['d2'] = ""; console.log("Team " + teamID + " d2 stat unavailable"); }
    	
   /* Add team: mapWinRates pair to teamStats */
   teamStats[teamID] = mapWinRates;
